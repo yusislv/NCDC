@@ -1,0 +1,19 @@
+[17-07-12 16:34:24]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-07-12 16:34:24]Connect with [10.52.4.134]......
+[17-07-12 16:34:24]报文长度:[000250]
+[17-07-12 16:34:24]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>511324199103202078</aaz010>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000712000000000210</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDCP</Project>
+</ap>
+]
+[17-07-12 16:34:24]sProject=[NCDCP]
+[17-07-12 16:34:24]应答报文:[000061<ap><RetCode>9984</RetCode><RetMsg>项目名未定义</RetMsg></ap>]
+[17-07-12 16:34:24]Disconnect from [10.52.4.134]

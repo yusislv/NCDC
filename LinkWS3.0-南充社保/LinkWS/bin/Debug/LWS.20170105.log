@@ -1,0 +1,485 @@
+[17-01-05 09:58:26]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 09:58:26]Connect with [10.52.4.134]......
+[17-01-05 09:58:26]报文长度:[000541]
+[17-01-05 09:58:26]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372421197205086823</aac002>
+					<aac003>田俊玲</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000042</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 09:58:26]sProject=[NCDC]
+[17-01-05 09:58:26]original key:[1111111133333333]
+[17-01-05 09:58:26]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 09:58:26]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000042</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 09:58:26]aaz400[511303]
+[17-01-05 09:58:26]tradeId[NC39002]
+[17-01-05 09:58:26]inputXml[<inputxml reqseq="22000105000000000042" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 09:58:26]加密inputXml[CP0gc29G4S37L5JVQIdd3mD/2EV7JUnmhnPNNurnqVvswfl09now6BtVEaOwjf76Jwujgaa40NJE
+6wexZbCPjIVVQIJfMkvk62kBmSQ8BAxGEag2+LggyxR9aVA0uAs5HV6YHBlKJzK9yU2TVHLs9jtO
+M3Vkb8j9OtctL5AdFowGZEvtne5XQ95E0v7gGE1sPVJt2zYu6OvHiEWtNNowr0XMqpuZ5/X2vCwA
+QZQKqVdZ8KKSU4Zd031dGxPthFCO6dMWRVGKPWH531KHXStpxgXXaQx95oe3GYiLvBDFh02a3fuU
+8+FUKaRWq5OFg1rb]
+[17-01-05 09:58:26]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPRJCfqRYeyyD4sDg
+pY/10OU3opvwab3F7jKLjKFbcJwMkgh6VCasI7GkqWa+db0rSKKolq18iyzFV0JfHnyl+xkc6DMl
+jalwsBZiW5tyDtKi3vCsv9dJ3hoS+L/zA8qworT79fqV/fGEUEi1Nkg43CHIecWZ0V1PoekoeQvP
+Xoih8BhOlmQYDy58qe3UsLUdCUPp6Z4AdLgUuv0zwcxTjtgNtND1LL3xMEWeD0tqs81H]
+[17-01-05 09:58:26]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-01-05 09:58:26]应答报文:[000473<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-01-05 09:58:26]Disconnect from [10.52.4.134]
+[17-01-05 09:58:32]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 09:58:32]Connect with [10.52.4.134]......
+[17-01-05 09:58:32]报文长度:[000541]
+[17-01-05 09:58:32]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372421197205086823</aac002>
+					<aac003>田俊玲</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000043</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 09:58:32]sProject=[NCDC]
+[17-01-05 09:58:32]original key:[1111111133333333]
+[17-01-05 09:58:32]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 09:58:32]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000043</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 09:58:32]aaz400[511303]
+[17-01-05 09:58:32]tradeId[NC39002]
+[17-01-05 09:58:32]inputXml[<inputxml reqseq="22000105000000000043" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 09:58:32]加密inputXml[BeeBh4fzjP1cestrQsz+pSRBcSVDzBdTQoR2vMwlT4e6E6C30TcYd7Je1nZz6FYH+k6d6gl8WhNW
+5uGEn7vnVux2RjdUdlvy08bgH1eoJg2Pnth5bwuv0FD3ETDYi5rJadJQ3QeJ81InxDC2to1wJ2xH
+iOdrVeKknODtAkKx94c0QeT1xTvoTufoj6b9IyVv5cC7wgS75awK6vjCMjko+q//k4wtPwp1oSBv
+HcdsrdbGtgY1cDWNJFGffVmhqFtkurgft3yYrfEBeH3qtV02eGaRUCp/1QMdLcU8fUvQ4u0=]
+[17-01-05 09:58:32]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPRJCfqRYeyyD4sDg
+pY/10OU3opvwab3F7jKLjKFbcJwMkgh6VCasI7GkqWa+db0rSKKolq18iyzFV0JfHnyl+xkc6DMl
+jalwsBZiW5tyDtKi3vCsv9dJ3hoS+L/zA8qworT79fqV/fGEUEi1Nkg43CHIecWZ0V1PoekoeQvP
+Xoih8BhOlmQYDy58qe3UsLUdCUPp6Z4AdLgUuv0zwcxTjtgNtND1LL3xMEWeD0tqs81H]
+[17-01-05 09:58:32]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-01-05 09:58:32]应答报文:[000473<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-01-05 09:58:32]Disconnect from [10.52.4.134]
+[17-01-05 10:03:58]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 10:03:58]Connect with [10.52.4.134]......
+[17-01-05 10:03:58]报文长度:[000541]
+[17-01-05 10:03:58]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372421197205086823</aac002>
+					<aac003>田俊玲</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000046</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 10:03:58]sProject=[NCDC]
+[17-01-05 10:03:58]original key:[1111111133333333]
+[17-01-05 10:03:58]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 10:03:58]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000046</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 10:03:58]aaz400[511303]
+[17-01-05 10:03:58]tradeId[NC39002]
+[17-01-05 10:03:58]inputXml[<inputxml reqseq="22000105000000000046" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 10:03:58]加密inputXml[BeeBh4fzjP1cestrQsz+pSRBcSVDzBdTQoR2vMwlT4e6E6C30TcYd7Je1nZz6FYH+k6d6gl8WhNW
+5uGEn7vnVux2RjdUdlvy08bgH1eoJg10c4RBFy1cmTCFhd8KaxjDAJCvSS840MI3LK+jD9HjV1uc
+WQWEkIajowIWrmgIKQjq4GCliQ1m+9WEnoCbePo3VavIxvmXMXG5Mcz/r+J3AXxEm68nJo/kY2Q9
+Fnj8pD7DsIrdjrRMjCtdG3aVmjTfSc+Nw2PNIa//mhOV1VQtleoIlEsn4/7RdB5CNqJMO+M=]
+[17-01-05 10:03:58]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbiY8cHWuZVni3V5OJf1qbw8Goiw7bV6cKuzuDgRpPsjH/3UeoW91Gy9dX
+x/7Ea3HPW5MkPUR/OOJEDnRBroyv5gOjF8JJHzoGmHkgT1rWWaL7eOVfXkMe7REnxpdMgMVV1lvz
+BN9TWcKXTAw/v1kLgbaxefDvqCI03J1DzA3Lr3yqjcKeaDn3KCXB1o0958R9lirxBDt5hpc8WSJZ
+wZRgl1qGwv7uQ9qmesI3Vsfl8OgNOpdRPT9CWlWESJ4kuTkbbGPWHAIs/Blni+yEYjlO/CIDpH8s
+QZqp6Qdsec0kfdNDPOtlvDFOohSUvjC1PHydRE5w+Dk10h3/MIrIKDQYMHfMqao/yE8NJN/jzB52
+9jkZm1Ebiihm8dWDIGmQEmtEKw==]
+[17-01-05 10:03:58]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132515</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372421197205086823缴费年度[2016]有误</aae013><aac003>田俊玲</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372421197205086823</aac002></row></rows></output></result>]
+[17-01-05 10:03:58]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132515</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372421197205086823缴费年度[2016]有误</aae013><aac003>田俊玲</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372421197205086823</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-05 10:03:58]Disconnect from [10.52.4.134]
+[17-01-05 10:04:04]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 10:04:04]Connect with [10.52.4.134]......
+[17-01-05 10:04:04]报文长度:[000541]
+[17-01-05 10:04:04]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372421197205086823</aac002>
+					<aac003>田俊玲</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000047</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 10:04:04]sProject=[NCDC]
+[17-01-05 10:04:04]original key:[1111111133333333]
+[17-01-05 10:04:04]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 10:04:04]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000047</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 10:04:04]aaz400[511303]
+[17-01-05 10:04:04]tradeId[NC39002]
+[17-01-05 10:04:04]inputXml[<inputxml reqseq="22000105000000000047" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372421197205086823</aac002><aac003>田俊玲</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 10:04:04]加密inputXml[BeeBh4fzjP1cestrQsz+pfBE3aUPbcolYqt3vwWmzK440kxQr1RpxHf3QqlLjvUhKDz3ObhAA0LA
+mONNtD2mUzI6tXpSpVf9b6+OQ0mjDz7nANz8+hn+O0EmTe5Rhn65iBFQI9xK6rMxmsHk8ZMJzboa
+3eHU9ydR8ByMZM1Xg9KiLa425bLFSLOWdZnzpAze84OZo5qeP3NrgyUs6Hh3YTM5Il+403IWuNh2
+VItH1z53vMnFvU8AfRvsAPWJf53jzOiwIeEWlkBjf5G0vkNJZGH7g1ubMi0EpBmDpVaZyhw=]
+[17-01-05 10:04:04]社保返回报文加密recvXml[DZmHmoVum1ZXbosYWUrey+lWwJ+RW5hGvmbdAvXvIpX8l9xu19KFIkT/L9wEErI7q60bfmghbWJb
+XL3Wumqzv1DWU7B0IXL5J7ykofL+f3kcJrLmt9NSQVpjMFGpVteqm9d0aZH0pBMJeIjMpURg0gSW
+AF2/PibOPYnLR+OcWXXz++9sNPIO2Lo02j1l/EchaJbiFFtxr5/i7ojPHcf/1I1rHrOeK9AKqgJB
+Jar39irsBy2Q6N7HDfnkveS5lEY5NnaI6998Nm8roUojhCK0UDBMCFZLz0mvTG42yV43/LnCAykK
+MA0QdrLiYQtH28fBtuWy5LV+ZedJllVPhkbrEy9SzdUvG5IFPhAg+9kJa4JMcaz86mgiJzOFnrpX
+l/jVNlWb6SY/ylSnSl9IBbh5jbgP45K7w0ydkyVZsKO2xvzavRHgjs+u8xelSXrJja2K]
+[17-01-05 10:04:04]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132516</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372421197205086823的参保身份[]参保类别[一般人员]不匹配</aae013><aac003>田俊玲</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372421197205086823</aac002></row></rows></output></result>]
+[17-01-05 10:04:04]应答报文:[000488<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132516</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372421197205086823的参保身份[]参保类别[一般人员]不匹配</aae013><aac003>田俊玲</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372421197205086823</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-05 10:04:04]Disconnect from [10.52.4.134]
+[17-01-05 10:04:55]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 10:04:55]Connect with [10.52.4.134]......
+[17-01-05 10:04:55]报文长度:[000541]
+[17-01-05 10:04:55]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372426194801150316</aac002>
+					<aac003>张维芝</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000048</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 10:04:55]sProject=[NCDC]
+[17-01-05 10:04:55]original key:[1111111133333333]
+[17-01-05 10:04:55]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 10:04:55]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372426194801150316</aac002><aac003>张维芝</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000048</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 10:04:55]aaz400[511303]
+[17-01-05 10:04:55]tradeId[NC39002]
+[17-01-05 10:04:55]inputXml[<inputxml reqseq="22000105000000000048" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372426194801150316</aac002><aac003>张维芝</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 10:04:55]加密inputXml[OeD5RzfkFqQKFhReYpbNuiwGbANwk2KwHJTLI+wluYiAOxWXMVvGvJv8fLajJgJ9g2M2fuGLPQAo
+7qex2CwFdCKbfqu2zmLd8u9fH7dnD60sBuFlbRNYvnIvG57lylgagqatCYYVeHOh+agJVKaqIBb4
+E0DK2w/bwrEkjnkUTwu7tRP9hAn8eUGIqxsEtONqH6+xBqHoisi0qgIv2DavzwVIqE47DGBDEAzS
+w0Q3uCSBZN9/hU2ziDKhuhjSssigX9buBmX9v2hRepKyo5OmpVyUKMDeMhLtihssRxJw8J8=]
+[17-01-05 10:04:55]社保返回报文加密recvXml[Mh/JRJ2oPF74xaGgLekE1GUCJ+nnvaH61oFJr3NlVHxMTCgoljlQhWNIF7fl/83qet1O+9lXysSa
+b32JINmTWwbhuSdabTW8wlGlanUft01KF5CP8i4hEZr14mDaAcfaXLfGrP9phuNPddQoeo6es9pM
+QsjeL/rmumkuZoVlFy++eMC9eAfpT/+O0QgZlzDZ/vL66HzeaVrY5W4U8UvyzkOIeXi5r1lv8bR7
+huxPpYZQgWrb6VBti4zTYO4KkJA6YM80bG8i6MXF2hjMEWg8uNsyLRZj2nK6wwbHQFLYCMENW2gc
+u++u99yjkrMDQBdAyjnsaOUohgQAF+usc4nPpRx+yZSTnF54ftdrvklYvtg1jnGV143lcyEfVlQX
+dzItWFJNc8DaY/kuhU9DeTCLDgVRQtR4oOn6/XTzwJ3v5F8odVyJtBl+qx9a19I4r16D]
+[17-01-05 10:04:55]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132517</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372426194801150316的参保身份[]参保类别[一般人员]不匹配</aae013><aac003>张维芝</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372426194801150316</aac002></row></rows></output></result>]
+[17-01-05 10:04:55]应答报文:[000488<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132517</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372426194801150316的参保身份[]参保类别[一般人员]不匹配</aae013><aac003>张维芝</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372426194801150316</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-05 10:04:55]Disconnect from [10.52.4.134]
+[17-01-05 10:05:28]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 10:05:28]Connect with [10.52.4.134]......
+[17-01-05 10:05:28]报文长度:[000541]
+[17-01-05 10:05:28]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372426195005240323</aac002>
+					<aac003>张洪军</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000049</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 10:05:28]sProject=[NCDC]
+[17-01-05 10:05:28]original key:[1111111133333333]
+[17-01-05 10:05:28]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 10:05:28]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372426195005240323</aac002><aac003>张洪军</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000049</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 10:05:28]aaz400[511303]
+[17-01-05 10:05:28]tradeId[NC39002]
+[17-01-05 10:05:28]inputXml[<inputxml reqseq="22000105000000000049" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372426195005240323</aac002><aac003>张洪军</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 10:05:28]加密inputXml[BeeBh4fzjP1cestrQsz+pZ4lsexMVdOtVgoBKgn0u/lLKE/RVTt0DlwefXOCbp9hMdsiF4nLHjpo
+gLb5yl0eoZ6PeHjZuxToSkzD4JEQ/soqyjyvyDzpVs60yAPzNqYy/pF4SdzF84THZEhN6+Wf9guH
+Cb/W0QvPG6ac3ZY9mmBF4d6FeIeBCt2Dm8xHvNbWZMU+h6kLw28QVgN0cMjj4b2ACER183WK6Oo7
+VlIr8Bxof7o2CxwkNm0gzB5ExvEF+IVNoNINYXg7Ovz0Kc8hJjV5QdPg+HcByY+cNs0yNgk=]
+[17-01-05 10:05:28]社保返回报文加密recvXml[U8AIWfzHuxkFEbKd7jKSpD5bUDWueyiUmp8KlXM9NgjfDxFyeC9e6KrElR8bNeqaScUYZwOJyuuK
+ckfofNYGH6QMS92JDzowjNMgIKRAbS8bE8dR9wQBQFgB+mBGzQA+kHofZWsEcu9YAdCH0P//6Jxe
+fHCQQn1Dgu3IRDaHkyjGUYWppNKhH2a8eOoTZzOs/g4C5Ylc/CTiE6UTMyEdSl+be3lvfUyPGHu8
+d5dFiFs8A8RfeNVOcgBcjE7bBhg2T6uEYm+O4fe/17wGIlkSGmK6EogsK0HoehtfAQ1pWuNeIxUW
+C3wWSUxysmGEkhFs69aZJ8tCYnEdLJRSYW6Fw1YUUW6gOaR21Ejzq5aEdZc67wExrYHS2LjC1veN
+XmC8k38GJlpdG01NbhTjEnXSwoCMIQom8+aVBCtSfvhUVZggstGm9pC3zBUCito89CGgthFgzfFL
+X07ixmpEXSMW47aKxtwpLfHdCj70iL+jwXM=]
+[17-01-05 10:05:28]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132518</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为张洪军身份证为372426195005240323的基础信息</aae013><aac003>张洪军</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372426195005240323</aac002></row></rows></output></result>]
+[17-01-05 10:05:28]应答报文:[000511<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132518</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为张洪军身份证为372426195005240323的基础信息</aae013><aac003>张洪军</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372426195005240323</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-05 10:05:28]Disconnect from [10.52.4.134]
+[17-01-05 10:06:10]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 10:06:10]Connect with [10.52.4.134]......
+[17-01-05 10:06:10]报文长度:[000541]
+[17-01-05 10:06:10]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372426197212280319</aac002>
+					<aac003>张洪军</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000050</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 10:06:10]sProject=[NCDC]
+[17-01-05 10:06:10]original key:[1111111133333333]
+[17-01-05 10:06:10]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 10:06:10]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372426197212280319</aac002><aac003>张洪军</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000050</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 10:06:10]aaz400[511303]
+[17-01-05 10:06:10]tradeId[NC39002]
+[17-01-05 10:06:10]inputXml[<inputxml reqseq="22000105000000000050" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372426197212280319</aac002><aac003>张洪军</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 10:06:10]加密inputXml[o4k/wcvHMXAAIgsfa/PcgBB/5kccvwM+s/3dLSEiuVN0/G+pZbrE4+YDjhOXWtkljHc/M1coXx8c
+PlBioM3JbiRcUE0m5YLovdApOW2excYlBj5p2/f9MHXrA+lC0OmwSIpkaVKUX2nTMCD6zk/+NCVq
+d5UgFs1zRp8jONrNwsMTPpa0LQUoL5Dt6a5vvQUngzA4w+0hmtdY7Ln8vByTm65TV5T9q2mSqCBw
+rnZ1Oz2PF9UA7SAhHoXao2QE7XGP+4y50yGVQFyPEJu30mdoiA3teD/pDh0eZhDob/dl6j7Reqh/
+YzZ56NcqpKgEHQC7]
+[17-01-05 10:06:10]社保返回报文加密recvXml[DZmHmoVum1ZXbosYWUreywguNiwhlDcJZlmZzDsHtoV6NYErPetiakZxjOv6GKT/JsEt7ftVhk3j
+icSos85pCfMiA9x5eQ+9Y8y6zFcQCUOapRFM1/TgWBzTHgYrE4oZWipjRFk70lR5zvlfOxz2uhfl
+2T8AQErNTih8McvG3Ntqu2w1d9n3YyYmblN91Ek1z2AmJlIcrEYHFYbcGYm4MXCaymYld1auEjiu
+sDJIRB+qWIA9NgAl1cqaP8iZFGukMKhGDJp7ak61avaDyQeAmyoXEJYhwqUZBOzAEF/PwiCDDb3v
+B9N0f836xeKTgEdHn6mrh9ReOY71wYafKIqrgnwFzZKSpRbNIEqu8OiFPyBY3fdiDTaN4UkkjEG1
+ys024l9pS6Pe4ycfDQ6vdka4C8k0e8DvnM13Z7/bjnEJY3G6OunJ5WZIViL86i4jrsyu]
+[17-01-05 10:06:10]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132519</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372426197212280319的参保身份[]参保类别[一般人员]不匹配</aae013><aac003>张洪军</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372426197212280319</aac002></row></rows></output></result>]
+[17-01-05 10:06:10]应答报文:[000488<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132519</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372426197212280319的参保身份[]参保类别[一般人员]不匹配</aae013><aac003>张洪军</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372426197212280319</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-05 10:06:10]Disconnect from [10.52.4.134]
+[17-01-05 10:06:35]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 10:06:35]Connect with [10.52.4.134]......
+[17-01-05 10:06:35]报文长度:[000541]
+[17-01-05 10:06:35]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170105</reqdate>
+		<reqseq>22000105000000000051</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 10:06:35]sProject=[NCDC]
+[17-01-05 10:06:35]original key:[1111111133333333]
+[17-01-05 10:06:35]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 10:06:35]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170105</reqdate><reqseq>22000105000000000051</reqseq><tradeId>NC39002</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-05 10:06:35]aaz400[511303]
+[17-01-05 10:06:35]tradeId[NC39002]
+[17-01-05 10:06:35]inputXml[<inputxml reqseq="22000105000000000051" reqdate="20170105"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-05 10:06:35]加密inputXml[oMJzqMk3bK8+SVgyJ/I4OofSFOXWg2EpMMWf17I+XG/y53ug6Pv8VNlH9KD6NWpUTermwFjVhLN9
+eCRlaYI8yNi0CT/7ZDOXg9MKek8tGoI7/TYm+FPO/1DPPzlC5KO5HxkKQL5KDqQl+bVFRwvgoKp7
+4m/e1MGuBVQWqD+5aim4LRJoSWJeQCgc32snKSCgxXo86gSaAcdYp/spMBnFhwlqfkiglFAhrLbe
+PR/VqmELZ6hl97y7De8ewrwb+tFafmVDZ8EIiKJFFLY0eGmde3iDJdiA8g+tV8V0C77TJ2wyJsOW
+R7wUs9lm4qSPFvli]
+[17-01-05 10:06:35]社保返回报文加密recvXml[/L/BY1hdWGIZ3ntyLV4TuSThvza1McBoCtRK/IT5vvVp1S0NpWK0fOXX6Zr/p8ci7jMMx9kHpK+t
+KsVGiDA0XE+fJrSztua4T+nGwjOhJEDzhKIb1zacWh2aneLBLP9+6B5Y7iXlRpSjagSXcRXth8KX
+UP9CQVfrsHAwXuOcDxzAPZfFBdFxFidzANRO3r6+ClOw8YCmJf3Lx6lygEMVFS4YyuYl/almJe/l
+dGR7e9GeXtYwWdazzmas74gvvrUAepslShO3GfelGgwez+elpuC+Hi7xLM6hDI3J+CIOYFUiFohD
+AR2UATqEJt97kWomhQiB74NcyCudgH6o64hIsMsEmH8el5U+AwYeVTw/NrQyJsOWR7wUs9lm4qSP
+Fvli]
+[17-01-05 10:06:35]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132520</aaz002><akb079>0</akb079><rows><row><aae013>2132494|103|C1010351007286</aae013><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>2</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-05 10:06:35]应答报文:[000452<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132520</aaz002><akb079>0</akb079><rows><row><aae013>2132494|103|C1010351007286</aae013><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>2</cljg><aaa027>511303</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-05 10:06:35]Disconnect from [10.52.4.134]
+[17-01-05 16:30:28]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 16:30:28]Connect with [10.52.4.134]......
+[17-01-05 16:30:28]报文长度:[000277]
+[17-01-05 16:30:28]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows></rows>
+			<aae011></aae011>
+			<aff002></aff002>
+			<aaa027></aaa027>
+		</inputxml>
+		<reqdate></reqdate>
+		<reqseq></reqseq>
+		<tradeId></tradeId>
+		<aaz400></aaz400>
+	</Para01>
+	<FuncName>yhcall</FuncName>
+	<Project>NCSB</Project>
+</ap>
+]
+[17-01-05 16:30:28]sProject=[NCSB]
+[17-01-05 16:30:31]XmlPara01[<Para01><inputxml><rows></rows><aae011></aae011><aff002></aff002><aaa027></aaa027></inputxml><reqdate></reqdate><reqseq></reqseq><tradeId></tradeId><aaz400></aaz400></Para01>]
+[17-01-05 16:30:31]Exception:[未将对象引用设置到对象的实例。]
+[17-01-05 16:30:31]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-01-05 16:30:31]Disconnect from [10.52.4.134]
+[17-01-05 18:45:23]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-05 18:45:23]Connect with [10.52.4.134]......
+[17-01-05 18:45:23]报文长度:[000458]
+[17-01-05 18:45:23]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<akb079>2132494</akb079>
+					<aae019sum>ikjf0013</aae019sum>
+					<aaz002>625334239</aaz002>
+				</row>
+			</rows>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate></reqdate>
+		<reqseq>22000105000000000166</reqseq>
+		<tradeId>NC39006</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-05 18:45:23]sProject=[NCDC]
+[17-01-05 18:45:23]original key:[1111111133333333]
+[17-01-05 18:45:23]new key:[iHO3ikVV8qq37H0N]
+[17-01-05 18:45:23]XmlPara01[<Para01><inputxml><rows><row><akb079>2132494</akb079><aae019sum>ikjf0013</aae019sum><aaz002>625334239</aaz002></row></rows><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate></reqdate><reqseq>22000105000000000166</reqseq><tradeId>NC39006</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-05 18:45:23]aaz400[511302]
+[17-01-05 18:45:23]tradeId[NC39006]
+[17-01-05 18:45:23]inputXml[<inputxml reqseq="22000105000000000166" reqdate=""><rows><row><akb079>2132494</akb079><aae019sum>ikjf0013</aae019sum><aaz002>625334239</aaz002></row></rows><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-05 18:45:23]加密inputXml[pupDIN+mLkraseweQNwYCnSl/TALn7ujaxHsq8p9yKe3Fn044dS1e2bb6UliYfVAKWc7+fIC0hn1
+slslSnfod9k9kDs9vQXOYehPe2fHDREjxRhHhXZlnIQsGhQHmeehDZ9tFsV3YkUApxdy/ZeESq6w
+x8ZsSz+QGD72489Hr1O7xWDoROxYZqSWQFhWFNxzxOefCkTe9smgK1PF+yYgdkuBLA46CL8QIJgV
+g2JuVlw=]
+[17-01-05 18:45:24]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIL/yXwucPykoYDTpvc/mzpDGtyu545vkCunoX7Fw1Uk4bymsPVGazXU3HUN5uCxtgtNQ
+evyccMFZkWeQpvyOa/t1xWV7Tko0lW9mVIIesxd9e6OzN5cLdjSYeEXlDrH2R/KGB5XXp3UjqNWP
+ONxlsBD3zH5eWv7hqCSZmwSLi4mc]
+[17-01-05 18:45:24]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：39006，系统出错：ORA-01722: 无效数字,错误行数:ORA-06512: 在 "NCJB.PKG_P_BANKINTERFACE", line 3247
+</message></result>]
+[17-01-05 18:45:24]应答报文:[000250<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：39006，系统出错：ORA-01722: 无效数字,错误行数:ORA-06512: 在 "NCJB.PKG_P_BANKINTERFACE", line 3247
+</message></result></RetInfo01></ap>]
+[17-01-05 18:45:24]Disconnect from [10.52.4.134]

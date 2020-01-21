@@ -1,0 +1,100 @@
+[16-12-01 17:06:41]WriteLog start...
+[16-12-01 17:06:41]System(3.0.1) init is completed......
+[16-12-01 17:06:42]Begin to listen[8901][20]......
+[16-12-01 17:06:42]线程池最大线程[1000]最小线程[5]
+[16-12-01 17:09:07]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-01 17:09:07]Connect with [10.52.4.134]......
+[16-12-01 17:09:07]报文长度:[000404]
+[16-12-01 17:09:07]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103200278</aac002>
+			<aac003>test1</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161201</reqdate>
+		<reqseq>22001201000000000062</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-01 17:09:07]sProject=[NCDC]
+[16-12-01 17:09:07]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103200278</aac002><aac003>test1</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161201</reqdate><reqseq>22001201000000000062</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-12-01 17:09:07]aaz400[511399]
+[16-12-01 17:09:07]tradeId[NC39001]
+[16-12-01 17:09:07]inputXml[<inputxml reqseq="22001201000000000062" reqdate="20161201"><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103200278</aac002><aac003>test1</aac003><aaa027>511399</aaa027></inputxml>]
+[16-12-01 17:09:07]err=[未将对象引用设置到对象的实例。]
+[16-12-01 17:09:07]应答报文:[000079<ap><RetCode>9989</RetCode><RetMsg>ftp错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-01 17:09:07]Disconnect from [10.52.4.134]
+[16-12-01 17:09:21]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-01 17:09:21]Connect with [10.52.4.134]......
+[16-12-01 17:09:21]报文长度:[000404]
+[16-12-01 17:09:21]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103200278</aac002>
+			<aac003>test1</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161201</reqdate>
+		<reqseq>22001201000000000063</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-01 17:09:21]sProject=[NCDC]
+[16-12-01 17:09:21]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103200278</aac002><aac003>test1</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161201</reqdate><reqseq>22001201000000000063</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-12-01 17:09:21]aaz400[511399]
+[16-12-01 17:09:21]tradeId[NC39001]
+[16-12-01 17:09:21]inputXml[<inputxml reqseq="22001201000000000063" reqdate="20161201"><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103200278</aac002><aac003>test1</aac003><aaa027>511399</aaa027></inputxml>]
+[16-12-01 17:09:21]err=[未将对象引用设置到对象的实例。]
+[16-12-01 17:09:21]应答报文:[000079<ap><RetCode>9989</RetCode><RetMsg>ftp错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-01 17:09:21]Disconnect from [10.52.4.134]
+[16-12-01 17:20:00]WriteLog start...
+[16-12-01 17:20:00]System(3.0.1) init is completed......
+[16-12-01 17:20:01]Begin to listen[8901][20]......
+[16-12-01 17:20:01]线程池最大线程[1000]最小线程[5]
+[16-12-01 17:20:12]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-01 17:20:12]Connect with [10.52.4.134]......
+[16-12-01 17:20:12]报文长度:[000404]
+[16-12-01 17:20:12]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103200278</aac002>
+			<aac003>test1</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161201</reqdate>
+		<reqseq>22001201000000000066</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-01 17:20:12]sProject=[NCDC]
+[16-12-01 17:20:14]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103200278</aac002><aac003>test1</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161201</reqdate><reqseq>22001201000000000066</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-12-01 17:20:14]aaz400[511399]
+[16-12-01 17:20:14]tradeId[NC39001]
+[16-12-01 17:20:14]inputXml[<inputxml reqseq="22001201000000000066" reqdate="20161201"><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103200278</aac002><aac003>test1</aac003><aaa027>511399</aaa027></inputxml>]
+[16-12-01 17:20:15]加密xml[v7VJ360ZXC/M1fDlS8HVXp7F++2bBycAAEquiXFVNWWpMDfiE0rVYnEX2I4t90bRDEBrEWwB/bVo
+CSklZwwOdpIVJN4KZrgV/ew60ESFndesDqeBNK0x6T8KGrt+6y8hl7WARkbe4HEXxzY8Bk6AT4bE
+yMVxV7U6TfOl1B1rtntZd4y6f0xzJU+PGYf4pbRP]
+[16-12-01 17:20:15]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-12-01 17:20:15]Disconnect from [10.52.4.134]

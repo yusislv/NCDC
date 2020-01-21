@@ -1,0 +1,316 @@
+[16-12-06 16:15:57]WriteLog start...
+[16-12-06 16:15:57]System(3.0.1) init is completed......
+[16-12-06 16:15:58]Begin to listen[8901][20]......
+[16-12-06 16:15:58]线程池最大线程[1000]最小线程[5]
+[16-12-06 16:16:48]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:16:48]Connect with [10.52.4.134]......
+[16-12-06 16:16:48]报文长度:[000209]
+[16-12-06 16:16:48]报文内容:[<ap>
+	<Para01>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000211</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:16:48]sProject=[NCDC]
+[16-12-06 16:16:51]XmlPara01[<Para01><reqdate>20161206</reqdate><reqseq>22001206000000000211</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:16:51]Exception:[未将对象引用设置到对象的实例。]
+[16-12-06 16:16:51]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 16:16:51]Disconnect from [10.52.4.134]
+[16-12-06 16:28:59]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:28:59]Connect with [10.52.4.134]......
+[16-12-06 16:28:59]报文长度:[000209]
+[16-12-06 16:28:59]报文内容:[<ap>
+	<Para01>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000212</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:28:59]sProject=[NCDC]
+[16-12-06 16:28:59]XmlPara01[<Para01><reqdate>20161206</reqdate><reqseq>22001206000000000212</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:28:59]Exception:[未将对象引用设置到对象的实例。]
+[16-12-06 16:28:59]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 16:28:59]Disconnect from [10.52.4.134]
+[16-12-06 16:31:59]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:31:59]Connect with [10.52.4.134]......
+[16-12-06 16:31:59]报文长度:[000209]
+[16-12-06 16:31:59]报文内容:[<ap>
+	<Para01>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000213</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:31:59]sProject=[NCDC]
+[16-12-06 16:31:59]XmlPara01[<Para01><reqdate>20161206</reqdate><reqseq>22001206000000000213</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:31:59]Exception:[未将对象引用设置到对象的实例。]
+[16-12-06 16:31:59]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 16:31:59]Disconnect from [10.52.4.134]
+[16-12-06 16:37:24]WriteLog start...
+[16-12-06 16:37:24]System(3.0.1) init is completed......
+[16-12-06 16:37:25]Begin to listen[8901][20]......
+[16-12-06 16:37:25]线程池最大线程[1000]最小线程[5]
+[16-12-06 16:37:58]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:37:58]Connect with [10.52.4.134]......
+[16-12-06 16:37:58]报文长度:[000209]
+[16-12-06 16:37:58]报文内容:[<ap>
+	<Para01>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000214</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:37:58]sProject=[NCDC]
+[16-12-06 16:38:00]XmlPara01[<Para01><reqdate>20161206</reqdate><reqseq>22001206000000000214</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:38:50]Exception:[未将对象引用设置到对象的实例。]
+[16-12-06 16:38:51]应答报文:[000087<ap><RetCode>9996</RetCode><RetMsg>XML报文结构异常</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 16:38:51]Disconnect from [10.52.4.134]
+[16-12-06 16:40:01]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:40:01]Connect with [10.52.4.134]......
+[16-12-06 16:40:01]报文长度:[000209]
+[16-12-06 16:40:01]报文内容:[<ap>
+	<Para01>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000217</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:40:01]sProject=[NCDC]
+[16-12-06 16:40:01]XmlPara01[<Para01><reqdate>20161206</reqdate><reqseq>22001206000000000217</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:40:01]Exception:[未将对象引用设置到对象的实例。]
+[16-12-06 16:40:01]应答报文:[000087<ap><RetCode>9996</RetCode><RetMsg>XML报文结构异常</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 16:40:01]Disconnect from [10.52.4.134]
+[16-12-06 16:45:46]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:45:46]Connect with [10.52.4.134]......
+[16-12-06 16:45:46]报文长度:[000233]
+[16-12-06 16:45:46]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000219</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:45:46]sProject=[NCDC]
+[16-12-06 16:45:46]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000219</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:46:27]newKey[3333333311111111]
+[16-12-06 16:46:27]应答报文:[000194<ap><RetCode></RetCode><RetMsg>未知错误码</RetMsg><RetInfo01><result><code>1</code><message>成功</message><newkey>3333333311111111</newkey><sysdt>20161206161433</sysdt></result></RetInfo01></ap>]
+[16-12-06 16:46:27]Disconnect from [10.52.4.134]
+[16-12-06 16:47:01]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:47:01]Connect with [10.52.4.134]......
+[16-12-06 16:47:01]报文长度:[000233]
+[16-12-06 16:47:01]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000220</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:47:01]sProject=[NCDC]
+[16-12-06 16:47:01]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000220</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:47:01]newKey[3333333311111111]
+[16-12-06 16:47:01]应答报文:[000194<ap><RetCode></RetCode><RetMsg>未知错误码</RetMsg><RetInfo01><result><code>1</code><message>成功</message><newkey>3333333311111111</newkey><sysdt>20161206161433</sysdt></result></RetInfo01></ap>]
+[16-12-06 16:47:01]Disconnect from [10.52.4.134]
+[16-12-06 16:50:53]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:50:53]Connect with [10.52.4.134]......
+[16-12-06 16:50:53]报文长度:[000233]
+[16-12-06 16:50:53]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000224</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:50:53]sProject=[NCDC]
+[16-12-06 16:50:56]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000224</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:50:56]newKey[3333333311111111]
+[16-12-06 16:56:34]应答报文:[000194<ap><RetCode></RetCode><RetMsg>未知错误码</RetMsg><RetInfo01><result><code>1</code><message>成功</message><newkey>3333333311111111</newkey><sysdt>20161206161433</sysdt></result></RetInfo01></ap>]
+[16-12-06 16:56:34]Disconnect from [10.52.4.134]
+[16-12-06 16:58:20]WriteLog start...
+[16-12-06 16:58:20]System(3.0.1) init is completed......
+[16-12-06 16:58:22]Begin to listen[8901][20]......
+[16-12-06 16:58:22]线程池最大线程[1000]最小线程[5]
+[16-12-06 16:58:27]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:58:27]Connect with [10.52.4.134]......
+[16-12-06 16:58:27]报文长度:[000233]
+[16-12-06 16:58:27]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000230</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:58:27]sProject=[NCDC]
+[16-12-06 16:58:29]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000230</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:58:29]newKey[3333333311111111]
+[16-12-06 16:58:29]应答报文:[000196<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message>成功</message><newkey>3333333311111111</newkey><sysdt>20161206161433</sysdt></result></RetInfo01></ap>]
+[16-12-06 16:58:29]Disconnect from [10.52.4.134]
+[16-12-06 16:59:03]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 16:59:03]Connect with [10.52.4.134]......
+[16-12-06 16:59:03]报文长度:[000233]
+[16-12-06 16:59:03]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000231</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 16:59:03]sProject=[NCDC]
+[16-12-06 16:59:03]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000231</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 16:59:03]newKey[3333333311111111]
+[16-12-06 16:59:03]应答报文:[000196<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message>成功</message><newkey>3333333311111111</newkey><sysdt>20161206161433</sysdt></result></RetInfo01></ap>]
+[16-12-06 16:59:03]Disconnect from [10.52.4.134]
+[16-12-06 17:01:45]WriteLog start...
+[16-12-06 17:01:45]System(3.0.1) init is completed......
+[16-12-06 17:01:46]Begin to listen[8901][20]......
+[16-12-06 17:01:46]线程池最大线程[1000]最小线程[5]
+[16-12-06 17:01:49]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 17:01:49]Connect with [10.52.4.134]......
+[16-12-06 17:01:49]报文长度:[000233]
+[16-12-06 17:01:49]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000233</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 17:01:49]sProject=[NCDC]
+[16-12-06 17:01:51]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000233</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 17:01:52]签到返回加密[<result><code>-1</code><message>For input string: "LinkWS.INIClass"</message></result>]
+[16-12-06 17:01:52]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-06 17:01:52]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 17:01:52]Disconnect from [10.52.4.134]
+[16-12-06 17:09:07]WriteLog start...
+[16-12-06 17:09:07]System(3.0.1) init is completed......
+[16-12-06 17:09:08]Begin to listen[8901][20]......
+[16-12-06 17:09:09]线程池最大线程[1000]最小线程[5]
+[16-12-06 17:09:14]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 17:09:14]Connect with [10.52.4.134]......
+[16-12-06 17:09:14]报文长度:[000233]
+[16-12-06 17:09:14]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000239</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 17:09:14]sProject=[NCDC]
+[16-12-06 17:09:15]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000239</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 17:09:15]aaz400[511300]
+[16-12-06 17:09:15]tradeId[T0102]
+[16-12-06 17:09:15]inputXml[<inputxml reqseq="22001206000000000239" reqdate="20161206"></inputxml>]
+[16-12-06 17:09:15]inikey:[1111111133333333]
+[16-12-06 17:09:15]newKey[3333333311111111]
+[16-12-06 17:09:15]应答报文:[000196<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message>成功</message><newkey>3333333311111111</newkey><sysdt>20161206161433</sysdt></result></RetInfo01></ap>]
+[16-12-06 17:09:15]Disconnect from [10.52.4.134]
+[16-12-06 17:15:39]WriteLog start...
+[16-12-06 17:15:39]System(3.0.1) init is completed......
+[16-12-06 17:15:40]Begin to listen[8901][20]......
+[16-12-06 17:15:40]线程池最大线程[1000]最小线程[5]
+[16-12-06 17:15:44]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 17:15:44]Connect with [10.52.4.134]......
+[16-12-06 17:15:44]报文长度:[000233]
+[16-12-06 17:15:44]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000242</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 17:15:44]sProject=[NCDC]
+[16-12-06 17:15:46]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000242</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 17:15:46]aaz400[511300]
+[16-12-06 17:15:46]tradeId[T0102]
+[16-12-06 17:15:46]inputXml[<inputxml reqseq="22001206000000000242" reqdate="20161206"></inputxml>]
+[16-12-06 17:15:46]inikey:[3333333311111111]
+[16-12-06 17:15:46]签到返回加密[MizJ91So5AZa1LhQYStlb3118dXdaba6kxvh5zN+DcZWKC12tBab+aOnZzkUw/aommzr8ehJMCMI
+TBbjQoespIj/2p3IUJqR4HYMIeuc7ng41YZgUqoDGJFHSpNqT+iKZjRnwibhbWNtwdW4TPlv6sYU
+hLr8VjrMPBTSK5U4mRztx0RnP8S5MpKsVfF/MaID]
+[16-12-06 17:15:47]err=[失败:Given final block not properly padded]
+[16-12-06 17:15:47]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-06 17:15:47]Disconnect from [10.52.4.134]
+[16-12-06 17:17:17]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-06 17:17:17]Connect with [10.52.4.134]......
+[16-12-06 17:17:17]报文长度:[000233]
+[16-12-06 17:17:17]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161206</reqdate>
+		<reqseq>22001206000000000243</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-06 17:17:17]sProject=[NCDC]
+[16-12-06 17:17:17]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161206</reqdate><reqseq>22001206000000000243</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-06 17:17:17]aaz400[511300]
+[16-12-06 17:17:17]tradeId[T0102]
+[16-12-06 17:17:17]inputXml[<inputxml reqseq="22001206000000000243" reqdate="20161206"></inputxml>]
+[16-12-06 17:17:17]inikey:[1111111133333333]
+[16-12-06 17:17:18]签到返回加密[MizJ91So5AZa1LhQYStlb3118dXdaba6kxvh5zN+DcZsmwLf1t6zytJ4sRIjGxYgrfd3gdabaAH0
+ab8gGCwBb24VqqIZALJwP4vrwobW9pS6i+BDRvWV+ipsF/wvR5bT2IinOhPFHgLE/iZyA6egSEaa
+darsoXMbiRUwu93V9I4=]
+[16-12-06 17:17:18]签到返回解密[<result><code>100</code><message>瑙ｆ瀽杈撳叆鐨剎ml寮傚父锛岃纭杈撳叆鐨剎ml鏄惁浼犲叆aaz400</message></result>]

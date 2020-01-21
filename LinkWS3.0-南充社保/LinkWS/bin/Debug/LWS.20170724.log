@@ -1,0 +1,145 @@
+[17-07-24 14:45:33]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-07-24 14:45:33]Connect with [10.52.4.134]......
+[17-07-24 14:45:33]报文长度:[000242]
+[17-07-24 14:45:33]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>1111111111</aaz010>
+		</inputxml>
+		<reqdate>20170724</reqdate>
+		<reqseq>22000724000000000115</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDCP</Project>
+</ap>
+]
+[17-07-24 14:45:33]sProject=[NCDCP]
+[17-07-24 14:45:33]应答报文:[000061<ap><RetCode>9984</RetCode><RetMsg>项目名未定义</RetMsg></ap>]
+[17-07-24 14:45:33]Disconnect from [10.52.4.134]
+[17-07-24 15:04:37]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-07-24 15:04:37]Connect with [10.52.4.134]......
+[17-07-24 15:04:37]报文长度:[000249]
+[17-07-24 15:04:37]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>511324199103202078</aaz010>
+		</inputxml>
+		<reqdate>20170724</reqdate>
+		<reqseq>22000724000000000117</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-07-24 15:04:37]sProject=[NCDC]
+[17-07-24 15:04:37]original key:[1111111133333333]
+[17-07-24 15:04:37]new key:[iHO3ikVV8qq37H0N]
+[17-07-24 15:04:37]XmlPara01[<Para01><inputxml><aaz010>511324199103202078</aaz010></inputxml><reqdate>20170724</reqdate><reqseq>22000724000000000117</reqseq><tradeId>ZS001</tradeId></Para01>]
+[17-07-24 15:04:38]Exception:[未将对象引用设置到对象的实例。]
+[17-07-24 15:04:38]应答报文:[000087<ap><RetCode>9996</RetCode><RetMsg>XML报文结构异常</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-07-24 15:04:38]Disconnect from [10.52.4.134]
+[17-07-24 15:50:07]WriteLog start...
+[17-07-24 15:50:07]System(3.0.1) init is completed......
+[17-07-24 15:51:39]WriteLog start...
+[17-07-24 15:51:39]System(3.0.1) init is completed......
+[17-07-24 15:52:58]WriteLog start...
+[17-07-24 15:52:58]System(3.0.1) init is completed......
+[17-07-24 15:52:59]Begin to listen[8901][20]......
+[17-07-24 15:52:59]线程池最大线程[1000]最小线程[5]
+[17-07-24 15:53:10]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-07-24 15:53:10]Connect with [10.52.4.134]......
+[17-07-24 15:53:10]报文长度:[000249]
+[17-07-24 15:53:10]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>511324199103202078</aaz010>
+		</inputxml>
+		<reqdate>20170724</reqdate>
+		<reqseq>22000724000000000120</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-07-24 15:53:10]sProject=[NCDC]
+[17-07-24 15:53:10]original key:[1111111133333333]
+[17-07-24 15:53:10]new key:[iHO3ikVV8qq37H0N]
+[17-07-24 15:53:13]XmlPara01[<Para01><inputxml><aaz010>511324199103202078</aaz010></inputxml><reqdate>20170724</reqdate><reqseq>22000724000000000120</reqseq><tradeId>ZS001</tradeId></Para01>]
+[17-07-24 15:53:13]tradeId[ZS001]
+[17-07-24 15:53:13]inputXml[<inputxml reqseq="22000724000000000120" reqdate="20170724"><aaz010>511324199103202078</aaz010></inputxml>]
+[17-07-24 15:53:13]加密inputXml[X0QgMrRqdAiEVut3jVW7v4JsxG2qnbX0UVlNeN0Xxup6eAg2jZOx3GVkWi25nbVEtuAcRoPT0SZp
+M/DtbI6LZxAvUUM+xaLELiYTt2mPmCEBGRfhSJzBefs8ajEYcEKf0kohFph8BVI1tIcGRSyN5g==]
+[17-07-24 15:53:34]err=[无法连接到远程服务器]
+[17-07-24 15:53:35]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-07-24 15:53:35]Disconnect from [10.52.4.134]
+[17-07-24 16:14:11]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-07-24 16:14:11]Connect with [10.52.4.134]......
+[17-07-24 16:14:11]报文长度:[000249]
+[17-07-24 16:14:11]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>511324199103202078</aaz010>
+		</inputxml>
+		<reqdate>20170724</reqdate>
+		<reqseq>22000724000000000128</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-07-24 16:14:11]sProject=[NCDC]
+[17-07-24 16:14:11]original key:[1111111133333333]
+[17-07-24 16:14:11]new key:[iHO3ikVV8qq37H0N]
+[17-07-24 16:14:11]XmlPara01[<Para01><inputxml><aaz010>511324199103202078</aaz010></inputxml><reqdate>20170724</reqdate><reqseq>22000724000000000128</reqseq><tradeId>ZS001</tradeId></Para01>]
+[17-07-24 16:14:11]tradeId[ZS001]
+[17-07-24 16:14:11]inputXml[<inputxml reqseq="22000724000000000128" reqdate="20170724"><aaz010>511324199103202078</aaz010></inputxml>]
+[17-07-24 16:14:11]加密inputXml[X0QgMrRqdAiEVut3jVW7v3sqaBxH+hrA5KDdHC1qGbN6eAg2jZOx3GVkWi25nbVEfHFsgdhaqNI0
+djb57jaHoCgC4NbFL05vAuWrBuEcIsyKUBmCrWkPKZYR0xAwbZ7y0kohFph8BVI1tIcGRSyN5g==]
+[17-07-24 16:14:32]err=[无法连接到远程服务器]
+[17-07-24 16:14:32]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-07-24 16:14:32]Disconnect from [10.52.4.134]
+[17-07-24 16:44:16]WriteLog start...
+[17-07-24 16:44:16]System(3.0.1) init is completed......
+[17-07-24 16:44:44]WriteLog start...
+[17-07-24 16:44:44]System(3.0.1) init is completed......
+[17-07-24 16:44:45]Begin to listen[8901][20]......
+[17-07-24 16:44:45]线程池最大线程[1000]最小线程[5]
+[17-07-24 16:44:52]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-07-24 16:44:52]Connect with [10.52.4.134]......
+[17-07-24 16:44:52]报文长度:[000249]
+[17-07-24 16:44:52]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>511324199103202078</aaz010>
+		</inputxml>
+		<reqdate>20170724</reqdate>
+		<reqseq>22000724000000000133</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-07-24 16:44:52]sProject=[NCDC]
+[17-07-24 16:44:52]original key:[1111111133333333]
+[17-07-24 16:44:52]new key:[iHO3ikVV8qq37H0N]
+[17-07-24 16:44:54]XmlPara01[<Para01><inputxml><aaz010>511324199103202078</aaz010></inputxml><reqdate>20170724</reqdate><reqseq>22000724000000000133</reqseq><tradeId>ZS001</tradeId></Para01>]
+[17-07-24 16:44:54]tradeId[ZS001]
+[17-07-24 16:44:54]inputXml[<inputxml reqseq="22000724000000000133" reqdate="20170724"><aaz010>511324199103202078</aaz010></inputxml>]
+[17-07-24 16:44:54]加密inputXml[X0QgMrRqdAiEVut3jVW7v4JsxG2qnbX0UVlNeN0Xxup6eAg2jZOx3GVkWi25nbVEzlDQoDOAKML+
+XeqQGh60BApxAXOjp43aTUFGa7LzjzzBPjthxxpY9a/eEEJi1uSO0kohFph8BVI1tIcGRSyN5g==]
+[17-07-24 16:44:54]err=[请求失败，错误信息为:
+--
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://10.49.21.206:7005/ysptsz/login.jsp;jsessionid=tMP5Z1zMJ0lZDx80DnmTptQrvK1xzqnMQdky47HXThKBjVwy1vVv!1737590465">http://10.49.21.206:7005/ysptsz/login.jsp;jsessionid=tMP5Z1zMJ0lZDx80DnmTptQrvK1xzqnMQdky47HXThKBjVwy1vVv!1737590465</a>.</p>
+</body></html>
+
+--.]
+[17-07-24 16:44:55]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-07-24 16:44:55]Disconnect from [10.52.4.134]

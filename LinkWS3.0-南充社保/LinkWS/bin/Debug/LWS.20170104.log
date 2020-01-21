@@ -1,0 +1,1480 @@
+[17-01-04 10:30:29]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:30:29]Connect with [10.52.4.134]......
+[17-01-04 10:30:29]报文长度:[000427]
+[17-01-04 10:30:29]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>123</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000040</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:30:29]sProject=[NCDC]
+[17-01-04 10:30:29]original key:[1111111133333333]
+[17-01-04 10:30:29]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:30:29]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>123</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000040</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:30:29]aaz400[511302]
+[17-01-04 10:30:29]tradeId[NC39001]
+[17-01-04 10:30:29]inputXml[<inputxml reqseq="22000104000000000040" reqdate="20170104"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>123</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:30:29]加密inputXml[c1rK/BeniNRqJ1Dbh6oPNdjLHRmjbc/A9g38UF7BfZkuVftzhZ1taTEV/0/2oh/ZTpjitZ5my2qY
+CcqQnP4VELM+GP3+pYvtqcK+JiVpTDA7XnPycmqtTdfJzYACAIEEoiOOoDmBe9gcydqJ6wYaFl55
+h3RTRJCf2g4VavYFEddo40DJu3AHTvH1/aLzBllr8ZwTGZ8IJGt16brZ1WOTzA==]
+[17-01-04 10:30:31]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[17-01-04 10:30:31]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[17-01-04 10:30:31]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[17-01-04 10:30:31]Disconnect from [10.52.4.134]
+[17-01-04 10:36:09]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:36:09]Connect with [10.52.4.134]......
+[17-01-04 10:36:09]报文长度:[000563]
+[17-01-04 10:36:09]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>371427198210131627</aac002>
+					<aac003>孙川英</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000041</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:36:09]sProject=[NCDC]
+[17-01-04 10:36:09]original key:[1111111133333333]
+[17-01-04 10:36:09]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:36:09]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000041</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:36:09]aaz400[511302]
+[17-01-04 10:36:09]tradeId[NC39002]
+[17-01-04 10:36:09]inputXml[<inputxml reqseq="22000104000000000041" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:36:09]加密inputXml[jrcvnmh4XC7vMbf2YoVeKWCqwxHPlfrawF1puT8yrpMFfFD11a5Ok0xYoo5TUL4fq1Rq5LNXGBmI
+DGY4y/3spxh+u7CPqmX0jyFifMGz3XAnjKaOVfuW87TS1DLhT8oi7p73LFEKG7FJKYeA7lcUXjrs
+XX9bKdX0lBRhMaAqY997vl6IW/kS7VtW476ml3RPHmW6rWaMA127lgtG11v3ywQekG9zpodqMowv
+Djt4r19cEoU2zq5elqURRb9tD/kHCUmdKVD8ve9mIwpWjteDMB0vy7nQeQnVJQaKurP2lLiVBf5V
+u2X5XkcAUoDXtRT5tMeiMMWa24rtctQaU1Fs0prd+5Tz4VQppFark4WDWts=]
+[17-01-04 10:36:09]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbiVFxZjJzHmEWSGNJVVqAggILMhl1wJUVgyd6QkBZXr0d9y5dByoRIP4H
+RghpY4vkXxOqYDedrXXhJ0wbpCguGKgfvbh5kO7FTcDi0w16MP14xpApvF/FYjrgX4EbfhfSMW4M
+lS0rRPinmmvhdJtnbQWYhrO0p0nKa+gEERZKqa9/QkmkVBc9HFubnAUgEwuy22VNd3NCizRhP6Wj
+33JmqKcw0in6/c/uK7Ckcz0FZXuILuG/+scHw6SVzs7AtT9UJ4kSKvD4fKCy9vZinYNvhdbg+A2O
+lpNKdo8U/SHYn7u/ujrCaXNFPveoBhoZTppzwfhBtvHzj/i9fV+FSPk+RZmyCM8HauWnP69Ui2BK
+2yxx0o9BYKwgWYLcYoNfhAZrJg==]
+[17-01-04 10:36:09]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132389</aaz002><akb079>0</akb079><rows><row><aae013>身份证为371427198210131627缴费年度[2016]有误</aae013><aac003>孙川英</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result>]
+[17-01-04 10:36:09]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132389</aaz002><akb079>0</akb079><rows><row><aae013>身份证为371427198210131627缴费年度[2016]有误</aae013><aac003>孙川英</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:36:09]Disconnect from [10.52.4.134]
+[17-01-04 10:40:01]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:40:01]Connect with [10.52.4.134]......
+[17-01-04 10:40:01]报文长度:[000563]
+[17-01-04 10:40:01]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>371427198210131627</aac002>
+					<aac003>孙川英</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000042</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:40:01]sProject=[NCDC]
+[17-01-04 10:40:01]original key:[1111111133333333]
+[17-01-04 10:40:01]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:40:01]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000042</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:40:01]aaz400[511302]
+[17-01-04 10:40:01]tradeId[NC39002]
+[17-01-04 10:40:01]inputXml[<inputxml reqseq="22000104000000000042" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:40:01]加密inputXml[z9pRjNpsGjwLQGaETUE7RxnCLX9EuVenDt8QHw+Uo2e01w5aKkCOmz1B7e0cev97+bTrNzRKDu+3
+fLUr1PVfTX7oMLZY5ZOmpsRKqX0gHNnY5S5EM0mb8t+6ySwIWL1Em2K4d+csRdHOdjLh6SU8TEr1
+Alm72J6njWGcm0uRocyI0Dzg7D7Hs0hKYjD4vkll5RcmSXRvQQtE8R+dauFZKI8vPTzOMemEEPdl
+vR7xMTrVZzpeGru+6SBdULd1PbVOBF5hJ60edtbChIb8dtYP+SpC1OiKyFIa32oMlTmRMQ5mLUTK
+YL8LB8MmsWWw8YQVtpJTUyhSPnM2iR2F5KFprw==]
+[17-01-04 10:40:01]社保返回报文加密recvXml[pOHf+3BghiQjWoWvfidKooB0uyxjOZx5rQtQPRut1nJlvYOirYL8ZT/o6AlL1tB76kjXFLscINE0
+rtbTgChWBPN6M1uoQ2MgtF4qgEiZfx7knZVKvGWIHhIu0+mzXz1dQTMSitg8OYj2R1QjN5MRdClN
+lBD92NWC4nPqw+McYuHPyn66z4tWAjNSPnk459PaVleeCqAaymhFP3AsSxXViSR8N1GAoz+fFLXo
+wkYfddlfJXfDgYmb2FghkzMY+JxinUwySUaSnnpwIIz78T1kqJX7lZzM7oh+mfcJoO6unBQ4DFrO
+OS9pdC5/tkLNZY46OaDn6TwEHkxnn2l09arS8tF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 10:40:01]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132391</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result>]
+[17-01-04 10:40:01]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132391</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:40:01]Disconnect from [10.52.4.134]
+[17-01-04 10:41:04]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:41:04]Connect with [10.52.4.134]......
+[17-01-04 10:41:04]报文长度:[000563]
+[17-01-04 10:41:04]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>371581198806247173</aac002>
+					<aac003>旁学会</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000043</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:41:04]sProject=[NCDC]
+[17-01-04 10:41:04]original key:[1111111133333333]
+[17-01-04 10:41:04]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:41:04]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371581198806247173</aac002><aac003>旁学会</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000043</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:41:04]aaz400[511302]
+[17-01-04 10:41:04]tradeId[NC39002]
+[17-01-04 10:41:04]inputXml[<inputxml reqseq="22000104000000000043" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371581198806247173</aac002><aac003>旁学会</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:41:04]加密inputXml[MuNx4wNMujhkVDwOjBNmS4yyG69UOAeX+CqDWZR1ze5tG2APTHukr1T0bjASvCRJUuqvzoHY7MRc
+0AtLfKe0IawhZUN7q7AfnIQBJ4eIYfg67goR7E/yHm1tpCXsEWep5Gayh5+QF9n+MyJzX2uCtw9P
+iwD2Lj4EMT73a9NDjplDCW2RAcpX5Xd4TnPw2SoJGPWCyc3OXe0EK0SgAnxXv1czX6WRvoC2Vjo4
+VEigpeEwVb/L6wp4LCeDuU+NllER7oty3gYLFGc6pBhvyZMuHU06/wQGLCNEhnv1JuJtMFh8gaYH
+Lp5y5G5ZXPt35WvEcEsKoWRS90YzDKow+4Xq9M5NTvEmiWCBNYmUqdZjfO4=]
+[17-01-04 10:41:04]社保返回报文加密recvXml[hCbj0P6H8ZXwEGrRJcCfnGmyglfsg0yUrv90PXRzwmd8jztSMm3dy627vCARHYGdjWP/LGpmC/6n
+itEJ/CwD9FdvHqutJNGc8BO8U9FQZYQ17PwezhIygXwpJqd3WuAfzGEFfY6kSDd36iOhBbpVsT4b
+V8lUw2PWimhg34eTcrugr9oYuLUN+FrNadiNR2q+6ZL/N8Xh10fCzhoiOpkHZulGE9B0rtB/U5d9
+UO0FFPJ5vy80IyUjivCe7EZEmObTJCfMZ2gMLZjnSL2KdW4w+/Fohh5POoWBxvz2Iem4DnvFW6YV
+XrIP6vE/EtrGGYX2atBHUfpbQcKMf6tf84sYCoMaCq6wk1eC+w1DehZMWhfcLHOajUbAF1BOyjIV
+46j9HsNhgsmI9f4zLZcEOJ4tw9A1AZifJuizLkKpEXxA7GIxgqcRfPmMOTfAWCEUKqhKAdNSEB6g
+qdntfuEB85X3BraKxtwpLfHdCj70iL+jwXM=]
+[17-01-04 10:41:04]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132392</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为旁学会身份证为371581198806247173的基础信息</aae013><aac003>旁学会</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371581198806247173</aac002></row></rows></output></result>]
+[17-01-04 10:41:04]应答报文:[000511<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132392</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为旁学会身份证为371581198806247173的基础信息</aae013><aac003>旁学会</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371581198806247173</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:41:04]Disconnect from [10.52.4.134]
+[17-01-04 10:41:29]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:41:29]Connect with [10.52.4.134]......
+[17-01-04 10:41:29]报文长度:[000563]
+[17-01-04 10:41:29]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>371581198806247173</aac002>
+					<aac003>庞学会</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000044</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:41:29]sProject=[NCDC]
+[17-01-04 10:41:29]original key:[1111111133333333]
+[17-01-04 10:41:29]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:41:29]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371581198806247173</aac002><aac003>庞学会</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000044</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:41:29]aaz400[511302]
+[17-01-04 10:41:29]tradeId[NC39002]
+[17-01-04 10:41:29]inputXml[<inputxml reqseq="22000104000000000044" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371581198806247173</aac002><aac003>庞学会</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:41:29]加密inputXml[eikOOmkGktxpEZDQmOk9bdI/Yu2VT6TBUyKkvM9RWsskxZbZzksdaDAqwBrCLycpJjWyaPgmZJrg
+XJoUAQTGWdRJxoQTCd3iE+OeFtejN1zBOuEG7GoCkumlguHLzm5FvO5hfBeQ3EqIxo6JXG7LFyj6
+soJCctfVbb2qJvhdlc6l2T5XsxCux01P0MqulYEvycENcmrV08N7ZFvEC+Q99Cs4Z8AuEW5rZF/X
+824wPBG72alRoby1QLKZMBwOUeZ+N+T7e51XZr9SQDBk1m81aj4bphYyxzi7PdLWyJwC2gtpfE1p
+oN+SsnJbGLslzVEPqavg2DVvwFRE0BjiTHw4G5rd+5Tz4VQppFark4WDWts=]
+[17-01-04 10:41:29]社保返回报文加密recvXml[ENiI5dFD4r45fVoUQCkIe2vZUvKlBWpyzsi3yS9c3eZe8syzVcPcKAB3u3IYX0K1P/xOKKvPS3EI
+Ll/Wubff1rHj1iI3KlDtAZ3IDDmAsspsiV4BuNRK8bZeYEzqlZr22DuIctH6+DyJFMM2pnnABx9s
+g47BFU7lUObjn+fIycrQVsiB9kUjD0Wqp5xdPv1Me4acPtIhSmnBtYUMNr9EqJnir43BEuS6GuSO
+hAl1Per5plAEXrpQ//vN0OlbygawqqwCOSwF5CnzgpLiXVhugYCziJlNrEDNNKvADtpXIe1c3n1n
+UNYoD8iPfAMlz5FkDMbWGvbvYjJcy+tW+P91469c91+PbTnBu++GKeF8ca9APWas6og8HOC3kZNX
+H3Q48nqrDwvuM/KLU+5u8QBQRtQtr8ASLHfm95YDQ6PlBhZDXpry3/FwB1AEtOzpuXwonW0evGzv
+76+4CRwlSUsfrraKxtwpLfHdCj70iL+jwXM=]
+[17-01-04 10:41:29]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132394</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为庞学会身份证为371581198806247173的基础信息</aae013><aac003>庞学会</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371581198806247173</aac002></row></rows></output></result>]
+[17-01-04 10:41:29]应答报文:[000511<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132394</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为庞学会身份证为371581198806247173的基础信息</aae013><aac003>庞学会</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371581198806247173</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:41:29]Disconnect from [10.52.4.134]
+[17-01-04 10:41:48]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:41:48]Connect with [10.52.4.134]......
+[17-01-04 10:41:48]报文长度:[000563]
+[17-01-04 10:41:48]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>371581198806247173</aac002>
+					<aac003>庞学会</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000045</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:41:48]sProject=[NCDC]
+[17-01-04 10:41:48]original key:[1111111133333333]
+[17-01-04 10:41:48]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:41:48]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371581198806247173</aac002><aac003>庞学会</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000045</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:41:48]aaz400[511302]
+[17-01-04 10:41:48]tradeId[NC39002]
+[17-01-04 10:41:48]inputXml[<inputxml reqseq="22000104000000000045" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371581198806247173</aac002><aac003>庞学会</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:41:48]加密inputXml[MuNx4wNMujhkVDwOjBNmS5gJ4gFtJcNKRtHjfo0ZlEmZNqkBD2dTnrCcSwjYNLgzW6mRvkAcJJAR
+uoQWsJBy9n7J13IpkhkwFv0a3kn6R/LWC1S9q8EeAKKR4x7iaVYI5NraD+YQKF83hcrxjGWXhNab
+jhYkvva5VTErSq4EJvwhABpnCRgPYkdAtwGySQdqKXOyP8613G5rsEXQNTKj4ioBDTklF27da+5n
+F8P3URYuSPYLYe75kY1FdgbPuuK1elNEb+Y/1hUD50C7xQ4MgIFtXGgIxzCYwN39NLeDsIA1Ayil
+DkrSz+vh1APDX9dL1wLLooiXB1E5X9l5a0jtJZrd+5Tz4VQppFark4WDWts=]
+[17-01-04 10:41:48]社保返回报文加密recvXml[cbohJe2SB/Y1DbTfRQrmOCOWV75EPSmRG1eHFkXFIlMLDYwfvf0S6ErnVT5kcjY0meM4fU+EJbYn
+Qp4drV+RHTfPA4tVIJBdFasU6I7eU8CP9rPY+kpZXpMiiCmR+Fk+lYjyWw1SwXYSHRGaz8I8u+O/
+DhhT56ruwaImlU0yZY289IpT5S6/muft0bNBlhQlgmctUWr07+Ne4ayNvXD91x/OhEdhLcEc9WHM
+n+h57f1FJKOnO9PZoSS2sS2JdhiFl6cM0yBsOCLT5XhYQX9G2ybzeviDwPjA4BbB/dUsoQVwcc6N
+F/LKR6UY4Gz1A4ZelBFx5OfV2MPSCvtJ/5TQ5oZltWD7rnu/Eien/UbXIfe8ApN9YbIVjnJPyx+p
+v14VGqa2Icv1LBYz4p48Q+h9YK2dHUls8ZRaXarWlmGwxLbJaBjZkDmGHB+Sf2suYW6hgR5eScbN
+VbzHg9cDLmsO07aKxtwpLfHdCj70iL+jwXM=]
+[17-01-04 10:41:48]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132395</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为庞学会身份证为371581198806247173的基础信息</aae013><aac003>庞学会</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371581198806247173</aac002></row></rows></output></result>]
+[17-01-04 10:41:48]应答报文:[000511<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132395</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为庞学会身份证为371581198806247173的基础信息</aae013><aac003>庞学会</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371581198806247173</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:41:48]Disconnect from [10.52.4.134]
+[17-01-04 10:42:38]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:42:38]Connect with [10.52.4.134]......
+[17-01-04 10:42:38]报文长度:[000563]
+[17-01-04 10:42:38]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>37158119901006275X</aac002>
+					<aac003>王林虎</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000046</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:42:38]sProject=[NCDC]
+[17-01-04 10:42:38]original key:[1111111133333333]
+[17-01-04 10:42:38]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:42:38]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>37158119901006275X</aac002><aac003>王林虎</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000046</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:42:38]aaz400[511302]
+[17-01-04 10:42:38]tradeId[NC39002]
+[17-01-04 10:42:38]inputXml[<inputxml reqseq="22000104000000000046" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>37158119901006275X</aac002><aac003>王林虎</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:42:38]加密inputXml[agOB1ypQvQOO7OzahpK3wG4v2pprMbgZ67Fg3R0GLUaNhpVMNHeeJkx8dYKT1Xb7Y3ly6wU2/AEj
+4tyBEBK4Sw5waZtANzrk8dz2fvZfsO7CiN+TtS84ef1BteIMke5DXAUu9H2m+ZfIB3Mi6Ijno+7u
+Asq4RxFOnf8yTyJrRTnVOtZOEJjSySsrLKwYZSfkk72Sl4qx0fnfGkSxIm9zrFk0YtQRzHHvvM6P
+DF9i+eOpPMXUvHB4+TIgbjf2Gye3vG/4OID3PtycH4qAwMM2S3VUL8Bd6VO+g9/Ekiouvw7nw9Jv
+xt/y6Ge8ouDKJxnunS9JvKnH3/jAVHHEtvormM5NTvEmiWCBNYmUqdZjfO4=]
+[17-01-04 10:42:38]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbiUKJK3hVYad5MtM0HUgHelc2H5HiBiwW1/EoKS2rBtDbOIXwhlV5UcVB
+Md1k9A9FmsDUK9kIl03I0YsTNSk5DxAcfyoPftcRG+imYItkiEWOvGNQkXTJ3aiqIwzE7Y+9TlmR
+n9yHcy2P8GF+g/03A2Z6Y/hYcv3bPVKsXDMAWhr+KLsp5nStj7pHeFrngXQ/GggjTm0AGgakwW57
+E0AMLdzEiSIi37Fed9rNSuJSKNDRFpfJ+EuqXd7EcUb6+j09Imo91ZEm03y1XRRF4YLBf40/aHSd
+6rC8xQqJrmxhhSvhJZWCrfGCC7bmxKqVU+F1neBPIq/kYz4nNpWgDeXkY7xG2/nD2SmnKl0s+G0p
+7e/MBufkoAKn88g5KzaNRgagBTImw5ZHvBSz2WbipI8W+WI=]
+[17-01-04 10:42:38]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132396</aaz002><akb079>0</akb079><rows><row><aae013>身份证为37158119901006275X缴费年度[2016]有误</aae013><aac003>王林虎</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>37158119901006275X</aac002></row></rows></output></result>]
+[17-01-04 10:42:38]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132396</aaz002><akb079>0</akb079><rows><row><aae013>身份证为37158119901006275X缴费年度[2016]有误</aae013><aac003>王林虎</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>37158119901006275X</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:42:38]Disconnect from [10.52.4.134]
+[17-01-04 10:42:44]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:42:44]Connect with [10.52.4.134]......
+[17-01-04 10:42:44]报文长度:[000563]
+[17-01-04 10:42:44]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>37158119901006275X</aac002>
+					<aac003>王林虎</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000047</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:42:44]sProject=[NCDC]
+[17-01-04 10:42:44]original key:[1111111133333333]
+[17-01-04 10:42:44]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:42:44]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>37158119901006275X</aac002><aac003>王林虎</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000047</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:42:44]aaz400[511302]
+[17-01-04 10:42:44]tradeId[NC39002]
+[17-01-04 10:42:44]inputXml[<inputxml reqseq="22000104000000000047" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>37158119901006275X</aac002><aac003>王林虎</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:42:45]加密inputXml[rUsoT4RgRYukTL4j+7Oj82XZXVSh9q5Z2Zpaf3YCUDj4/vz39dgRU8RSwiBGbEaBNrFByJhZz/z4
+PzxTQaqdxgn4hkeG30b8dG2qka9lu6X02xe7TfWoViVXJBTX0yCvp6yK6IUMUhWKjqUuvWOz4CI8
+qtkkFuzeSy90RHCmOgEUgnBHo9gj3BMfBLOrtPi6X3XsjFlbO7XpxFj3NwjqSSh+A7ghm7vWUagF
+VriqdCPKOzD14vxd9h/LbsB8LIylfGRlp0FeE7n+ITTJ0yAneiBYzgUGutw6o3VgKq6n0IpGm0Ip
+IJJXkXOW2EpI3EGDe3gCzY3DZhCsMh9+5rdp8Zrd+5Tz4VQppFark4WDWts=]
+[17-01-04 10:42:45]社保返回报文加密recvXml[9xyt1ZVRaI5j0C1wFZtI22uYB7VQPY80AI15EGY8Lso8BUs7M62Yzlw+UFgsBH/tAuvZlJKRnM/P
+mpS0DWVTbaC5Y1OkXif88csbdH7qClBktw4eAISWPcJkyGXiuuF+xU1ZFTAvCJuboxjyEDFkQb6R
+4i/aiXi/0ap/iHRmn1HUZZpR3w2Rp3GK56QgIn+cPwnkDijl4ze8eKIlxZYcuGsGP90T931RcFjE
+ZXg0zANOl73bASXUYFWSLKIRaPjQKLPuBv4h4h9UnH1ja9rGkoeG0N9IgU0p73OecVW4cES2jujM
+ogJABW0DScKJ03PlGuyUMKNVYzIbIeDue9Pm1w==]
+[17-01-04 10:42:45]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132397</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>王林虎</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>37158119901006275X</aac002></row></rows></output></result>]
+[17-01-04 10:42:45]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132397</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>王林虎</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>37158119901006275X</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:42:45]Disconnect from [10.52.4.134]
+[17-01-04 10:58:45]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 10:58:45]Connect with [10.52.4.134]......
+[17-01-04 10:58:45]报文长度:[000563]
+[17-01-04 10:58:45]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>37158119901006275X</aac002>
+					<aac003>王林虎</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000049</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 10:58:45]sProject=[NCDC]
+[17-01-04 10:58:45]original key:[1111111133333333]
+[17-01-04 10:58:45]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 10:58:45]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>37158119901006275X</aac002><aac003>王林虎</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000049</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 10:58:45]aaz400[511302]
+[17-01-04 10:58:45]tradeId[NC39002]
+[17-01-04 10:58:45]inputXml[<inputxml reqseq="22000104000000000049" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>37158119901006275X</aac002><aac003>王林虎</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 10:58:45]加密inputXml[rUsoT4RgRYukTL4j+7Oj8yAHBei/6c53sXef7fhhIIKGvOqDQIYZIADzggtsk+ZJQvyoJWfohfzp
+V+aKTZdUmGc6bvrLjnj8k76Iv4D8dqPHLgV/xVh0ZeTPDnOZ47X3H1TMvWaAbDXZPmzLMFkwFAxr
+GK55qV7bvRrYG7l0aJJbVh/orKGG1ECHsxPBZjFE1U3SCrQNbNr8B4snTJiCpB60V/I84J32dLJo
+UKX0L/S164LriUWxP1xGDWI4Z7Oep3KbtraKaubYSKAr4aj4hCC51z4fCIXFiLQRKGJ/X+jjB5Sn
+ifZ/6+p1JISm1mmwPS69bXlX8bHUidZVGrf7fc5NTvEmiWCBNYmUqdZjfO4=]
+[17-01-04 10:58:45]社保返回报文加密recvXml[RKbk/6Zv09tfmXTXS8SN3+zCFEYVzGbG3Ps43o+MswPftTNWyClXkBa9JgxhAqxVX5UFOdITS6Q8
+8o5tS2OsoGg+LNpfbkBaFhjdA7GWbOjp322lIGqx9X/eOnxWMW+bMroj+QZgMOcOOTXaKn7OSpiN
+gHoTqdnT3scSzU/lO2sRXPyF3qwmQmNmnliSqfyCnXSzRA9dPyN2l39JzS3Xk9IPmFRhIb/kIZoP
+Y6nqA5EHaccH41343za6Lv4IR2WI/vUcFGuesoUcZcCbuspYeD2gi/z0ZIndBXX9EC38R/bskUeT
+DrhkgpoYtlUuLwv8EyDNO3jDGYyrsJsqHDshOw==]
+[17-01-04 10:58:45]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132402</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>王林虎</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>37158119901006275X</aac002></row></rows></output></result>]
+[17-01-04 10:58:45]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132402</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>王林虎</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>37158119901006275X</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 10:58:45]Disconnect from [10.52.4.134]
+[17-01-04 11:01:27]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 11:01:27]Connect with [10.52.4.134]......
+[17-01-04 11:01:27]报文长度:[000563]
+[17-01-04 11:01:27]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>371427198210131627</aac002>
+					<aac003>孙川英</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000051</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 11:01:27]sProject=[NCDC]
+[17-01-04 11:01:27]original key:[1111111133333333]
+[17-01-04 11:01:27]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 11:01:27]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000051</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 11:01:27]aaz400[511302]
+[17-01-04 11:01:27]tradeId[NC39002]
+[17-01-04 11:01:27]inputXml[<inputxml reqseq="22000104000000000051" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 11:01:27]加密inputXml[z9pRjNpsGjwLQGaETUE7RytQFVxTwO7c6IUS1jmbksfcAwrLkNnxGHoZ4y7NuMDYMkZFnPY6c9+3
+zpbyIkTUEoQ+CNsY8XTYOCqvAiSRE1rf76TjBESoIU/f2RkmiXQ0NtYgSJJ4ITN51FIJtvzJavF7
+YkD/eM46Y09Dm+xPpCH+jPKT5qw9nBS7P4VDj06pVSEpOXvXXtjgc0XrzB+Y/SzkfNWxGsDMkj1v
+SOVfZ5l8LD7r81mZwQrwqcvWYY6bZPnRAE1XokEj1lfEbE7mXCYrC8qqb/LrCyr69O/pQYy3gwp/
+PHUv7xjJ/+ESvHxfQULB+RPIIrmaBNTrJPeQeg==]
+[17-01-04 11:01:27]社保返回报文加密recvXml[9xyt1ZVRaI5j0C1wFZtI245aKzxK1GXrKWq9LhSvD+4jPufhpKObrPN/f48NK+71iVLZlAmPvbHW
+q5FgqEp9nQPClzTZuYR3FfStwI5lqrRQFAXDpGFf9yPxAjRsldq4c8EUWxb3TXZOTQxRMY7kDxlW
+/jW76Q6p019mllnzzeex3Fd9R6RMmdQX4iMEL7+GjNbM+4mJzy31+XCzdDsCX8vAWEmSbVqo6hR+
+Mc6KknpmfsDT/Y6YmGpXQ4h8LzNwier3wVNtxYVC4T5ijTDqaHmrdW7ilzCUGcxgnjWiOAp+UKTB
+uYqjhcQMF9ivC0zRNR10YN+MKp8OgAptYDMukdF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 11:01:27]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132403</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result>]
+[17-01-04 11:01:27]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132403</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 11:01:27]Disconnect from [10.52.4.134]
+[17-01-04 11:01:33]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 11:01:33]Connect with [10.52.4.134]......
+[17-01-04 11:01:33]报文长度:[000563]
+[17-01-04 11:01:33]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>371427198210131627</aac002>
+					<aac003>孙川英</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000052</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 11:01:33]sProject=[NCDC]
+[17-01-04 11:01:33]original key:[1111111133333333]
+[17-01-04 11:01:33]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 11:01:33]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000052</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 11:01:33]aaz400[511302]
+[17-01-04 11:01:33]tradeId[NC39002]
+[17-01-04 11:01:33]inputXml[<inputxml reqseq="22000104000000000052" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 11:01:33]加密inputXml[jrcvnmh4XC7vMbf2YoVeKctuSI1kVSWY2JTdIY9oHUw1Jcp471ph+IgmTudis8HLoRKNDgpihmpj
+h5o97vuC/hcmnRWMPLz2+usjSd5vhVNTmyTF24Z7FLXkk+0xRABODU0HIz4uvkL9ch8cLkRSY2gg
+uVVIRocvU5edbrSQLcu0rubPeoDT2HqIlqfAg8oAbGrzNNcNPMUvunMtXwxQjSimn6ceiRDlH4uG
+ZkFhzO7KUCO8gcn/hh1gFgmvYHJljYAmw43K5UIxYIEWLqdI0DATlhkpbjQtOFucew/8gwAVi2SE
+o4A3tYmKGPViTZxZNwmc28GWJoqM4VnvN0cKZJrd+5Tz4VQppFark4WDWts=]
+[17-01-04 11:01:33]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbiQlPLxhjBrrkjTmJKocgz22QVesZGUxo4dC0EcsZljsZ9y5dByoRIP4H
+RghpY4vkX73IlmScTh/wVidyU4IGHJDZQiUyUbK8w7NdKz/iXlOOk7a3mlycCKhnfx8iDpuZWZw4
+Q0kH0uIecI1vApf6q9Rx18jKvvIJemzbXM1IpswvWd0uEuuXN1jSvgOAVjM+GQQHZDL0/2e90PrL
+k/PMLMktWAy1gO/jkmeJs+w48WbjehMUmKVITeF3ST/VS3hpUwaUKMlJA3zkYqe73v76m57PxkWn
+c/ikPLVnIB1P+/IKO+6hTgTYcdT7+FT+wtg3Gt4Vbxq/95NdznA5wu+nFLx9P1uZJWpUUpeA+tQx
+h2H+E9IYxlJGIBlw82c6NNVbdQ==]
+[17-01-04 11:01:33]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132404</aaz002><akb079>0</akb079><rows><row><aae013>身份证为371427198210131627缴费年度[2016]有误</aae013><aac003>孙川英</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result>]
+[17-01-04 11:01:33]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132404</aaz002><akb079>0</akb079><rows><row><aae013>身份证为371427198210131627缴费年度[2016]有误</aae013><aac003>孙川英</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 11:01:33]Disconnect from [10.52.4.134]
+[17-01-04 11:01:39]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 11:01:39]Connect with [10.52.4.134]......
+[17-01-04 11:01:39]报文长度:[000563]
+[17-01-04 11:01:39]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>371427198210131627</aac002>
+					<aac003>孙川英</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000053</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 11:01:39]sProject=[NCDC]
+[17-01-04 11:01:39]original key:[1111111133333333]
+[17-01-04 11:01:39]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 11:01:39]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000053</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 11:01:39]aaz400[511302]
+[17-01-04 11:01:39]tradeId[NC39002]
+[17-01-04 11:01:39]inputXml[<inputxml reqseq="22000104000000000053" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 11:01:39]加密inputXml[z9pRjNpsGjwLQGaETUE7RytQFVxTwO7c6IUS1jmbksfcAwrLkNnxGHoZ4y7NuMDYMkZFnPY6c9+3
+zpbyIkTUEoQ+CNsY8XTYOCqvAiSRE1pXr9EhH/NKv1XEt4gnJEOaEbwNZPBKUQYBlDjtlIOLr+7/
+Em5f1PGb4mYjiKXqO6jPh1Mj8FxM77dCim6Wxh1YorCO0GKVzNPUZucbcB2RS4tn0aAPvaEd8rT0
+Qa0F4ebJHYC8LH4qC/iftjDoFeIP2lWgiNOtLT8AdP4M/UtfiBWy/He6K5NewkQDiJAmXDRUuerC
+ZMS4yYgh5XUb6oU0IOsiNqqabU2y6C0gVtjOCw==]
+[17-01-04 11:01:39]社保返回报文加密recvXml[9xyt1ZVRaI5j0C1wFZtI2yccgXNPhjy93XirtqxHzK09h77hGyOLG6Lba2mYWKbXtsQPngxZdRL7
+RYXjqh8xkuW1FxIklncnDPxxTfP0lQptr3PIklHLbz2UknW46lIXy2NNUJwz5Sv74QbVSAT6LETn
+T99TK0KYbydIbhxfd75jWIgNdADcXoJLq8apqzSipN8bR6vCVEI5EdTEnoieB3a2ajXC6tyJraZH
+ywhKPEyw+HpRCJZjUhHu8F5UDL40o3thAPLOk+Dj5xeQ3f2C/QIsplIq4rEmdvb49VcDcIykPKyq
+1u8nrST0JMVD3NmwhDgUFieGCibhG8X6+Rh4idF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 11:01:39]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132405</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result>]
+[17-01-04 11:01:39]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132405</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 11:01:39]Disconnect from [10.52.4.134]
+[17-01-04 14:51:18]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 14:51:18]Connect with [10.52.4.134]......
+[17-01-04 14:51:18]报文长度:[000563]
+[17-01-04 14:51:18]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>371427198210131627</aac002>
+					<aac003>孙川英</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000058</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 14:51:18]sProject=[NCDC]
+[17-01-04 14:51:18]original key:[1111111133333333]
+[17-01-04 14:51:18]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 14:51:18]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000058</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 14:51:18]aaz400[511302]
+[17-01-04 14:51:18]tradeId[NC39002]
+[17-01-04 14:51:18]inputXml[<inputxml reqseq="22000104000000000058" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>371427198210131627</aac002><aac003>孙川英</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 14:51:18]加密inputXml[z9pRjNpsGjwLQGaETUE7RytQFVxTwO7c6IUS1jmbksfcAwrLkNnxGHoZ4y7NuMDYMkZFnPY6c9+3
+zpbyIkTUEoQ+CNsY8XTYOCqvAiSRE1ouPlY5s52bhHsFM3ZP0sZv3OraKT4pGzNhDL3gAgr1EXG8
+01qUL8jNhsZwJZ/rh7pseM460FFUH4C83sUlV3fkWCQ7+YxfQMfGoopeBeCJS1/IE1uih6jD2R4K
+oPAP1hn93ztCmSTAUPAQn+S848hqXKUeePl4ewh5zTfuvNGPz0YxoCjetTzwSd4EDrjcLR84o93A
+nHn767SnJu5o2+dql0ySDlZQ1EbMUPMSErY8iQ==]
+[17-01-04 14:51:18]社保返回报文加密recvXml[pOHf+3BghiQjWoWvfidKotnHYW5sHVUX0tWjyaEXB79lvYOirYL8ZT/o6AlL1tB76kjXFLscINE0
+rtbTgChWBPN6M1uoQ2MgtF4qgEiZfx7knZVKvGWIHhIu0+mzXz1dQTMSitg8OYj2R1QjN5MRdDoQ
+lIn8TOPullcZk3ESYFErfh4TQ33hYDZrxDqXo6LftNsUPGIZxqHkxuxoYf+TjlRPc2ZzdM6IWRdA
+1JVlk0sK7aiQXJjMLFUkd1r+fwDKde731Ewe9RkaBM9jkYHqqJK2H/lTBUwQb8dxt6ZB5k1LdcZs
+LXajoA+zR3RG2mgjTxoG+QZnkMqoGNSxuWWtjNF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 14:51:18]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132474</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result>]
+[17-01-04 14:51:18]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132474</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>孙川英</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>371427198210131627</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 14:51:18]Disconnect from [10.52.4.134]
+[17-01-04 15:01:02]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 15:01:02]Connect with [10.52.4.134]......
+[17-01-04 15:01:02]报文长度:[000561]
+[17-01-04 15:01:02]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372301194311280326</aac002>
+					<aac003>袁惠</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000059</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 15:01:02]sProject=[NCDC]
+[17-01-04 15:01:02]original key:[1111111133333333]
+[17-01-04 15:01:02]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 15:01:02]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000059</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 15:01:02]aaz400[511302]
+[17-01-04 15:01:02]tradeId[NC39002]
+[17-01-04 15:01:02]inputXml[<inputxml reqseq="22000104000000000059" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 15:01:02]加密inputXml[MuNx4wNMujhkVDwOjBNmS09/eCKIGc4nKLy+EFv8BTuKLbjr7ru5fbCI1Qeves9DG5ju7AxYts3v
+kuOvDxIiIj3oPM31VGZ7cUa2zzWnIVfLq4xKqUjIGogZzM9YDCeUYZOVfRFJfHm+bBxhiuzONQ/7
+Bfnb88SVYHVPdypuosEM/gmOEUEv7uNt/RcKXpQueXj8ECv3+7taNQ7jzS6Xr/u0DD98g2VRgq6p
+8ot/ehdztFRekCc8AGWtbUUF2K8ywnwTztwLwv6JRSbNcpHau7Zrpu6PwS5olkd0VHe3neyUcCSX
+q6DNe6uE5JT+3JB9UnUargCUYAeN3DECyM+Npw==]
+[17-01-04 15:01:02]社保返回报文加密recvXml[U8AIWfzHuxkFEbKd7jKSpEqUMsg/d6/k2kIB0Xz6nO8J3c2RbqCYsNYXxLupOO9ctIOb0SLB1SDp
+32Cf6CJe/79KMwVQqQcgac1R27Z8eQQER1HcOqu54qs9mQfnOWt3+DB07DI26nhHXYXfwT5XXyhA
+2+hbY98nCaxBgCzWMeyOaIrjFHHQfgTPaObxjV7U3GibsrHV9jEl0BIR25/E0wKp5mCrAgg3gBAE
+yi9usgeLo6M8vvIXAqA1oWnpvCeL2j4rnq1KcOUIj4gUCwy0WbdLQ7jozxNaZKQujiXNl9hG+Tv9
+rCzKcceuzsNL+y7fts6lteYqTLKymfFTu3ZNyZzC+QjwnGTIDDYucLLZ3bTCwyxBrmLAxv/l4j7p
++UrpgEgOUYdOc/G94F4u4UQr3yfJmfD6s3mB6Hvi+tviNeCw7Z2V6f7ogSFbLEdWxkOWdmb8ktIi
+KWnTiJsONKTni9F6qH9jNnno1yqkqAQdALs=]
+[17-01-04 15:01:02]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132475</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为袁惠身份证为372301194311280326的基础信息</aae013><aac003>袁惠</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372301194311280326</aac002></row></rows></output></result>]
+[17-01-04 15:01:02]应答报文:[000507<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132475</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为袁惠身份证为372301194311280326的基础信息</aae013><aac003>袁惠</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372301194311280326</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 15:01:02]Disconnect from [10.52.4.134]
+[17-01-04 15:01:19]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 15:01:19]Connect with [10.52.4.134]......
+[17-01-04 15:01:19]报文长度:[000561]
+[17-01-04 15:01:19]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372301194311280326</aac002>
+					<aac003>袁惠</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000060</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 15:01:19]sProject=[NCDC]
+[17-01-04 15:01:19]original key:[1111111133333333]
+[17-01-04 15:01:19]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 15:01:19]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000060</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 15:01:19]aaz400[511302]
+[17-01-04 15:01:19]tradeId[NC39002]
+[17-01-04 15:01:19]inputXml[<inputxml reqseq="22000104000000000060" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 15:01:19]加密inputXml[MuNx4wNMujhkVDwOjBNmS1vG5yTq3CrybwaL990R0IQK/+Yj+Y0lDaMhhaSyo/lGNKoT0OXlvGmI
+mVR1HXaeATnKm1G2XEFTeNMIiKlgXV3Yt0O4X6gHqUVLE2qhGazlAxtJm09iUtrYpuboTgV5lne0
+SO6wPFHH1K0VAO17v3yEwSxsJM7i40lo65p5MWkTD+cgr33rVNvVrj7UAGYGfaMvnYC61xa4qKRj
+TTciktvjJrk/ZF24cxJzBb8Z+ZMsxHW428g7txs64prUjg/wnQCEoVfKikcsOxETo6iifbbVm3pF
+oxpqMMdOrzVRj+U9L7AeP8IjGTuxuxZXl4asyQ==]
+[17-01-04 15:01:19]社保返回报文加密recvXml[U8AIWfzHuxkFEbKd7jKSpKrnDKWgJD9Zg1sx2ptBEdEJ3c2RbqCYsNYXxLupOO9ctIOb0SLB1SDp
+32Cf6CJe/79KMwVQqQcgac1R27Z8eQQER1HcOqu54qs9mQfnOWt3+DB07DI26nhHXYXfwT5XXyhA
+2+hbY98nCaxBgCzWMeyOaIrjFHHQfgTPaObxjV7U3GibsrHV9jEl0BIR25/E0wKp5mCrAgg3gBAE
+yi9usgeLo6M8vvIXAqA1oWnpvCeL2j4rnq1KcOUIj4gUCwy0WbdLQ7jozxNaZKQujiXNl9hG+Tv9
+rCzKcceuzsNL+y7fqfiaOjF6QEgsZPhLpL8ud+j3AP5We8HMSMEh0NDTNGLw+Qt6VKDPe9Wc3xLP
+csIDICCD7dZNvtXWeYr0n/jbvCfJmfD6s3mB6Hvi+tviNeCw7Z2V6f7ogSFbLEdWxkOWP6GUwfLP
+2ueaAhXyifIRQNF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 15:01:19]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132476</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为袁惠身份证为372301194311280326的基础信息</aae013><aac003>袁惠</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372301194311280326</aac002></row></rows></output></result>]
+[17-01-04 15:01:19]应答报文:[000507<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132476</aaz002><akb079>0</akb079><rows><row><aae013>在公安库\持卡库\人员基础库中,没有找到姓名为袁惠身份证为372301194311280326的基础信息</aae013><aac003>袁惠</aac003><aae001>2017</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372301194311280326</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 15:01:19]Disconnect from [10.52.4.134]
+[17-01-04 15:01:53]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 15:01:53]Connect with [10.52.4.134]......
+[17-01-04 15:01:53]报文长度:[000563]
+[17-01-04 15:01:53]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000061</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 15:01:53]sProject=[NCDC]
+[17-01-04 15:01:53]original key:[1111111133333333]
+[17-01-04 15:01:53]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 15:01:53]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000061</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 15:01:53]aaz400[511302]
+[17-01-04 15:01:53]tradeId[NC39002]
+[17-01-04 15:01:53]inputXml[<inputxml reqseq="22000104000000000061" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 15:01:53]加密inputXml[z9pRjNpsGjwLQGaETUE7R9JC4UAELerHxadHv8yQT1LSLe8BLim6UZXHXvi5rvsT//OFZMPIR9Sj
+z+rmYIqKrExjH1RgttjDGUVASE5XgfbU0c4Yw7ca75X8ooMRoZdex/zAKA5KYkqaaK5DD5B/HRGw
+TSKps6igs/XdLtJIbyOVS2esmbzt0i97pGCVbgloSYAKPA6Q5z+uJZYVcETeDSl0wZuQ7UFCJiKx
+IeZ3n5o7E+XuWQ6TCIoXqNRCZ6GUJQUvIt3TR/9G3psQpfbvLb7FFdtVmr5qTiDCeHNap3ScXGLc
++vG6TEfV1GqeJ38cgzyHdX2VbiZOfgXlfMKbUJrd+5Tz4VQppFark4WDWts=]
+[17-01-04 15:01:53]社保返回报文加密recvXml[9xyt1ZVRaI5j0C1wFZtI27XgYY93v7pb3kBM2lLlNDHIL9EvY6H+J6bgOFNew25apQP7nd6LaTD6
+j61QiKEm6GiX0DZKR+2npZ+v9Oy5QpSybXEi5sejdRYwpb8qsqYRi6ZYbokcYNW9DiGZJJ81g7Qn
+eDaexrqr587K53XaYby8K0XoHYfuULJycJXBorU/QgPLLIrjSJVukGzOHePxbVG0kaU3ws+E20z0
+nIDPQAOkumJetYXg8PlkLDUPwNUpyxkYqjy6u+FiogT0BDgJMI8fH9GMsRcJjwNX8v7eaAgjnVuz
+75WalkkHikZJLBG6hmEmTCrvjNIf7T5vtfZX6NF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 15:01:53]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132477</aaz002><akb079>0</akb079><rows><row><aae013/><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-04 15:01:53]应答报文:[000420<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132477</aaz002><akb079>0</akb079><rows><row><aae013 /><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>-1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 15:01:53]Disconnect from [10.52.4.134]
+[17-01-04 15:01:59]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 15:01:59]Connect with [10.52.4.134]......
+[17-01-04 15:01:59]报文长度:[000563]
+[17-01-04 15:01:59]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000062</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 15:01:59]sProject=[NCDC]
+[17-01-04 15:01:59]original key:[1111111133333333]
+[17-01-04 15:01:59]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 15:01:59]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000062</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 15:01:59]aaz400[511302]
+[17-01-04 15:01:59]tradeId[NC39002]
+[17-01-04 15:01:59]inputXml[<inputxml reqseq="22000104000000000062" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 15:01:59]加密inputXml[z9pRjNpsGjwLQGaETUE7R/bHddwg9jjQR5d3guHU88kGIeClW/qw96d8NyAZIpg4NmdZB67CyvpK
+DtcD0f1jJsR2XW2ofzLK8KHoQQUC+UHzIcEKyYEC7rI8lsQAT09plDuNJ2Q/WWZEES8MeUVpKsZz
+EelUA8pYJYW9UHSiJsppUXz5VG/mJKgaSf0D5rEPwPb9tX6AF0fI51h8yorIRpB0Vr/pnEkKQVpB
+dpkru14LNVtI6qtphZ7sse85iGHSCjpHnRTP/O+gGE3pYwNBdetYPfiPxRGIM2FzhnzCA0vTNoaW
+rOT26m10kkSSzQua2tJoLHU2x62YFhVAt6ZdNzImw5ZHvBSz2WbipI8W+WI=]
+[17-01-04 15:01:59]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbiTkZOgEuKgezP7eJ8Rom5TQBgFSyETla+hg5fk7Y5w1EZqZPNyRnL43g
+XFe67NrPckvNv5X2gOCxTYypKYNCWj7WgvDQFQSVgQsaSHGHzn5WA3zbUgXTJM+U6bDvwjEIi10p
+7nDQDQmRXzI0x2ghg48ZYJ+8DM8W5zUzFTlZhe51YmBZ0UpjIVIdoWRnIYgOaJ9FDyLUCJyfRPp4
+50yDVuwSbtVaofU8OlO0M5UNAIs2EVIk9Fe4Ia7yk+N0uHD7D0lJAHHwfmAzCEA3HwJXvTRMDHp1
+IGtzXBhptWnGrtU30AF1IF7xHQWNuSFM6oxgdI+AFTtIE7dJ4h3xylGB27+XCL0rwTYwIGIjYeTk
+NXH92gCIzJ+u8GYWsh0qC506wQ==]
+[17-01-04 15:01:59]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132478</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372401193505171516缴费年度[2016]有误</aae013><aac003>彭仲文</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-04 15:01:59]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132478</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372401193505171516缴费年度[2016]有误</aae013><aac003>彭仲文</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 15:01:59]Disconnect from [10.52.4.134]
+[17-01-04 15:54:43]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 15:54:43]Connect with [10.52.4.134]......
+[17-01-04 15:54:43]报文长度:[000563]
+[17-01-04 15:54:43]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000064</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 15:54:43]sProject=[NCDC]
+[17-01-04 15:54:43]original key:[1111111133333333]
+[17-01-04 15:54:43]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 15:54:43]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000064</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 15:54:43]aaz400[511302]
+[17-01-04 15:54:43]tradeId[NC39002]
+[17-01-04 15:54:43]inputXml[<inputxml reqseq="22000104000000000064" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 15:54:43]加密inputXml[z9pRjNpsGjwLQGaETUE7R9JC4UAELerHxadHv8yQT1LSLe8BLim6UZXHXvi5rvsT//OFZMPIR9Sj
+z+rmYIqKrExjH1RgttjDGUVASE5XgfZZpPUO4xQpXvyOmaz/H14J4HhPacWNoKZEwc4uu+RwJAHp
+OW1ZjzVK89Ho8JnyTLOO7svtaujt3YJbaVgH8LDlH2/a3BZ3uwJghpoJk5QorOQqVA8pqdEjwV/t
+h5htWmTPxJkpHL1qJNJTG8SRa94zmswkj6a/zB78Ols0MXzBXAt6Tw+gJ+qo2EZtTXAtuCXlTvmy
+sAh/GcW0u4BRR33xo7mEonpCXBjaveFyDGzEQ5rd+5Tz4VQppFark4WDWts=]
+[17-01-04 15:54:43]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPRJCfqRYeyyD4sDg
+pY/10OU3opvwab3F7jKLjKFbcJwMkgh6VCasI7GkqWa+db0rSKKolq18iyzFV0JfHnyl+xkc6DMl
+jalwsBZiW5tyDtKi3vCsv9dJ3hoS+L/zA8qworT79fqV/fGEUEi1Nkg43CHIecWZ0V1PoekoeQvP
+Xoih8BhOlmQYDy58qe3UsLUdCUPp6Z4AdLgUuv0zwcxTjtgNtND1LL3xMEWeD0tqs81H]
+[17-01-04 15:54:43]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-01-04 15:54:43]应答报文:[000473<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-01-04 15:54:43]Disconnect from [10.52.4.134]
+[17-01-04 15:54:53]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 15:54:53]Connect with [10.52.4.134]......
+[17-01-04 15:54:53]报文长度:[000563]
+[17-01-04 15:54:53]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000065</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 15:54:53]sProject=[NCDC]
+[17-01-04 15:54:53]original key:[1111111133333333]
+[17-01-04 15:54:53]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 15:54:53]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000065</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 15:54:53]aaz400[511302]
+[17-01-04 15:54:53]tradeId[NC39002]
+[17-01-04 15:54:53]inputXml[<inputxml reqseq="22000104000000000065" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 15:54:53]加密inputXml[z9pRjNpsGjwLQGaETUE7R/bHddwg9jjQR5d3guHU88kGIeClW/qw96d8NyAZIpg4NmdZB67CyvpK
+DtcD0f1jJsR2XW2ofzLK8KHoQQUC+UEhBsqtU29GS869djX9Dos/lDuNJ2Q/WWZEES8MeUVpKsZz
+EelUA8pYJYW9UHSiJsppUXz5VG/mJKgaSf0D5rEPwPb9tX6AF0fI51h8yorIRpB0Vr/pnEkKQVpB
+dpkru14LNVtI6qtphZ7sse85iGHSCjpHnRTP/O+gGE3pYwNBdetYPfiPxRGIM2FzhnzCA0vTNoaW
+rOT26m10kkSSzQuax62H7yXbfjA4683pEpXeLTImw5ZHvBSz2WbipI8W+WI=]
+[17-01-04 15:54:53]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPRJCfqRYeyyD4sDg
+pY/10OU3opvwab3F7jKLjKFbcJwMkgh6VCasI7GkqWa+db0rSKKolq18iyzFV0JfHnyl+xkc6DMl
+jalwsBZiW5tyDtKi3vCsv9dJ3hoS+L/zA8qworT79fqV/fGEUEi1Nkg43CHIecWZ0V1PoekoeQvP
+Xoih8BhOlmQYDy58qe3UsLUdCUPp6Z4AdLgUuv0zwcxTjtgNtND1LL3xMEWeD0tqs81H]
+[17-01-04 15:54:53]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-01-04 15:54:53]应答报文:[000473<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-01-04 15:54:53]Disconnect from [10.52.4.134]
+[17-01-04 16:15:30]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:15:30]Connect with [10.52.4.134]......
+[17-01-04 16:15:30]报文长度:[000563]
+[17-01-04 16:15:30]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000067</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:15:30]sProject=[NCDC]
+[17-01-04 16:15:30]original key:[1111111133333333]
+[17-01-04 16:15:30]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:15:30]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000067</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:15:30]aaz400[511302]
+[17-01-04 16:15:30]tradeId[NC39002]
+[17-01-04 16:15:30]inputXml[<inputxml reqseq="22000104000000000067" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:15:30]加密inputXml[z9pRjNpsGjwLQGaETUE7R/bHddwg9jjQR5d3guHU88kGIeClW/qw96d8NyAZIpg4NmdZB67CyvpK
+DtcD0f1jJsR2XW2ofzLK8KHoQQUC+UGZ1q322u8eH2q+Jlvm80MDlDuNJ2Q/WWZEES8MeUVpKsZz
+EelUA8pYJYW9UHSiJsppUXz5VG/mJKgaSf0D5rEPwPb9tX6AF0fI51h8yorIRpB0Vr/pnEkKQVpB
+dpkru14LNVtI6qtphZ7sse85iGHSCjpHnRTP/O+gGE3pYwNBdetYPfiPxRGIM2FzhnzCA0vTNoaW
+rOT26m10kkSSzQuaUBXeY5r7el69GValQeHkOTImw5ZHvBSz2WbipI8W+WI=]
+[17-01-04 16:15:31]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbicJzSDsY2dofZEYAkuKSUU6qyCh6rZiHT7wd2iwoE9oYF1Tie7rZixv6
+ZbLp8FevJXdvG0LCBb3b0RyOH2Me1KEJH8FPefqkpvxII+1YBX9CZvs+8j4t4+XV5hDB12qtx1o9
+mQgz8qjLLQ5ucK2JGE5iUwQaI02JojuvqMdigjAf3+4CQtUp8LIgeryF2XA7hKU9AzUdnDmOblms
+iaimLQpUyrYF3hPUr+KlFS52sjpsYuY/AOoDcsT29Iw7Z80f3w0KtjxsEtqI7foFHnlJ9MUR4wrz
+mtb/dJANVZQT5lcf2BN/c9zRbUKJPZQc9aaHm1urWEJakY8VBwsfD4ouMWFB28JEj4tawG4cgRWy
+E1syiXYiObDGIkoQIW9ycF06Hg==]
+[17-01-04 16:15:31]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132492</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372401193505171516缴费年度[2016]有误</aae013><aac003>彭仲文</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-04 16:15:31]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132492</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372401193505171516缴费年度[2016]有误</aae013><aac003>彭仲文</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 16:15:31]Disconnect from [10.52.4.134]
+[17-01-04 16:15:38]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:15:38]Connect with [10.52.4.134]......
+[17-01-04 16:15:38]报文长度:[000563]
+[17-01-04 16:15:38]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区农科巷58号</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000068</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:15:38]sProject=[NCDC]
+[17-01-04 16:15:38]original key:[1111111133333333]
+[17-01-04 16:15:38]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:15:38]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000068</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:15:38]aaz400[511302]
+[17-01-04 16:15:38]tradeId[NC39002]
+[17-01-04 16:15:38]inputXml[<inputxml reqseq="22000104000000000068" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市顺庆区农科巷58号</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:15:38]加密inputXml[z9pRjNpsGjwLQGaETUE7RxsOEFfB3f7zmH6YBpvV/KWkNfGAkyrNstrmPvhOdabAHKsEKoWoJxaF
+7tMJ70QQhg5a1vFrrLZHHkwOrRtWJjV21b7zqcH6+RABz5JcmV1rC2L7TzxdILwSHAzXjVJubGJC
+2Y9GaLILIwWrPhQ4ODufIPR3JEad1g4pPIikH19lJsNgKxqVP56O5Yz9zUX4bkPwEZDRmwQux7Ku
+vBnzahVc1idPFzb5h6/clWBl5SZ9CZI1zWvfBfaZEVC3XUCgvOOLks9JgWda9JXYc5ESuVoIStTH
+BSDErzXoft4S3xBTzv/yHXIXI0VR4q/TRxwSwprd+5Tz4VQppFark4WDWts=]
+[17-01-04 16:15:39]社保返回报文加密recvXml[dGDatInZI8FJGQnPTQAX+HbXJrhTUcY/zOGb7hp7yaJgF00cz9ksc/0sojKZjAVeiSTQcrJGB5+a
+qVSu0YPFurwBEpLN+AUs8wW9aAQcT8ciOhBvqBeClCA/PoNkHYosxC4sJ0dNibYgqIsuDsBdHSyj
+rRsHUr9QoTngkXa6EfrAHxRnJ3sWfzqkDMiK1KJLw2eUm1NxHx2NCnx6E1JXKxNZnWWQ55BDMTit
+4MIdJud7CatmBqEvzRQGl/mNeHuiOQAruFBbIFyxex6/pUXzmtTLWaUHu1X43fCY2fuNBxNYVMtx
+C2sQjX+VSIo/IWOc1FQ6yFc4aXdskGf4wRC3HtF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 16:15:39]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>150</aae019sum><aaz002>2132493</aaz002><akb079>1</akb079><rows><row><aae013/><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>150</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-04 16:15:39]应答报文:[000423<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>150</aae019sum><aaz002>2132493</aaz002><akb079>1</akb079><rows><row><aae013 /><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>150</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 16:15:39]Disconnect from [10.52.4.134]
+[17-01-04 16:16:49]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:16:49]Connect with [10.52.4.134]......
+[17-01-04 16:16:49]报文长度:[000405]
+[17-01-04 16:16:49]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<akb079>1</akb079>
+			<aae019sum>150</aae019sum>
+			<aaz002>2132493</aaz002>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000069</reqseq>
+		<tradeId>NC39004</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:16:49]sProject=[NCDC]
+[17-01-04 16:16:49]original key:[1111111133333333]
+[17-01-04 16:16:49]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:16:49]XmlPara01[<Para01><inputxml><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132493</aaz002><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000069</reqseq><tradeId>NC39004</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:16:49]aaz400[511302]
+[17-01-04 16:16:49]tradeId[NC39004]
+[17-01-04 16:16:49]inputXml[<inputxml reqseq="22000104000000000069" reqdate="20170104"><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132493</aaz002><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:16:49]加密inputXml[lmzpQ8uciUOuHyilSfoDe9etAiiYayLSIyEIJyMyGA6qYl0oj3B2H/4/jnItbBHs4l667+GHXkvL
+w5jPBrapgfrVsYJNUXyUzOSMwGkdidw1Eo1M/EFJcFgQ7vOoJtjG2lH6SU/W5wiG6La/lzzDbCOR
+023DzjaFVCU677//psn14Cx9vyQRCUSQdxkGnjD+S4C1JXXQwPTezCLr03BLhw==]
+[17-01-04 16:16:50]社保返回报文加密recvXml[YWLjcrpBoxlGCraNqt1icfeZDrQZ3opuc/Ht0+7gdYgq9tR463zv1MbvMsQ0W+qsIk7diLk7OCDH
+13eq/ie2VBktrui4umcDkGrDwLShp4lICL7pwQYPbAc07d9kaL8knq624XwvJKXAXnlvXIUMfDXZ
+aCdgl9ZuVDSuuippLKp68pPZDyckICFMP5KdFjLx]
+[17-01-04 16:16:50]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae013/><cljg>1</cljg><aaz002>2132493</aaz002></output></result>]
+[17-01-04 16:16:50]应答报文:[000195<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae013 /><cljg>1</cljg><aaz002>2132493</aaz002></output></result></RetInfo01></ap>]
+[17-01-04 16:16:50]Disconnect from [10.52.4.134]
+[17-01-04 16:16:50]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:16:50]Connect with [10.52.4.134]......
+[17-01-04 16:16:50]报文长度:[000395]
+[17-01-04 16:16:50]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<akb079>1</akb079>
+			<aae019sum>150</aae019sum>
+			<aaz002>2132493</aaz002>
+			<aae011>ikjf</aae011>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000069</reqseq>
+		<tradeId>NC39005</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:16:50]sProject=[NCDC]
+[17-01-04 16:16:50]original key:[1111111133333333]
+[17-01-04 16:16:50]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:16:50]XmlPara01[<Para01><inputxml><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132493</aaz002><aae011>ikjf</aae011><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000069</reqseq><tradeId>NC39005</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:16:50]aaz400[511302]
+[17-01-04 16:16:50]tradeId[NC39005]
+[17-01-04 16:16:50]inputXml[<inputxml reqseq="22000104000000000069" reqdate="20170104"><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132493</aaz002><aae011>ikjf</aae011><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:16:50]加密inputXml[TkfZsxDUSNjgTAm1fWNjoeHNUalEhieBok8RyKD4xnLdl+y5PRUmRAgYmK5HbcZe+aB7aTwWEgBz
+2iD/FEx94UFXTnpyhEApK7j052xviYrRmhfZJaYcR4M6PESloQ1KTbUiNMX/2w4+cEIEyRhb3oRg
+s8Q60K2SAtfUBgGLd7vTdZyzsb9n9Z9FHppYBsizGzUAH9uUj1OjELUfN7ljNg==]
+[17-01-04 16:16:50]社保返回报文加密recvXml[YWLjcrpBoxlGCraNqt1icfeZDrQZ3opuc/Ht0+7gdYgq9tR463zv1MbvMsQ0W+qsIk7diLk7OCDH
+13eq/ie2VBktrui4umcDkGrDwLShp4lICL7pwQYPbAc07d9kaL8knq624XwvJKXAXnlvXIUMfDXZ
+aCdgl9ZuVDSuuippLKp68pPZDyckICFMP5KdFjLx]
+[17-01-04 16:16:50]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae013/><cljg>1</cljg><aaz002>2132493</aaz002></output></result>]
+[17-01-04 16:16:50]应答报文:[000195<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae013 /><cljg>1</cljg><aaz002>2132493</aaz002></output></result></RetInfo01></ap>]
+[17-01-04 16:16:50]Disconnect from [10.52.4.134]
+[17-01-04 16:19:27]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:19:27]Connect with [10.52.4.134]......
+[17-01-04 16:19:27]报文长度:[000405]
+[17-01-04 16:19:27]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<akb079>1</akb079>
+			<aae019sum>150</aae019sum>
+			<aaz002>2132493</aaz002>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000070</reqseq>
+		<tradeId>NC39003</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:19:27]sProject=[NCDC]
+[17-01-04 16:19:27]original key:[1111111133333333]
+[17-01-04 16:19:27]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:19:27]XmlPara01[<Para01><inputxml><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132493</aaz002><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000070</reqseq><tradeId>NC39003</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:19:27]aaz400[511302]
+[17-01-04 16:19:27]tradeId[NC39003]
+[17-01-04 16:19:27]inputXml[<inputxml reqseq="22000104000000000070" reqdate="20170104"><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132493</aaz002><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:19:27]加密inputXml[iwoi57PIpIOaKl+oQDoCaKLBmgZUhtpK5TztMcI0bZi6l+Y3wX0Y3C35gXe5s6Vwwp4mBjPBX0Uf
+eynLO7nypoCwaXedFnXBUyQMpWG0Mdl948tyojR8wVWDWOfKAXPhAASVubuIKkTAdCIa6nq8BnF8
+7Hpm56O8cS4tKWUxTVZSKUn1smLLcoQrKvP6CAsFW10BxglckPPYl+DO1PtkYA==]
+[17-01-04 16:19:28]社保返回报文加密recvXml[YWLjcrpBoxlGCraNqt1icfeZDrQZ3opuc/Ht0+7gdYgq9tR463zv1MbvMsQ0W+qsIk7diLk7OCDH
+13eq/ie2VBktrui4umcDkGrDwLShp4lICL7pwQYPbAc07d9kaL8knq624XwvJKXAXnlvXIUMfDXZ
+aCdgl9ZuVDSuuippLKp68pPZDyckICFMP5KdFjLx]
+[17-01-04 16:19:28]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae013/><cljg>1</cljg><aaz002>2132493</aaz002></output></result>]
+[17-01-04 16:19:28]应答报文:[000195<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae013 /><cljg>1</cljg><aaz002>2132493</aaz002></output></result></RetInfo01></ap>]
+[17-01-04 16:19:28]Disconnect from [10.52.4.134]
+[17-01-04 16:22:16]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:22:16]Connect with [10.52.4.134]......
+[17-01-04 16:22:16]报文长度:[000547]
+[17-01-04 16:22:16]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000071</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:22:16]sProject=[NCDC]
+[17-01-04 16:22:16]original key:[1111111133333333]
+[17-01-04 16:22:16]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:22:16]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000071</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:22:16]aaz400[511302]
+[17-01-04 16:22:16]tradeId[NC39002]
+[17-01-04 16:22:16]inputXml[<inputxml reqseq="22000104000000000071" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省南充市</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:22:16]加密inputXml[jrcvnmh4XC7vMbf2YoVeKbE5vlwWb0QCv/5nnXoPX6ccFNC76g5ycowqE/DV2q2zYlbhliZoi9rT
+shXoKsTjesRv3Ky4gOFDzM9KTmzvgMpeCxSjHC5xFp1IvfomWPYdaTy1SjHbJyPCjSuu1SNw0YRU
+PPwodZS4YeK/BN6HNy8jE7OUPh5eg4/EkBFtGXzfrnfpzwEdXvT43R1FgWfeEmMGvYVH8VPvGprs
+P21NbZrFY7c8XPcastmaRimjhl0CsgYu1i4Oa3bRyD3v79eDQ+K2wrAlzxy4Bsmu5D9u6TWU+an9
+gxb5zLuem4l3WXoy]
+[17-01-04 16:22:16]社保返回报文加密recvXml[dGDatInZI8FJGQnPTQAX+ObNyLEL7zX44pxhK5iv14kTbj9YyvRVzJvqwVy2JUh/dFYJfzcWGRjl
+Y8cz4gm3tCZA80qb7gQC0lYSX6ZnvOZyqoHuQR4dKt3dQUWP+gREmX6dTd/cOYgkNewV1aQLqIMS
+6bdKUq+5c1m79j4bZr5kW/Y++iwe+yLdZtZKWsb2/VY5rjLINirkUWCrQC2XdBR4F6ZOtvVISNCV
+y7Rdl1p2lbzjiOMUAvxVnWTAgU95rT3rAriyYjA0Yyopt0DK/xzDMWaP/HNSE3ytYaIXDqTRQ675
+g7jO4sj5zsdvWj63cl9ILDPuTkR0BB7cKFFOqNF6qH9jNnno1yqkqAQdALs=]
+[17-01-04 16:22:16]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>150</aae019sum><aaz002>2132494</aaz002><akb079>1</akb079><rows><row><aae013/><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>150</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-04 16:22:16]应答报文:[000423<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>150</aae019sum><aaz002>2132494</aaz002><akb079>1</akb079><rows><row><aae013 /><aac003>彭仲文</aac003><aae001>2017</aae001><cljg>1</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>150</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 16:22:16]Disconnect from [10.52.4.134]
+[17-01-04 16:22:55]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 16:22:55]Connect with [10.52.4.134]......
+[17-01-04 16:22:55]报文长度:[000405]
+[17-01-04 16:22:55]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<akb079>1</akb079>
+			<aae019sum>150</aae019sum>
+			<aaz002>2132494</aaz002>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000072</reqseq>
+		<tradeId>NC39004</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 16:22:55]sProject=[NCDC]
+[17-01-04 16:22:55]original key:[1111111133333333]
+[17-01-04 16:22:55]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 16:22:55]XmlPara01[<Para01><inputxml><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132494</aaz002><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000072</reqseq><tradeId>NC39004</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 16:22:55]aaz400[511302]
+[17-01-04 16:22:55]tradeId[NC39004]
+[17-01-04 16:22:55]inputXml[<inputxml reqseq="22000104000000000072" reqdate="20170104"><akb079>1</akb079><aae019sum>150</aae019sum><aaz002>2132494</aaz002><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 16:22:55]加密inputXml[iwoi57PIpIOaKl+oQDoCaAVLlMtsZfge9lvDBeT3sBiJagw04TNUQIpNFT2aWlv+LTlQ1FaNMQbp
+dpajKLZF/7JDA5DGdFxs+OsumMnhwDNzPl8XLw9KxC6JUoSF2fSvNjvNiNjKk9J0vScy7mN6A/A7
+kYwKr9mQdXBAhPrlLv2od/pwaFyhov1rKZ7nryIFkb/Uyk1iEYo04iQcPA+O9w==]
+[17-01-04 16:22:56]社保返回报文加密recvXml[YrHfPdELLEdIv0xikjwgPbaSaSWE3KWCKkw2k18v1QASaO9mkE8gJ50vEsIJoKgx5lfFfNoE4M6O
+DhUOYDl9DLPepWW5CFQM9LjQDth4R9uDGBO2289y+U0Fx53Txkvg3PuwLS5WARn9onNlX+yTQ8o2
+eaiHdss6lJVYPdd/yQfaDv0L2aA9Aw/+q/pcx+Pl]
+[17-01-04 16:22:56]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae013/><cljg>1</cljg><aaz002>2132494</aaz002></output></result>]
+[17-01-04 16:22:56]应答报文:[000195<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae013 /><cljg>1</cljg><aaz002>2132494</aaz002></output></result></RetInfo01></ap>]
+[17-01-04 16:22:56]Disconnect from [10.52.4.134]
+[17-01-04 17:49:20]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 17:49:20]Connect with [10.52.4.134]......
+[17-01-04 17:49:20]报文长度:[000428]
+[17-01-04 17:49:20]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>372301194311280326</aac002>
+			<aac003>袁惠</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000090</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 17:49:20]sProject=[NCDC]
+[17-01-04 17:49:20]original key:[1111111133333333]
+[17-01-04 17:49:20]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 17:49:20]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000090</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 17:49:20]aaz400[511302]
+[17-01-04 17:49:20]tradeId[NC39001]
+[17-01-04 17:49:20]inputXml[<inputxml reqseq="22000104000000000090" reqdate="20170104"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 17:49:20]加密inputXml[eIM2JLEabKvlzjZ+aC20bSflhdZFzEYJM8E1v+suRSj5zAyA2Xbj9BhBJLubez4287i4wfSHanDT
+21gUMTBAbmuc3AM3thzM8I5M2H/xpy3kAn254OfLlRZKXE4IsoGwvsn4e95dVCYnpkHARP5ifyUI
+RnLeIW2Hvx3diik29xSGuTfJ/R2Q6aC7Ffag8yEyxRsNEWnbbyxHsKxwgWzZuJrd+5Tz4VQppFar
+k4WDWts=]
+[17-01-04 17:49:20]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[17-01-04 17:49:20]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[17-01-04 17:49:20]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[17-01-04 17:49:20]Disconnect from [10.52.4.134]
+[17-01-04 17:49:26]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 17:49:26]Connect with [10.52.4.134]......
+[17-01-04 17:49:26]报文长度:[000428]
+[17-01-04 17:49:26]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>372301194311280326</aac002>
+			<aac003>袁惠</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000091</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 17:49:26]sProject=[NCDC]
+[17-01-04 17:49:26]original key:[1111111133333333]
+[17-01-04 17:49:26]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 17:49:26]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000091</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 17:49:26]aaz400[511302]
+[17-01-04 17:49:26]tradeId[NC39001]
+[17-01-04 17:49:26]inputXml[<inputxml reqseq="22000104000000000091" reqdate="20170104"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 17:49:26]加密inputXml[eIM2JLEabKvlzjZ+aC20bSflhdZFzEYJM8E1v+suRSj5zAyA2Xbj9BhBJLubez4287i4wfSHanDT
+21gUMTBAbm4Ku/K1nMWkzw/1VBT8wfaAtZQG2Xae0XnKXRNX/SahhYn0vlJBvGgSj1llGb6C+Lxx
+smvEr4EmsAkhQAOt9oGIDTV2v6Wg0LI3j5SD+i5ecNSA0+jBNyIErpRZ1rZdSZrd+5Tz4VQppFar
+k4WDWts=]
+[17-01-04 17:49:26]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[17-01-04 17:49:26]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[17-01-04 17:49:26]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[17-01-04 17:49:26]Disconnect from [10.52.4.134]
+[17-01-04 17:49:45]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 17:49:45]Connect with [10.52.4.134]......
+[17-01-04 17:49:45]报文长度:[000428]
+[17-01-04 17:49:45]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2015</aae041>
+			<aae140>390</aae140>
+			<aac002>372301194311280326</aac002>
+			<aac003>袁惠</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000092</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 17:49:45]sProject=[NCDC]
+[17-01-04 17:49:45]original key:[1111111133333333]
+[17-01-04 17:49:45]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 17:49:45]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2015</aae041><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000092</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 17:49:45]aaz400[511302]
+[17-01-04 17:49:45]tradeId[NC39001]
+[17-01-04 17:49:45]inputXml[<inputxml reqseq="22000104000000000092" reqdate="20170104"><aae042>2016</aae042><aae041>2015</aae041><aae140>390</aae140><aac002>372301194311280326</aac002><aac003>袁惠</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 17:49:45]加密inputXml[c1rK/BeniNRqJ1Dbh6oPNWy26SZ/VQCy84Qex+V6hvbNjbPLgs2ntoq+1bK517QCem4wEW8SlqS1
+ewxzMqsEnSyFsuiEteGx0vX3SSBHKjkJ3/mPisP6akiu5P5cHUnFKECNtQBFqGrPrGooSxkJ5Suv
+chcpWB70pIlsAaKibNXu0ituXXNftWlcAlWTdV+JOr2SqDoqXFiW0oJPuqvtlxs1AB/blI9ToxC1
+Hze5YzY=]
+[17-01-04 17:49:45]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[17-01-04 17:49:45]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[17-01-04 17:49:45]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[17-01-04 17:49:45]Disconnect from [10.52.4.134]
+[17-01-04 17:50:32]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 17:50:32]Connect with [10.52.4.134]......
+[17-01-04 17:50:32]报文长度:[000541]
+[17-01-04 17:50:32]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>372401193505171516</aac002>
+					<aac003>彭仲文</aac003>
+				</row>
+			</rows>
+			<aab004>四川省</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000093</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 17:50:32]sProject=[NCDC]
+[17-01-04 17:50:32]original key:[1111111133333333]
+[17-01-04 17:50:32]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 17:50:32]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000093</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 17:50:32]aaz400[511302]
+[17-01-04 17:50:32]tradeId[NC39002]
+[17-01-04 17:50:32]inputXml[<inputxml reqseq="22000104000000000093" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>372401193505171516</aac002><aac003>彭仲文</aac003></row></rows><aab004>四川省</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 17:50:32]加密inputXml[sAxvfpyTu7OF0+YcumDFydxSEr+gPf48Dea6dJCSMkkFnGQjSDW4pr40kjRHeO4Y1zj0SYVLd/v/
+EIb8XmSgHAR8rz7eYbradkLqBYXD1KBmHxrhipC/PXZ3X1o3zqhMx6R+QITdANhUrkt2XEt5Gghg
+q+U0y1owyhUvOMlHSOzmL/NDOdvDv8Pbp0qNxFdnAW0pSHqsVCc1QLUqMDXD4FIJXN9UoO0IYFAN
+Coo88O8iQ5SYxQy4VFUEWuiZ/rOEipbTO3WOceIEBRVSWkXPhJakQm3Kk9W8Tws/sJEW8FCa3fuU
+8+FUKaRWq5OFg1rb]
+[17-01-04 17:50:32]社保返回报文加密recvXml[CHCAl8J4P/OCWOJqvWmbicJzSDsY2dofZEYAkuKSUU6qyCh6rZiHT7wd2iwoE9oYF1Tie7rZixv6
+ZbLp8FevJXdvG0LCBb3b0RyOH2Me1KEJH8FPefqkpvxII+1YBX9CZvs+8j4t4+XV5hDB12qtx1o9
+mQgz8qjLLQ5ucK2JGE5iUwQaI02JojuvqMdigjAfGnVpF9rNR0A+boFFeP3rY9PhyW6NqJrNBaYN
+eGrfs7bGaXa2xL/1hw5ZuTIXwLOaK1/CNPN6ntXgldXFTXMv7vacUl5/JmrZaSuDXAI/eNFR9gY8
+yNkw0Cw4pl+yAI5tBxj2uaj/AOhHUUpcgNcpi8Olf4JBNgzTF8pRjwxA30EEfuaa0nj8tAS6YR4z
+LrcWTZOSJsRuv1fb5IXEIw34gQ==]
+[17-01-04 17:50:32]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132505</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372401193505171516缴费年度[2016]有误</aae013><aac003>彭仲文</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result>]
+[17-01-04 17:50:32]应答报文:[000470<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae019sum>0</aae019sum><aaz002>2132505</aaz002><akb079>0</akb079><rows><row><aae013>身份证为372401193505171516缴费年度[2016]有误</aae013><aac003>彭仲文</aac003><aae001>2016</aae001><cljg>0</cljg><aaa027>511302</aaa027><aae100>0</aae100><aae019>0</aae019><aae140>390</aae140><aac002>372401193505171516</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-01-04 17:50:32]Disconnect from [10.52.4.134]
+[17-01-04 17:52:47]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-04 17:52:47]Connect with [10.52.4.134]......
+[17-01-04 17:52:47]报文长度:[000394]
+[17-01-04 17:52:47]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<akb079>1</akb079>
+			<aae019sum>150.00</aae019sum>
+			<aaz002>2132494</aaz002>
+			<aae011>ikjf</aae011>
+			<aff002></aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000104000000000098</reqseq>
+		<tradeId>NC39005</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-01-04 17:52:47]sProject=[NCDC]
+[17-01-04 17:52:47]original key:[1111111133333333]
+[17-01-04 17:52:47]new key:[iHO3ikVV8qq37H0N]
+[17-01-04 17:52:47]XmlPara01[<Para01><inputxml><akb079>1</akb079><aae019sum>150.00</aae019sum><aaz002>2132494</aaz002><aae011>ikjf</aae011><aff002></aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000104000000000098</reqseq><tradeId>NC39005</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-04 17:52:47]aaz400[511302]
+[17-01-04 17:52:47]tradeId[NC39005]
+[17-01-04 17:52:47]inputXml[<inputxml reqseq="22000104000000000098" reqdate="20170104"><akb079>1</akb079><aae019sum>150.00</aae019sum><aaz002>2132494</aaz002><aae011>ikjf</aae011><aff002></aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-04 17:52:47]加密inputXml[2VW4VXIV+D+wRryXWrFgoa8gdPXFKnoHKPFFe8jvNCiSvcokSKoU1r6Z/oqoSaE+XAaptNxOEwMw
+CKJHMXK8yckOpoHE+Ykr///SWFCzK5wpxetJk2gB9xPJDP/3QjEUWxxV9Wg9N+ZXHhk1vPL9Vzj4
+boa660upRdSGCtd7723r1cH6Hw3isbwQMQoxulniMibDlke8FLPZZuKkjxb5Yg==]
+[17-01-04 17:52:47]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpNhUaA3cH+45YWWZ4ro30b7IgPkj53ogU3M
+Tly73IU6vFoMgAHVZJ3714lGIsfm66zISyhlYYjqIS7XcjNArbsg]
+[17-01-04 17:52:47]社保返回报文解密[<result><code>100</code><message>银行网点为必传项！</message></result>]
+[17-01-04 17:52:47]应答报文:[000150<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>银行网点为必传项！</message></result></RetInfo01></ap>]
+[17-01-04 17:52:47]Disconnect from [10.52.4.134]

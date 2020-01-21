@@ -1,0 +1,95 @@
+[17-08-22 09:53:41]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-22 09:53:41]Connect with [10.52.4.134]......
+[17-08-22 09:53:41]报文长度:[000578]
+[17-08-22 09:53:41]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>201712</aae042>
+			<aae041>201701</aae041>
+			<yic016>02</yic016>
+			<aae140_391>0</aae140_391>
+			<aae140_390>0</aae140_390>
+			<aae140_330>0</aae140_330>
+			<aae140_313>0</aae140_313>
+			<aae140_310>0</aae140_310>
+			<aae140_110>1</aae140_110>
+			<aaz010>1001852050</aaz010>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170822</reqdate>
+		<reqseq>22000822000000000092</reqseq>
+		<tradeId>ZS100</tradeId>
+		<aaz400></aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-22 09:53:41]sProject=[NCDC]
+[17-08-22 09:53:41]original key:[1111111133333333]
+[17-08-22 09:53:41]new key:[eEKa41ksY6VvAqGo]
+[17-08-22 09:53:41]XmlPara01[<Para01><inputxml><aae042>201712</aae042><aae041>201701</aae041><yic016>02</yic016><aae140_391>0</aae140_391><aae140_390>0</aae140_390><aae140_330>0</aae140_330><aae140_313>0</aae140_313><aae140_310>0</aae140_310><aae140_110>1</aae140_110><aaz010>1001852050</aaz010><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170822</reqdate><reqseq>22000822000000000092</reqseq><tradeId>ZS100</tradeId><aaz400></aaz400></Para01>]
+[17-08-22 09:53:41]tradeId[ZS100]
+[17-08-22 09:53:41]inputXml[<inputxml reqseq="22000822000000000092" reqdate="20170822"><aae042>201712</aae042><aae041>201701</aae041><yic016>02</yic016><aae140_391>0</aae140_391><aae140_390>0</aae140_390><aae140_330>0</aae140_330><aae140_313>0</aae140_313><aae140_310>0</aae140_310><aae140_110>1</aae140_110><aaz010>1001852050</aaz010><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-22 09:53:41]加密inputXml[ebM2phNI2iaWgKqAeccy6W5doVHES8EIZzJvZ9iJ3tPvKRoMqXinIkETUwJC++MQeQb5k64vTBKc
+t/+sB0KpwLGYJlG4N5n83pwaRwcEwOtwvVje25Kso/L3KxWz74i+goEOAclF8n4XHExf/C7hXDlT
+TE7GivnKV17CxTNVWcBqTBQlu/lmI/WZdZvlSgadXOBmgM784L3RcEcrSs3xmgr4yXu5YoB/+Bzs
+Vg5rDpvPkSiCByoTNKJQkDl3mcQA]
+[17-08-22 09:53:41]社保返回报文加密recvXml[/SAPv3hfPVu9mra0TX9fJ4BPUsRQnm2/kEtSyAlIUmtZmyr1/6T11M5BWoBfdK/feRFD4lHdLULh
+Cf2p3P6qBVVSh4dwETGscvdVBbofgVh/P27rzKDL7BH09SR7Z3qDwimEVaR1nFRHXqwK2JauGs86
+cifyC5FVJhnyJ3vv6YPlLS7o6kJKaQmYwtxFTij/I4suUvWw/L1T1bggdPMxWE7WhP5UKYYlFSRP
+WSVPaaUZpfgCEWrAfu8S0EZO1/1+]
+[17-08-22 09:53:41]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：人员1001852050未参保,不能缴费,请先做新参保!ORA-06512: 在 "NCJB1.PKG_P_YLHL", line 2615
+</message></result>]
+[17-08-22 09:53:41]应答报文:[000239<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：人员1001852050未参保,不能缴费,请先做新参保!ORA-06512: 在 "NCJB1.PKG_P_YLHL", line 2615
+</message></result></RetInfo01></ap>]
+[17-08-22 09:53:41]Disconnect from [10.52.4.134]
+[17-08-22 09:53:53]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-22 09:53:53]Connect with [10.52.4.134]......
+[17-08-22 09:53:53]报文长度:[000578]
+[17-08-22 09:53:53]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>201712</aae042>
+			<aae041>201701</aae041>
+			<yic016>02</yic016>
+			<aae140_391>0</aae140_391>
+			<aae140_390>0</aae140_390>
+			<aae140_330>0</aae140_330>
+			<aae140_313>0</aae140_313>
+			<aae140_310>1</aae140_310>
+			<aae140_110>0</aae140_110>
+			<aaz010>1001852050</aaz010>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170822</reqdate>
+		<reqseq>22000822000000000093</reqseq>
+		<tradeId>ZS100</tradeId>
+		<aaz400></aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-22 09:53:53]sProject=[NCDC]
+[17-08-22 09:53:53]original key:[1111111133333333]
+[17-08-22 09:53:53]new key:[eEKa41ksY6VvAqGo]
+[17-08-22 09:53:53]XmlPara01[<Para01><inputxml><aae042>201712</aae042><aae041>201701</aae041><yic016>02</yic016><aae140_391>0</aae140_391><aae140_390>0</aae140_390><aae140_330>0</aae140_330><aae140_313>0</aae140_313><aae140_310>1</aae140_310><aae140_110>0</aae140_110><aaz010>1001852050</aaz010><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170822</reqdate><reqseq>22000822000000000093</reqseq><tradeId>ZS100</tradeId><aaz400></aaz400></Para01>]
+[17-08-22 09:53:53]tradeId[ZS100]
+[17-08-22 09:53:53]inputXml[<inputxml reqseq="22000822000000000093" reqdate="20170822"><aae042>201712</aae042><aae041>201701</aae041><yic016>02</yic016><aae140_391>0</aae140_391><aae140_390>0</aae140_390><aae140_330>0</aae140_330><aae140_313>0</aae140_313><aae140_310>1</aae140_310><aae140_110>0</aae140_110><aaz010>1001852050</aaz010><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-22 09:53:53]加密inputXml[ebM2phNI2iaWgKqAeccy6VSVpbSC69riNXWNJqac5RyGwVumi8q4u33cd4DWI+jJqXVB8H/Xmsa5
+3ASCTZVNxnK+Rv8iu2pAq8GKqzkhunD/PQyGbPwjgzB/d+7IM705qAMc4JF4RDriOv2f07tQfSpo
+Vz+3Eh6XBYR0IFRPWKyj+oJdLp1xhXNtXHZ4RyIBY1jwBajR4s4XQyCyFMXSICTwhmCjXTP5S6ap
+xaKEqoYs3aC5VEXH28M9HqErrsLt]
+[17-08-22 09:53:53]社保返回报文加密recvXml[oZAZp+wZpZUsUj26XIfCeEplfQphs9ag5Dg6b3kIrhJ2u+jQJnCEBR0JmyKbZC9r6UTTCiWfAiiH
+7r99OfhzRvBU87CMOzM9E9/MT1TrXMMfzxJcosgoMtySiOU1d6R369H2KcVKOWYht9UpGkrr4BfP
+1e9ZU3y4an2hJiHJZhwEBgAWL+Yf6Zhl0zbHR85sajohhmSx64ODGbickexVc7z1sYUBSbnZu1cF
+ozT9guxjKlJyvqp7K0+D0/DGAkfNQ2ggC0eJKFZOlhIwO7L8g2QjJJAl7niKwySBP7nMsodilrJa
+KE+mC5/wD6kiZ8BufVmIsfN/F74T91xtjR9X6kFbO2Gm3UF6KEt1A5+vFOuhQsW5hpPvx/cZlvTA
+zyoR]
+[17-08-22 09:53:53]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae009_sb>南充市社会保险局（测）</aae009_sb><aae013/><aac003>陈辉</aac003><aae072>55673568</aae072><aaa121>01</aaa121><aae010_sb>1234567890000000001</aae010_sb><aaa027>511399</aaa027><aae008_sb>103</aae008_sb><aae019>3240</aae019><aac001>1001852050</aac001></output></result>]
+[17-08-22 09:53:53]应答报文:[000406<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae009_sb>南充市社会保险局（测）</aae009_sb><aae013 /><aac003>陈辉</aac003><aae072>55673568</aae072><aaa121>01</aaa121><aae010_sb>1234567890000000001</aae010_sb><aaa027>511399</aaa027><aae008_sb>103</aae008_sb><aae019>3240</aae019><aac001>1001852050</aac001></output></result></RetInfo01></ap>]
+[17-08-22 09:53:53]Disconnect from [10.52.4.134]

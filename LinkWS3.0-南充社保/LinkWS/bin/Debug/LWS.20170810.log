@@ -1,0 +1,230 @@
+[17-08-10 15:40:44]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-10 15:40:44]Connect with [10.52.4.134]......
+[17-08-10 15:40:44]报文长度:[000326]
+[17-08-10 15:40:44]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae072>55671979</aae072>
+			<aaa027>511399</aaa027>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000810000000000152</reqseq>
+		<tradeId>ZS200</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-10 15:40:44]sProject=[NCDC]
+[17-08-10 15:40:44]original key:[1111111133333333]
+[17-08-10 15:40:44]new key:[eEKa41ksY6VvAqGo]
+[17-08-10 15:40:44]XmlPara01[<Para01><inputxml><aae072>55671979</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170104</reqdate><reqseq>22000810000000000152</reqseq><tradeId>ZS200</tradeId></Para01>]
+[17-08-10 15:40:44]tradeId[ZS200]
+[17-08-10 15:40:44]inputXml[<inputxml reqseq="22000810000000000152" reqdate="20170104"><aae072>55671979</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-10 15:40:44]加密inputXml[8YXR5DoMNiDy5Q1IXV+x+FRacnV+Zt4Ctnpd6UpAE9bKhB4sAlkYGmdvfgxHvHw4qt6jJ42p8zTz
+p5ACiZDs7So9MdGfI09QnVZP9BFpOq2qlpYf3SGiItDdEySoBjV6OGfxdJY35jy1vx3jIURxfqtt
++gMHuy3Bs5E3RPPfVI8lC3QFdH81oMMpvAcy8w+1]
+[17-08-10 15:40:44]社保返回报文加密recvXml[i3Ei+Ig356i2hWGYCcSBIltzKV+vhc9zKqkr8UNcu/QL1FHdur7NILilFi3N+p4J0+fCWi2CxEHa
+yb0v71zk6xHcWg44O4SBEoy2tM7m4zq0s6bJcLLwkOo7zw2CmdstE+8rKLh6SZ1rWMbqFoqNgxwG
+ZM/cuQcSVa/hm5hjsHTKShOi3J3uEGC0m37ORvBPdv9ci+Uuy1rpp0ldgDxZQ22ZWnexIKDqfn/7
+hCGF3H6bO7F036vRYFnG9vfSxCHEQl00IAj5MvUT9FlxON3Y6aDs5Sirxw9tj7l0xDEVHgE=]
+[17-08-10 15:40:44]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae009_sb>南充市社保局*****</aae009_sb><aae013/><aaa121>03</aaa121><aae010_sb>11111111111111111111111111111</aae010_sb><aaa027>511399</aaa027><aae008_sb>000</aae008_sb><aae019>17748.72</aae019></output></result>]
+[17-08-10 15:40:44]应答报文:[000342<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae009_sb>南充市社保局*****</aae009_sb><aae013 /><aaa121>03</aaa121><aae010_sb>11111111111111111111111111111</aae010_sb><aaa027>511399</aaa027><aae008_sb>000</aae008_sb><aae019>17748.72</aae019></output></result></RetInfo01></ap>]
+[17-08-10 15:40:44]Disconnect from [10.52.4.134]
+[17-08-10 15:41:07]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-10 15:41:07]Connect with [10.52.4.134]......
+[17-08-10 15:41:07]报文长度:[000397]
+[17-08-10 15:41:07]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae019sum>17748.72</aae019sum>
+			<aae072_yh>137528508</aae072_yh>
+			<aae072>55671979</aae072>
+			<aaa027>511399</aaa027>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000810000000000153</reqseq>
+		<tradeId>ZS202</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-10 15:41:07]sProject=[NCDC]
+[17-08-10 15:41:07]original key:[1111111133333333]
+[17-08-10 15:41:07]new key:[eEKa41ksY6VvAqGo]
+[17-08-10 15:41:07]XmlPara01[<Para01><inputxml><aae019sum>17748.72</aae019sum><aae072_yh>137528508</aae072_yh><aae072>55671979</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170104</reqdate><reqseq>22000810000000000153</reqseq><tradeId>ZS202</tradeId></Para01>]
+[17-08-10 15:41:07]tradeId[ZS202]
+[17-08-10 15:41:07]inputXml[<inputxml reqseq="22000810000000000153" reqdate="20170104"><aae019sum>17748.72</aae019sum><aae072_yh>137528508</aae072_yh><aae072>55671979</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-10 15:41:07]加密inputXml[lJeUf1luIrvg5qZTZiODLCUH/R1lJUBN3NaLEmvduq+gQoGo85u/+Q4Tgc42bHME8q5pQjvHQBJl
+qjy4gGP/JUXv40cTVO84EUoMpdQzkGM5xJG/MLdkN5UHAU5OxC/F4Sg9puex/NEVJSWCaJzYm3Ff
+jlPlL38xtxIuJNjAhca9zOq9sgWgmJxpS1WJAkneighyy9uzIfNlXAobwlzBtRJlCE6zjGmpd/f1
+h7IA4KI=]
+[17-08-10 15:41:07]社保返回报文加密recvXml[i3Ei+Ig356i2hWGYCcSBIltzKV+vhc9zKqkr8UNcu/QL1FHdur7NILilFi3N+p4J0+fCWi2CxEHa
+yb0v71zk6xHcWg44O4SBEoy2tM7m4zrSVIWXs4IgMb9LWz61QPw3QwZZ2y4caaXQw4vpwSTAaxrT
+Q6PG99/KMgjyXAhtnwA=]
+[17-08-10 15:41:07]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae013/><aae019>17748.72</aae019></output></result>]
+[17-08-10 15:41:07]应答报文:[000182<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae013 /><aae019>17748.72</aae019></output></result></RetInfo01></ap>]
+[17-08-10 15:41:07]Disconnect from [10.52.4.134]
+[17-08-10 16:27:47]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-10 16:27:47]Connect with [10.52.4.134]......
+[17-08-10 16:27:47]报文长度:[000326]
+[17-08-10 16:27:47]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae072>55660369</aae072>
+			<aaa027>511399</aaa027>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000810000000000196</reqseq>
+		<tradeId>ZS200</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-10 16:27:47]sProject=[NCDC]
+[17-08-10 16:27:47]original key:[1111111133333333]
+[17-08-10 16:27:47]new key:[eEKa41ksY6VvAqGo]
+[17-08-10 16:27:47]XmlPara01[<Para01><inputxml><aae072>55660369</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170104</reqdate><reqseq>22000810000000000196</reqseq><tradeId>ZS200</tradeId></Para01>]
+[17-08-10 16:27:47]tradeId[ZS200]
+[17-08-10 16:27:47]inputXml[<inputxml reqseq="22000810000000000196" reqdate="20170104"><aae072>55660369</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-10 16:27:47]加密inputXml[8YXR5DoMNiDy5Q1IXV+x+DDFemoH+hBOfAztjhwrp4z7Eju6J6fie6etsUCQsBvQo7XNAXPujFXb
+zTmQFV+PiC1qB8mOqZiVo360UG8ZcsgUlO/IZGjI/0xcU1bBCSYPUXl4wriFbcED9pxoK+YGg9x8
+AG94+2uQgy+7iZbwYALQesAlusWKivDCOS36PpUe]
+[17-08-10 16:27:47]社保返回报文加密recvXml[/SAPv3hfPVu9mra0TX9fJ4BPUsRQnm2/kEtSyAlIUmtZmyr1/6T11M5BWoBfdK/feRFD4lHdLULh
+Cf2p3P6qBcukiYdJy+p7b1mMd0a7Z/BcuSKgkGg3zSAp8Oppi1C8K6ftS/XQGklihLhMAHrjLooV
+7OHUXcX338LyPllF0Vhe2z+ZeTf9Ox9F6L0pnWQaU2OOPs1zpz+/fFJKSwZNwWV4JZ7PuyJhf+ig
+D1w16L6TuX/Q08AZK21IeIYN7T1iKw2sUL88tkJbUEV8MwDYD837hTKXA+7iAARsyFsMtf6eLUy6
+tUm8rCQiwa7nrrdw2sj8KFGt+eXBmIc8hBOjoAJtBN0bJRcDhH9JoVv6WcXWLpaHpHhj/6c1PX/r
+tvRlcIW5jnW+Km+SH6xwNlwNMJPiU3AYCfbbQwEmW7QmDiunjOElO+P++9cY2Sz3CVKR5rscsYZi
+HreKi+7MJTfMpUvEyIExhx/IxJI2WuNzpns=]
+[17-08-10 16:27:47]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_ZS200('55660369','C1010351007641','ikjf',:4,:5)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB1.PKG_P_YLHL" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB1.PKG_P_YLHL"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB1.PKG_P_YLHL" 的程序单元@YLHLTEST.PKG_DO_INTERFACE </message></result>]
+[17-08-10 16:27:47]应答报文:[000486<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_ZS200('55660369','C1010351007641','ikjf',:4,:5)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB1.PKG_P_YLHL" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB1.PKG_P_YLHL"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB1.PKG_P_YLHL" 的程序单元@YLHLTEST.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-08-10 16:27:47]Disconnect from [10.52.4.134]
+[17-08-10 16:28:08]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-10 16:28:08]Connect with [10.52.4.134]......
+[17-08-10 16:28:08]报文长度:[000326]
+[17-08-10 16:28:08]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae072>55671991</aae072>
+			<aaa027>511399</aaa027>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000810000000000198</reqseq>
+		<tradeId>ZS200</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-10 16:28:08]sProject=[NCDC]
+[17-08-10 16:28:08]original key:[1111111133333333]
+[17-08-10 16:28:08]new key:[eEKa41ksY6VvAqGo]
+[17-08-10 16:28:08]XmlPara01[<Para01><inputxml><aae072>55671991</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170104</reqdate><reqseq>22000810000000000198</reqseq><tradeId>ZS200</tradeId></Para01>]
+[17-08-10 16:28:08]tradeId[ZS200]
+[17-08-10 16:28:08]inputXml[<inputxml reqseq="22000810000000000198" reqdate="20170104"><aae072>55671991</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-10 16:28:08]加密inputXml[n+0RpIm4HV/sIQirV/QTyFNtIj83CSnicXEPi/hA/Iv/Px1PfI9VOMAzn85jQbguyfTipFzpRFzX
+alkcgFP9pUhubWsfCifjXA8JCbdsBAB8MJaOEV4ONeTcIeHr3l6A9JvVDl8uKhSEDl2+cYhW9v86
+JbvpD6WHdZbZ/hps4Yk161W+5eVOjEcFRTkR8MaL]
+[17-08-10 16:28:09]社保返回报文加密recvXml[/SAPv3hfPVu9mra0TX9fJ4BPUsRQnm2/kEtSyAlIUmtZmyr1/6T11M5BWoBfdK/feRFD4lHdLULh
+Cf2p3P6qBcukiYdJy+p7b1mMd0a7Z/BcuSKgkGg3zSAp8Oppi1C8K6ftS/XQGklihLhMAHrjLt9S
+FFYmeLgkz4V+skU+7fPmXSxdXDceIJYDLClPlVuDKNhu/DLWjRLWVs4o+dFhl0fXugK9udV8ACiq
+M27kQPROTDI42Xnrac08XrN0VnvQpOwpMsdmQWgU5QljPVWk6pY1+YjVnlSRZi2USCuAdeKMi0P5
+7GNnFQ9Xtc/2GCFmei9tZKvtydj8zxNLiF7NUG5KghMlvgkZ9LZheG4t8o/g1VIc2uQ2GuoVjH6s
+b2RmQ051yusG0vuXbVrCA/jfPavQ1i8RW6We/AUkCGI+2w8XNI3vMtKpHhQk4moQ4fEy8Yb4U/70
+2GDxuGPIkblf6xolLQomBNxYDPctaAUr4CM=]
+[17-08-10 16:28:09]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_ZS200('55671991','C1010351007641','ikjf',:4,:5)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB1.PKG_P_YLHL" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB1.PKG_P_YLHL"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB1.PKG_P_YLHL" 的程序单元@YLHLTEST.PKG_DO_INTERFACE </message></result>]
+[17-08-10 16:28:09]应答报文:[000486<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_ZS200('55671991','C1010351007641','ikjf',:4,:5)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB1.PKG_P_YLHL" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB1.PKG_P_YLHL"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB1.PKG_P_YLHL" 的程序单元@YLHLTEST.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-08-10 16:28:09]Disconnect from [10.52.4.134]
+[17-08-10 16:38:14]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-10 16:38:14]Connect with [10.52.4.134]......
+[17-08-10 16:38:14]报文长度:[000326]
+[17-08-10 16:38:14]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae072>55671991</aae072>
+			<aaa027>511399</aaa027>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000810000000000219</reqseq>
+		<tradeId>ZS200</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-10 16:38:14]sProject=[NCDC]
+[17-08-10 16:38:14]original key:[1111111133333333]
+[17-08-10 16:38:14]new key:[eEKa41ksY6VvAqGo]
+[17-08-10 16:38:14]XmlPara01[<Para01><inputxml><aae072>55671991</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170104</reqdate><reqseq>22000810000000000219</reqseq><tradeId>ZS200</tradeId></Para01>]
+[17-08-10 16:38:14]tradeId[ZS200]
+[17-08-10 16:38:14]inputXml[<inputxml reqseq="22000810000000000219" reqdate="20170104"><aae072>55671991</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-10 16:38:15]加密inputXml[3xhFJv8scE3tlFNBqDfokt2K8BrbjJpYOokba+0UJGnFkynelzDIWAt14DXUK8+krtBSnPNXjINe
+a8uw8l9GweXb/f6QO6TcKddU4XUPKt75Zsd07qZjRLYm7yTwpMqCiBMwhoRw3oSjtLap2vXbWcH5
+fLQvrPgFioPeOyz5MEClrBh45/56Jl4elyy3LvVv]
+[17-08-10 16:38:15]社保返回报文加密recvXml[/SAPv3hfPVu9mra0TX9fJ4BPUsRQnm2/kEtSyAlIUmtZmyr1/6T11M5BWoBfdK/feRFD4lHdLULh
+Cf2p3P6qBQhn4avXaXntVqzY4ZN/kRuV0PJAXaU8CJzzBEwvIaWgpvITUO5yXKx21P3HWp83swG7
+ChRoGTYlVQQ1y5MlH+E=]
+[17-08-10 16:38:15]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：单据号55671991已确认过!</message></result>]
+[17-08-10 16:38:15]应答报文:[000175<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：单据号55671991已确认过!</message></result></RetInfo01></ap>]
+[17-08-10 16:38:15]Disconnect from [10.52.4.134]
+[17-08-10 16:38:25]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-08-10 16:38:25]Connect with [10.52.4.134]......
+[17-08-10 16:38:25]报文长度:[000326]
+[17-08-10 16:38:25]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae072>55660369</aae072>
+			<aaa027>511399</aaa027>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000810000000000221</reqseq>
+		<tradeId>ZS200</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-08-10 16:38:25]sProject=[NCDC]
+[17-08-10 16:38:25]original key:[1111111133333333]
+[17-08-10 16:38:25]new key:[eEKa41ksY6VvAqGo]
+[17-08-10 16:38:25]XmlPara01[<Para01><inputxml><aae072>55660369</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170104</reqdate><reqseq>22000810000000000221</reqseq><tradeId>ZS200</tradeId></Para01>]
+[17-08-10 16:38:25]tradeId[ZS200]
+[17-08-10 16:38:25]inputXml[<inputxml reqseq="22000810000000000221" reqdate="20170104"><aae072>55660369</aae072><aaa027>511399</aaa027><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-08-10 16:38:25]加密inputXml[3xhFJv8scE3tlFNBqDfokjOd+xXpAgkDPoySYeFH7YUGDMv8JHipuInvz8x2aITNdC4ZKfD1kFsM
+bOmozBR6+/u9wk5m5/zKY18yWrKWttVOhFvxRjN0wmCqLT41jHfDEhqpRq2lMkffw0BwCLJHNkkr
+YGlTd8GzSLLXLU+53DaHKbCH/3bRBZRhVOcF60sd]
+[17-08-10 16:38:25]社保返回报文加密recvXml[/SAPv3hfPVu9mra0TX9fJ4BPUsRQnm2/kEtSyAlIUmtZmyr1/6T11M5BWoBfdK/feRFD4lHdLULh
+Cf2p3P6qBQhn4avXaXntVqzY4ZN/kRto0WtibcvV5R6u+zIP2RZYpvITUO5yXKx21P3HWp83sxOl
+cKZ71X1fkNmkLgv2cJA=]
+[17-08-10 16:38:25]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：单据号55660369已确认过!</message></result>]
+[17-08-10 16:38:25]应答报文:[000175<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：单据号55660369已确认过!</message></result></RetInfo01></ap>]
+[17-08-10 16:38:25]Disconnect from [10.52.4.134]

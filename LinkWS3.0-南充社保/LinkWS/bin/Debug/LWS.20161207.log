@@ -1,0 +1,701 @@
+[16-12-07 09:55:12]WriteLog start...
+[16-12-07 09:55:12]System(3.0.1) init is completed......
+[16-12-07 09:55:14]Begin to listen[8901][20]......
+[16-12-07 09:55:14]线程池最大线程[1000]最小线程[5]
+[16-12-07 09:56:03]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 09:56:03]Connect with [10.52.4.134]......
+[16-12-07 09:56:03]报文长度:[000233]
+[16-12-07 09:56:03]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000035</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 09:56:03]sProject=[NCDC]
+[16-12-07 09:56:06]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000035</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 09:56:06]aaz400[511300]
+[16-12-07 09:56:06]tradeId[T0102]
+[16-12-07 09:56:06]inputXml[<inputxml reqseq="22001207000000000035" reqdate="20161207"></inputxml>]
+[16-12-07 09:56:06]inikey:[1111111133333333]
+[16-12-07 09:56:08]签到返回加密[R3GzKmdNFBsN93x/DG9ZksbAPP6AYzGo/SPzCJ9qf3I8iH1zG4oM2yeuXV0CVJBx9lRQ8+93VhZ+
+LZ9VlT2ayHNVVKPjtOjZEb1PRX3vfhuzy+XjkiNW98eobgjwwFVqJ0Rt7EAs9Dexw6HAS/28GQ==]
+[16-12-07 09:56:09]err=[失败:Given final block not properly padded]
+[16-12-07 09:56:09]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-07 09:56:09]Disconnect from [10.52.4.134]
+[16-12-07 10:00:36]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 10:00:36]Connect with [10.52.4.134]......
+[16-12-07 10:00:36]报文长度:[000233]
+[16-12-07 10:00:36]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000036</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 10:00:36]sProject=[NCDC]
+[16-12-07 10:00:36]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000036</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 10:00:36]aaz400[511300]
+[16-12-07 10:00:36]tradeId[T0102]
+[16-12-07 10:00:36]inputXml[<inputxml reqseq="22001207000000000036" reqdate="20161207"></inputxml>]
+[16-12-07 10:00:36]inikey:[1111111133333333]
+[16-12-07 10:00:36]签到返回加密[R3GzKmdNFBsN93x/DG9ZksbAPP6AYzGo/SPzCJ9qf3I8iH1zG4oM2yeuXV0CVJBx9lRQ8+93VhZ+
+LZ9VlT2ayHNVVKPjtOjZEb1PRX3vfhuzy+XjkiNW98eobgjwwFVqJ0Rt7EAs9Dexw6HAS/28GQ==]
+[16-12-07 10:00:36]err=[失败:Given final block not properly padded]
+[16-12-07 10:00:36]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-07 10:00:36]Disconnect from [10.52.4.134]
+[16-12-07 10:01:22]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 10:01:22]Connect with [10.52.4.134]......
+[16-12-07 10:01:22]报文长度:[000233]
+[16-12-07 10:01:22]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000037</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 10:01:22]sProject=[NCDC]
+[16-12-07 10:01:30]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000037</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 10:01:30]aaz400[511300]
+[16-12-07 10:01:30]tradeId[T0102]
+[16-12-07 10:01:30]inputXml[<inputxml reqseq="22001207000000000037" reqdate="20161207"></inputxml>]
+[16-12-07 10:01:30]inikey:[1111111133333333]
+[16-12-07 10:01:49]签到返回加密[R3GzKmdNFBsN93x/DG9ZksbAPP6AYzGo/SPzCJ9qf3I8iH1zG4oM2yeuXV0CVJBx9lRQ8+93VhZ+
+LZ9VlT2ayHNVVKPjtOjZEb1PRX3vfhuzy+XjkiNW98eobgjwwFVqJ0Rt7EAs9Dexw6HAS/28GQ==]
+[16-12-07 10:02:28]err=[失败:Given final block not properly padded]
+[16-12-07 10:02:28]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-07 10:02:28]Disconnect from [10.52.4.134]
+[16-12-07 10:26:08]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 10:26:08]Connect with [10.52.4.134]......
+[16-12-07 10:26:08]报文长度:[000233]
+[16-12-07 10:26:08]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000054</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 10:26:08]sProject=[NCDC]
+[16-12-07 10:26:08]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000054</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 10:26:08]aaz400[511300]
+[16-12-07 10:26:08]tradeId[T0102]
+[16-12-07 10:26:08]inputXml[<inputxml reqseq="22001207000000000054" reqdate="20161207"></inputxml>]
+[16-12-07 10:26:08]inikey:[1111111133333333]
+[16-12-07 10:26:08]签到返回加密[MizJ91So5AZa1LhQYStlb3118dXdaba6kxvh5zN+DcZsmwLf1t6zytJ4sRIjGxYgrfd3gdabaAH0
+ab8gGCwBb24VqqIZALJwP4vrwobW9pS6i+BDRvWV+ipsF/wvR5bT2IinOhPFHgLE/iZyA6egSEaa
+darsoXMbiRUwu93V9I4=]
+[16-12-07 10:26:08]签到返回解密[<result><code>100</code><message>解析输入的xml异常，请确认输入的xml是否传入aaz400</message></result>]
+[16-12-07 10:26:08]应答报文:[000180<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>解析输入的xml异常，请确认输入的xml是否传入aaz400</message></result></RetInfo01></ap>]
+[16-12-07 10:26:08]Disconnect from [10.52.4.134]
+[16-12-07 10:41:22]WriteLog start...
+[16-12-07 10:41:22]System(3.0.1) init is completed......
+[16-12-07 10:41:23]Begin to listen[8901][20]......
+[16-12-07 10:41:23]线程池最大线程[1000]最小线程[5]
+[16-12-07 10:41:29]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 10:41:29]Connect with [10.52.4.134]......
+[16-12-07 10:41:29]报文长度:[000233]
+[16-12-07 10:41:29]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000062</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 10:41:29]sProject=[NCDC]
+[16-12-07 10:41:31]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000062</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 10:41:31]aaz400[511300]
+[16-12-07 10:41:31]tradeId[T0102]
+[16-12-07 10:41:31]inputXml[<inputxml aaz400="511300" reqseq="22001207000000000062" reqdate="20161207"></inputxml>]
+[16-12-07 10:41:31]inikey:[1111111133333333]
+[16-12-07 10:41:31]签到返回加密[MizJ91So5AZa1LhQYStlb3118dXdaba6kxvh5zN+DcaWFRtdypXskCmBqM2oqZklwXE7uneVnwtX
+LIX5m+7cFV6agi1mbPxWHN/Rh6UATXu6UrnWe/Rp2tw+ahVnfkjlYcKpIPpmaqUFIgKORfPTEA==]
+[16-12-07 10:41:31]签到返回解密[<result><code>100</code><message>已是签到状态,请签退后再签到!</message></result>]
+[16-12-07 10:41:31]应答报文:[000160<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>已是签到状态,请签退后再签到!</message></result></RetInfo01></ap>]
+[16-12-07 10:41:31]Disconnect from [10.52.4.134]
+[16-12-07 10:42:12]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 10:42:12]Connect with [10.52.4.134]......
+[16-12-07 10:42:12]报文长度:[000233]
+[16-12-07 10:42:12]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000063</reqseq>
+		<tradeId>T0101</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 10:42:12]sProject=[NCDC]
+[16-12-07 10:42:12]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000063</reqseq><tradeId>T0101</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 10:42:12]aaz400[511300]
+[16-12-07 10:42:12]tradeId[T0101]
+[16-12-07 10:42:12]inputXml[<inputxml aaz400="511300" reqseq="22001207000000000063" reqdate="20161207"></inputxml>]
+[16-12-07 10:42:12]加密inputXml[nN2Hp8sbiwWRjeFUaP91g6y90jgxy9w+g6pu0NLBC4PASNHalEhRPN5D90QRAcqoyDsbgVBTqXdV
+xMZTNAgQsGIbQdLVKD/xt4/h1uBwMor7mvi0ao5wiUWhqoMAf1O1]
+[16-12-07 10:42:13]加密recvXml[QlH4/Cvthf52GSgZR5WkMQj0q5yXiBH6l63gZwG1S04LYdhLLbr1btdODrQuXB6R9E1h4VzA3KaH
+xmqa0aZoX3fw/Ue3aAirwgtFHG4ruFRp/OK6RxDEn0/f4+Frx/ahfEcA0KghfnZQ2WwXzVCDZQ==]
+[16-12-07 10:42:13]社保返回报文[<?xml version="1.0" encoding="UTF-8"?>
+<result><message/><sysdt/><code>1</code></result>]
+[16-12-07 10:42:13]应答报文:[000170<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><?xml version="1.0" encoding="UTF-8"?>
+<result><message /><sysdt /><code>1</code></result></RetInfo01></ap>]
+[16-12-07 10:42:13]Disconnect from [10.52.4.134]
+[16-12-07 11:36:24]WriteLog start...
+[16-12-07 11:36:24]System(3.0.1) init is completed......
+[16-12-07 11:36:25]Begin to listen[8901][20]......
+[16-12-07 11:36:25]线程池最大线程[1000]最小线程[5]
+[16-12-07 11:36:36]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 11:36:36]Connect with [10.52.4.134]......
+[16-12-07 11:36:36]报文长度:[000233]
+[16-12-07 11:36:36]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000084</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 11:36:36]sProject=[NCDC]
+[16-12-07 11:36:38]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000084</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 11:36:38]aaz400[511300]
+[16-12-07 11:36:38]tradeId[T0102]
+[16-12-07 11:36:38]inputXml[<inputxml reqseq="22001207000000000084" reqdate="20161207"></inputxml>]
+[16-12-07 11:36:38]inikey:[1111111133333333]
+[16-12-07 11:36:39]签到返回加密[QlH4/Cvthf52GSgZR5WkMQj0q5yXiBH6l63gZwG1S04LYdhLLbr1btdODrQuXB6R9E1h4VzA3KaH
+xmqa0aZoX4bh/+2qB+XIMObrdoTn3Kjyuw1T3i59i6siTNtPbMo/nh2udK0vWDybWl69SFFXOX/r
+z5/7eaj1RRQUPMT5rfM=]
+[16-12-07 11:36:39]签到返回解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message/><sysdt/><newkey>QlNZeDByozXnA6JG</newkey><code>1</code></result>]
+[16-12-07 11:36:39]newKey[QlNZeDByozXnA6JG]
+[16-12-07 11:36:39]应答报文:[000203<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><?xml version="1.0" encoding="UTF-8"?>
+<result><message /><sysdt /><newkey>QlNZeDByozXnA6JG</newkey><code>1</code></result></RetInfo01></ap>]
+[16-12-07 11:36:39]Disconnect from [10.52.4.134]
+[16-12-07 11:38:47]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 11:38:47]Connect with [10.52.4.134]......
+[16-12-07 11:38:47]报文长度:[000233]
+[16-12-07 11:38:47]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000085</reqseq>
+		<tradeId>T0101</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 11:38:47]sProject=[NCDC]
+[16-12-07 11:38:47]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000085</reqseq><tradeId>T0101</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 11:38:47]aaz400[511300]
+[16-12-07 11:38:47]tradeId[T0101]
+[16-12-07 11:38:47]inputXml[<inputxml reqseq="22001207000000000085" reqdate="20161207"></inputxml>]
+[16-12-07 11:38:48]加密inputXml[nN2Hp8sbiwWRjeFUaP91g5W2g6xx1wLAo92BB7KFgMPgoyvK1K/OmtGgz3ilcwXTW+XVx3UWURd6
+X999wjjXoaJxwfglNPltRHkDjaSSiSU=]
+[16-12-07 11:38:48]加密recvXml[tPDb1tVdqLRG8Dg2S81pVp1nuE9sTOV6FJUrDREf/q0ixnusgarclwBk0RtFuSld2ChJJyonEjv7
+RNTII+JRg0ErhE4UYGROk15HkOVea+u8uA+A3pQv269bjDzuzBHkcIpQUPASzppZXwpfSCPcW/Nr
+l/MDDRyt2yLbKSzn2Hnqz9tHam7MeSUP9hAEqRbl]
+[16-12-07 11:38:48]err=[失败:Given final block not properly padded]
+[16-12-07 11:38:48]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-07 11:38:48]Disconnect from [10.52.4.134]
+[16-12-07 11:46:50]WriteLog start...
+[16-12-07 11:46:50]System(3.0.1) init is completed......
+[16-12-07 11:46:51]Begin to listen[8901][20]......
+[16-12-07 11:46:51]线程池最大线程[1000]最小线程[5]
+[16-12-07 11:47:02]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 11:47:02]Connect with [10.52.4.134]......
+[16-12-07 11:47:02]报文长度:[000233]
+[16-12-07 11:47:02]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000086</reqseq>
+		<tradeId>T0101</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 11:47:02]sProject=[NCDC]
+[16-12-07 11:47:02]inikey:[QlNZeDByozXnA6JG]
+[16-12-07 11:47:04]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000086</reqseq><tradeId>T0101</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 11:47:04]aaz400[511300]
+[16-12-07 11:47:04]tradeId[T0101]
+[16-12-07 11:47:04]inputXml[<inputxml reqseq="22001207000000000086" reqdate="20161207"></inputxml>]
+[16-12-07 11:47:04]加密inputXml[2JOUDAb7b4ozya2Ul8gXDgct7VpL8lSX1392D/s9qqB5fnmgBkBanXkIKx50aumTxhv1EJ31Dct9
+0J6catk21aKn9vbKC6lleD0qMw+0544=]
+[16-12-07 11:47:04]加密recvXml[Wyksh/4Ms5GS3brjwQcufiqDBEzi8mk0Su5PjYwbPkuLLNIaqUKQ4JQeG2Dv+gRl2KoCNLeBYeLL
+qKROEsfbhHrodyyDvT4ib1kvz/jTOKLE4LzkJTNJrzN0gSaDzgo5k+pHsCZRFMLtlaMFyJQjmQ==]
+[16-12-07 11:47:04]社保返回报文[<?xml version="1.0" encoding="UTF-8"?>
+<result><message/><sysdt/><code>1</code></result>]
+[16-12-07 11:47:04]应答报文:[000170<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><?xml version="1.0" encoding="UTF-8"?>
+<result><message /><sysdt /><code>1</code></result></RetInfo01></ap>]
+[16-12-07 11:47:04]Disconnect from [10.52.4.134]
+[16-12-07 15:26:47]WriteLog start...
+[16-12-07 15:26:47]System(3.0.1) init is completed......
+[16-12-07 15:26:48]Begin to listen[8901][20]......
+[16-12-07 15:26:48]线程池最大线程[1000]最小线程[5]
+[16-12-07 16:12:10]WriteLog start...
+[16-12-07 16:12:10]System(3.0.1) init is completed......
+[16-12-07 16:12:11]Begin to listen[8901][20]......
+[16-12-07 16:12:11]线程池最大线程[1000]最小线程[5]
+[16-12-07 16:12:21]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 16:12:21]Connect with [10.52.4.134]......
+[16-12-07 16:12:21]报文长度:[000233]
+[16-12-07 16:12:21]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000126</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 16:12:21]sProject=[NCDC]
+[16-12-07 16:12:21]original key:[1111111133333333]
+[16-12-07 16:12:21]new key:[QlNZeDByozXnA6JG]
+[16-12-07 16:12:23]XmlPara01[<Para01><inputxml></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000126</reqseq><tradeId>T0102</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 16:12:23]aaz400[511300]
+[16-12-07 16:12:23]tradeId[T0102]
+[16-12-07 16:12:23]inputXml[<inputxml reqseq="22001207000000000126" reqdate="20161207"></inputxml>]
+[16-12-07 16:12:23]签到返回加密[QlH4/Cvthf52GSgZR5WkMQj0q5yXiBH6l63gZwG1S04LYdhLLbr1btdODrQuXB6R9E1h4VzA3KaH
+xmqa0aZoX4bh/+2qB+XIMObrdoTn3KgQYRL1FLmFIsCHGqg9qaOFGf6VRgW3C0qWFN/xSbtn/Pxx
+fqHI/0k2zRfZPgwJIuc=]
+[16-12-07 16:12:23]签到返回解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message/><sysdt/><newkey>XdUJNSATtzQ5F95E</newkey><code>1</code></result>]
+[16-12-07 16:12:23]newKey[XdUJNSATtzQ5F95E]
+[16-12-07 16:12:23]处理社保返回报文[<result><message /><sysdt /><newkey>XdUJNSATtzQ5F95E</newkey><code>1</code></result>]
+[16-12-07 16:12:23]应答报文:[000164<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message /><sysdt /><newkey>XdUJNSATtzQ5F95E</newkey><code>1</code></result></RetInfo01></ap>]
+[16-12-07 16:12:23]Disconnect from [10.52.4.134]
+[16-12-07 16:20:41]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 16:20:41]Connect with [10.52.4.134]......
+[16-12-07 16:20:41]报文长度:[000403]
+[16-12-07 16:20:41]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>51130419880206003X</aac002>
+			<aac003>任磊</aac003>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000131</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 16:20:41]sProject=[NCDC]
+[16-12-07 16:20:41]original key:[1111111133333333]
+[16-12-07 16:20:41]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 16:20:41]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000131</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 16:20:41]aaz400[511300]
+[16-12-07 16:20:41]tradeId[NC39001]
+[16-12-07 16:20:41]inputXml[<inputxml reqseq="22001207000000000131" reqdate="20161207"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aaa027>511300</aaa027></inputxml>]
+[16-12-07 16:20:41]加密inputXml[uHzQIenwrh22lzTq0r7NJFDlEvBSkQNSe9W6KMDJD7Ia2iLELIruu6SPszzQs2FNEfiDPW6vUtd7
+x6yX6rB9I5jthGNmvyN+xq8AAU1sgO2VCAAJL7cC0VhP9U+1wEXxIV5QBl9J9J/XeeNduKEB7g0Q
+eLb5lbOn0QvtdIWIyazJ48N8vjQKVkKCBkH9EgIKMlFPhU6/BRNYqll1aV9s/A==]
+[16-12-07 16:20:41]社保返回报文加密recvXml[2X42gDpJs4cciH4q5nKy/xaEVLL4MmCjsZnevTdcCh6ijysxfArR5G7eDGK9MlsTVvK1jHxpBoRo
+8b352B05syoUhqDwFyg8DKVzRpVO2FhMT6pRGkssV0MACsFm+LYK]
+[16-12-07 16:20:41]社保返回报文解密[<result><code>100</code><message>银行网点为必传项！</message></result>]
+[16-12-07 16:20:41]应答报文:[000150<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>银行网点为必传项！</message></result></RetInfo01></ap>]
+[16-12-07 16:20:41]Disconnect from [10.52.4.134]
+[16-12-07 16:21:50]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 16:21:50]Connect with [10.52.4.134]......
+[16-12-07 16:21:50]报文长度:[000403]
+[16-12-07 16:21:50]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>51130419880206003X</aac002>
+			<aac003>任磊</aac003>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000132</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 16:21:50]sProject=[NCDC]
+[16-12-07 16:21:50]original key:[1111111133333333]
+[16-12-07 16:21:50]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 16:21:50]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000132</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 16:21:50]aaz400[511300]
+[16-12-07 16:21:50]tradeId[NC39001]
+[16-12-07 16:21:50]inputXml[<inputxml reqseq="22001207000000000132" reqdate="20161207"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aaa027>511300</aaa027></inputxml>]
+[16-12-07 16:21:50]加密inputXml[uHzQIenwrh22lzTq0r7NJFDlEvBSkQNSe9W6KMDJD7Ia2iLELIruu6SPszzQs2FNEfiDPW6vUtd7
+x6yX6rB9I7OJ0wCTJUY8oc6T4aq3wCeVCAAJL7cC0VhP9U+1wEXxIV5QBl9J9J/XeeNduKEB7g0Q
+eLb5lbOn0QvtdIWIyazJ48N8vjQKVkKCBkH9EgIKtYy8U2qMuzKETxzTuy1u0w==]
+[16-12-07 16:21:50]社保返回报文加密recvXml[2X42gDpJs4cciH4q5nKy/xaEVLL4MmCjsZnevTdcCh6ijysxfArR5G7eDGK9MlsTVvK1jHxpBoRo
+8b352B05syoUhqDwFyg8DKVzRpVO2FhMT6pRGkssV0MACsFm+LYK]
+[16-12-07 16:21:50]社保返回报文解密[<result><code>100</code><message>银行网点为必传项！</message></result>]
+[16-12-07 16:21:50]应答报文:[000150<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>银行网点为必传项！</message></result></RetInfo01></ap>]
+[16-12-07 16:21:50]Disconnect from [10.52.4.134]
+[16-12-07 16:35:14]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 16:35:14]Connect with [10.52.4.134]......
+[16-12-07 16:35:14]报文长度:[000428]
+[16-12-07 16:35:14]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>51130419880206003X</aac002>
+			<aac003>任磊</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000158</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 16:35:14]sProject=[NCDC]
+[16-12-07 16:35:14]original key:[1111111133333333]
+[16-12-07 16:35:14]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 16:35:14]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000158</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 16:35:14]aaz400[511300]
+[16-12-07 16:35:14]tradeId[NC39001]
+[16-12-07 16:35:14]inputXml[<inputxml reqseq="22001207000000000158" reqdate="20161207"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 16:35:14]加密inputXml[MEujn2ln6z9c534NyUl/GGaNCsVb6X2a0u1y6nQUOIE2x+gOn3BmpWwLJAJeihz6sAPJI5Zxeux8
+rBHYGWiDkrLXF9Fo9lsQlD+2DCkXKpuPqRw1JxnPDQRo21fsFR53TTXFiuokTNq6UYkUS9e+y/Y2
+4gAks6lGYVXVpAZ0eBk2xa+6kdr3zLHvDmTGYY/4CSyg736jZGgSpft+X2dePVHvFRhlWoCjh6V+
+oEw+jow=]
+[16-12-07 16:35:14]社保返回报文加密recvXml[R2qsFLk2SZOQU9erjxK8PhoPtbsWqn+bW/KRtg7KQ8oausbLUSWwxhk5/H0hi7vKwEclAHJNd5ru
+vuIXleuZUpYMNxIV4cfBmmUDDOIGByTH0//wFQbHvV6AjBBv8enILTh+U+VilwMfq0QyhzyyBg==]
+[16-12-07 16:35:14]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-07 16:35:14]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-07 16:35:14]Disconnect from [10.52.4.134]
+[16-12-07 16:37:11]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 16:37:11]Connect with [10.52.4.134]......
+[16-12-07 16:37:11]报文长度:[000428]
+[16-12-07 16:37:11]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>51130419880206003X</aac002>
+			<aac003>任磊</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000159</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 16:37:11]sProject=[NCDC]
+[16-12-07 16:37:11]original key:[1111111133333333]
+[16-12-07 16:37:11]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 16:37:11]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000159</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 16:37:11]aaz400[511300]
+[16-12-07 16:37:11]tradeId[NC39001]
+[16-12-07 16:37:11]inputXml[<inputxml reqseq="22001207000000000159" reqdate="20161207"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51130419880206003X</aac002><aac003>任磊</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 16:37:11]加密inputXml[MEujn2ln6z9c534NyUl/GDg5A3PnROh3WiOf4IjGudA2x+gOn3BmpWwLJAJeihz6sAPJI5Zxeux8
+rBHYGWiDktu+wUB/E9MTaJ9Rg0hb6iAa5FCYtdbDxJhPkenFnttkIio78rWy7mxGp1qomiSyPJsU
+ys6J850ykkqTfsQ85Jp6v1EvwFFZMXX9AQrE3657UN0BWeWfGFbzDxd2yc4XkSujTPiWOBw/tyuR
+uoEpMWY=]
+[16-12-07 16:37:11]社保返回报文加密recvXml[R2qsFLk2SZOQU9erjxK8PhoPtbsWqn+bW/KRtg7KQ8oausbLUSWwxhk5/H0hi7vKwEclAHJNd5ru
+vuIXleuZUpYMNxIV4cfBmmUDDOIGByTH0//wFQbHvV6AjBBv8enILTh+U+VilwMfq0QyhzyyBg==]
+[16-12-07 16:37:11]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-07 16:37:11]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-07 16:37:11]Disconnect from [10.52.4.134]
+[16-12-07 16:47:09]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 16:47:09]Connect with [10.52.4.134]......
+[16-12-07 16:47:09]报文长度:[000430]
+[16-12-07 16:47:09]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2014</aae041>
+			<aae140>390</aae140>
+			<aac002>513430197501090011</aac002>
+			<aac003>王国华</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000160</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 16:47:09]sProject=[NCDC]
+[16-12-07 16:47:09]original key:[1111111133333333]
+[16-12-07 16:47:09]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 16:47:09]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2014</aae041><aae140>390</aae140><aac002>513430197501090011</aac002><aac003>王国华</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000160</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 16:47:09]aaz400[511300]
+[16-12-07 16:47:09]tradeId[NC39001]
+[16-12-07 16:47:09]inputXml[<inputxml reqseq="22001207000000000160" reqdate="20161207"><aae042>2016</aae042><aae041>2014</aae041><aae140>390</aae140><aac002>513430197501090011</aac002><aac003>王国华</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 16:47:09]加密inputXml[B3wrSk4D8CXqcWifNqxcMSPbMEn0i6SRjrCWfP8D21kXqXuQe9z0L+YnFvqUCNbivHQNxB8R9y4y
+iksGr89v+umfxTRgB5mbOkNORvzhy7YjirdeDl393+6MEdU66y2G2JEx1tDQrnjvrx3QhhwUeJRe
+Jp7zr2zOAtN7jiHQcxF67F5u3wkuIRlrjcgd8AVr3efJeXnqFdJbt5rrbeYl8t4OBk1xy0euIvGA
+r/FDJFg=]
+[16-12-07 16:47:09]社保返回报文加密recvXml[R2qsFLk2SZOQU9erjxK8PhoPtbsWqn+bW/KRtg7KQ8oausbLUSWwxhk5/H0hi7vKwEclAHJNd5ru
+vuIXleuZUpYMNxIV4cfBmmUDDOIGByTH0//wFQbHvV6AjBBv8enILTh+U+VilwMfq0QyhzyyBg==]
+[16-12-07 16:47:09]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-07 16:47:09]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-07 16:47:09]Disconnect from [10.52.4.134]
+[16-12-07 17:03:06]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 17:03:06]Connect with [10.52.4.134]......
+[16-12-07 17:03:06]报文长度:[000428]
+[16-12-07 17:03:06]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>陈蓉</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000166</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 17:03:06]sProject=[NCDC]
+[16-12-07 17:03:06]original key:[1111111133333333]
+[16-12-07 17:03:06]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 17:03:06]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000166</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 17:03:06]aaz400[511300]
+[16-12-07 17:03:06]tradeId[NC39001]
+[16-12-07 17:03:06]inputXml[<inputxml reqseq="22001207000000000166" reqdate="20161207"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 17:03:06]加密inputXml[/t6VpOfSEz/vhbAzoJZ7CeQEkwMwQnzpJJCEDofpJnn3gBaZ3+4giUA/yt66Y5XZw33PSIyTm/3T
+gzaq8LDgs2HZi6S9rNe+yw+ut1HHZSj16ibVwsZerQ/JdCDe59CSi+KnVyyfyrJ+X0QYXNybs5PP
+BDK3PyK3QMB7i61dpHYRQi8keLtLgYGaxkXVL0yl7cPW+tadKYlkA6qtgmzMMtVupG4VvYPnoKHH
+QTPoQlI=]
+[16-12-07 17:03:06]社保返回报文加密recvXml[R2qsFLk2SZOQU9erjxK8PhoPtbsWqn+bW/KRtg7KQ8oausbLUSWwxhk5/H0hi7vKwEclAHJNd5ru
+vuIXleuZUpYMNxIV4cfBmmUDDOIGByTH0//wFQbHvV6AjBBv8enILTh+U+VilwMfq0QyhzyyBg==]
+[16-12-07 17:03:06]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-07 17:03:06]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-07 17:03:06]Disconnect from [10.52.4.134]
+[16-12-07 17:03:19]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 17:03:19]Connect with [10.52.4.134]......
+[16-12-07 17:03:19]报文长度:[000428]
+[16-12-07 17:03:19]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>陈蓉</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000167</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 17:03:19]sProject=[NCDC]
+[16-12-07 17:03:19]original key:[1111111133333333]
+[16-12-07 17:03:19]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 17:03:19]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000167</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 17:03:19]aaz400[511300]
+[16-12-07 17:03:19]tradeId[NC39001]
+[16-12-07 17:03:19]inputXml[<inputxml reqseq="22001207000000000167" reqdate="20161207"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 17:03:19]加密inputXml[tueF5WKlSeqw/lLwFLFbLBKxwewJYXPd9x03dzM3QoUX7FmnaP/wEpqFSnfJhsgbMrg0xkAdCp7q
++1I9qErvfRL6NoH4EeIfJYz4KUuzF1b49actmC2du5iLuHg4HNJ68aaBc5UoiYNxo9dB1ub0yZxe
+hu9/735F7rhb72WlhtroJD/22YBfPAXaP0G93im+ScIObaZo1cwyqjR4PsOg2hLJ0z1LJJsHuyke
+1TFaOrw=]
+[16-12-07 17:03:19]社保返回报文加密recvXml[R2qsFLk2SZOQU9erjxK8PhoPtbsWqn+bW/KRtg7KQ8oausbLUSWwxhk5/H0hi7vKwEclAHJNd5ru
+vuIXleuZUpYMNxIV4cfBmmUDDOIGByTH0//wFQbHvV6AjBBv8enILTh+U+VilwMfq0QyhzyyBg==]
+[16-12-07 17:03:19]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-07 17:03:19]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-07 17:03:19]Disconnect from [10.52.4.134]
+[16-12-07 17:05:21]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 17:05:21]Connect with [10.52.4.134]......
+[16-12-07 17:05:21]报文长度:[000430]
+[16-12-07 17:05:21]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>胡和中</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000168</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 17:05:21]sProject=[NCDC]
+[16-12-07 17:05:21]original key:[1111111133333333]
+[16-12-07 17:05:21]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 17:05:21]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000168</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 17:05:21]aaz400[511300]
+[16-12-07 17:05:21]tradeId[NC39001]
+[16-12-07 17:05:21]inputXml[<inputxml reqseq="22001207000000000168" reqdate="20161207"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 17:05:21]加密inputXml[/t6VpOfSEz/vhbAzoJZ7CRSFBvampsCbLw8qB/vk+xz7rtXMQlfs5Fjj/STjbKOJ/kI98HQrcuJF
+pGociIGDk5d9if6sqRMipSAMEz3IwBfwRR35mnaU0HE3Zh4+F8OETIYoTbSmFIcCPhinwEdhRPfm
+aiWKhSy9Vw2HDy0roIwSKlaqCkhEmA2YEdYsb8pV8RNMuz+Kq2LoSUTrr5VPDIOUpSxvq5yeoWCC
+gLBqgJM=]
+[16-12-07 17:05:21]社保返回报文加密recvXml[LNeSJ7YZJ46CojPnAcVsHUfx5o9cRQJq63u2HAOljCeVto7qw/BF3LMIhXKH/BG49TRaRTLV+2C7
+Mg96kfsHF7UIftWfBgL3/vMkIiA/DvxCTMCT2Y2uQT5ymEV39AGkjyF2fFT0IqRV7sLMHQ/VDYXM
+U7CzTqeK5xVcdxvXziRfP1WjmUkK0XQJW3O3kOvj80WfW2swR8VjPgqyiq6qaQroN/1DY1MJqiAG
+3XdnfKffepXyHUOYzgo8SN2+UHdn8PWy+yQSXyxdmLRz5VUmFhsg3SGgb5u0vETzWRdTrTw=]
+[16-12-07 17:05:21]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows><row><aac003>胡和中</aac003><aae041>201701</aae041><aae001>2017</aae001><aae042>201712</aae042><aaa027>511302</aaa027><aae140>390</aae140><aac002>51132119750110247X</aac002></row></rows></output></result>]
+[16-12-07 17:05:21]应答报文:[000339<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows><row><aac003>胡和中</aac003><aae041>201701</aae041><aae001>2017</aae001><aae042>201712</aae042><aaa027>511302</aaa027><aae140>390</aae140><aac002>51132119750110247X</aac002></row></rows></output></result></RetInfo01></ap>]
+[16-12-07 17:05:21]Disconnect from [10.52.4.134]
+[16-12-07 17:28:40]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 17:28:40]Connect with [10.52.4.134]......
+[16-12-07 17:28:40]报文长度:[000428]
+[16-12-07 17:28:40]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511181198004055326</aac002>
+			<aac003>陈蓉</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000189</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 17:28:40]sProject=[NCDC]
+[16-12-07 17:28:40]original key:[1111111133333333]
+[16-12-07 17:28:40]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 17:28:40]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511181198004055326</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000189</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 17:28:40]aaz400[511300]
+[16-12-07 17:28:40]tradeId[NC39001]
+[16-12-07 17:28:40]inputXml[<inputxml reqseq="22001207000000000189" reqdate="20161207"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511181198004055326</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 17:28:40]加密inputXml[xNJcbGW/hyolEQBU5a118UrWXDAsYRVMIz5CajZ87UmwJ1754x412nawySvEycQ/DyTJ4PXiJ5mQ
+0lHkyypsrV3VOdu9JcibGwNz8C29lTCLUOf85mqxeT0EVoQ3iQFuTOnAVy1ILEBXobO1gZ69jHDD
+6V0zz9x1ime3hiOKPy2ij6HNg9oXXuqTIKa0irq6s3VALV8YsqGKcpBaGgypUtVupG4VvYPnoKHH
+QTPoQlI=]
+[16-12-07 17:28:40]社保返回报文加密recvXml[xRVbwrHhkNGipRVOhE8rOsvB24bmyUD2iFlqE/cmIp30DeUkYk+hUht09SXgR6mowhCFjjAtjNPb
+DLZr/DjQ22ErWM8Y/8oKU0RLt92DgfjSopkDhO53R7+PfFT7LZd5NoRHMO+izbra0G+PDh/wjTlx
+NmFMGxZClmsMJ5UV6JVxNf3Lga+T4wkYtig9r2hzh4voNxCCQtpCWhtatzOB2GCJCAcXH+t6oGda
+M/66xTECmw7w1679BhSRoz/PcryE1d2gg8XEoOZSIkUda9T7mrSaFA52M2nPyyEkQGO2HJ4=]
+[16-12-07 17:28:40]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows><row><aac003>陈蓉</aac003><aae041>201609</aae041><aae001>2016</aae001><aae042>201708</aae042><aaa027>511302</aaa027><aae140>390</aae140><aac002>511181198004055326</aac002></row></rows></output></result>]
+[16-12-07 17:28:40]应答报文:[000337<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows><row><aac003>陈蓉</aac003><aae041>201609</aae041><aae001>2016</aae001><aae042>201708</aae042><aaa027>511302</aaa027><aae140>390</aae140><aac002>511181198004055326</aac002></row></rows></output></result></RetInfo01></ap>]
+[16-12-07 17:28:40]Disconnect from [10.52.4.134]
+[16-12-07 17:28:52]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-07 17:28:52]Connect with [10.52.4.134]......
+[16-12-07 17:28:52]报文长度:[000428]
+[16-12-07 17:28:52]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>511181198004055326</aac002>
+			<aac003>陈蓉</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161207</reqdate>
+		<reqseq>22001207000000000190</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-07 17:28:52]sProject=[NCDC]
+[16-12-07 17:28:52]original key:[1111111133333333]
+[16-12-07 17:28:52]new key:[XdUJNSATtzQ5F95E]
+[16-12-07 17:28:52]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>511181198004055326</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161207</reqdate><reqseq>22001207000000000190</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-07 17:28:52]aaz400[511300]
+[16-12-07 17:28:52]tradeId[NC39001]
+[16-12-07 17:28:52]inputXml[<inputxml reqseq="22001207000000000190" reqdate="20161207"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>511181198004055326</aac002><aac003>陈蓉</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-07 17:28:52]加密inputXml[/t6VpOfSEz/vhbAzoJZ7CfR4oavpXkt7GUFL4Byu2zNozb7YXlOZw7PsALKD2YAu7XE2CZbiZL8I
+YDvc4k+owdcDvJbsTid1QlDAPeJ12TblGyqcN/OCMMJ607XNeGcx/X2LIAhLnPN5v6zL5831V0+L
+gnqitOoEdsz73o3lZVunuBtdzuew45MyiiGYzCNcAPgsVorxTStvQGoVpnAQENVupG4VvYPnoKHH
+QTPoQlI=]
+[16-12-07 17:28:52]社保返回报文加密recvXml[R2qsFLk2SZOQU9erjxK8PhoPtbsWqn+bW/KRtg7KQ8oausbLUSWwxhk5/H0hi7vKwEclAHJNd5ru
+vuIXleuZUpYMNxIV4cfBmmUDDOIGByTH0//wFQbHvV6AjBBv8enILTh+U+VilwMfq0QyhzyyBg==]
+[16-12-07 17:28:52]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-07 17:28:52]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-07 17:28:52]Disconnect from [10.52.4.134]

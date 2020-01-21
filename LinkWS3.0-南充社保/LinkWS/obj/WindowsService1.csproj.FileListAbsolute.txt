@@ -1,0 +1,7 @@
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

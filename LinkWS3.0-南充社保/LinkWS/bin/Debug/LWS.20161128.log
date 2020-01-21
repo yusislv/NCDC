@@ -1,0 +1,182 @@
+[16-11-28 10:41:32]WriteLog start...
+[16-11-28 10:41:32]System(3.0.1) init is completed......
+[16-11-28 10:41:33]Begin to listen[8901][20]......
+[16-11-28 10:41:33]线程池最大线程[1000]最小线程[5]
+[16-11-28 10:41:38]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-11-28 10:41:38]Connect with [10.52.4.134]......
+[16-11-28 10:41:38]报文长度:[000404]
+[16-11-28 10:41:38]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>test2</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161128</reqdate>
+		<reqseq>22001128000000000040</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-11-28 10:41:38]sProject=[NCDC]
+[16-11-28 10:41:38]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test2</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161128</reqdate><reqseq>22001128000000000040</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-11-28 10:41:38]aaz400[511399]
+[16-11-28 10:41:38]tradeId[NC39001]
+[16-11-28 10:41:38]inputXml[<aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test2</aac003><aaa027>511399</aaa027>]
+[16-11-28 10:41:38]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-11-28 10:41:38]Disconnect from [10.52.4.134]
+[16-11-28 10:46:12]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-11-28 10:46:12]Connect with [10.52.4.134]......
+[16-11-28 10:46:12]报文长度:[000404]
+[16-11-28 10:46:12]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2016</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>test2</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161128</reqdate>
+		<reqseq>22001128000000000041</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-11-28 10:46:12]sProject=[NCDC]
+[16-11-28 10:46:12]XmlPara01[<Para01><inputxml><aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test2</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161128</reqdate><reqseq>22001128000000000041</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-11-28 10:46:12]aaz400[511399]
+[16-11-28 10:46:12]tradeId[NC39001]
+[16-11-28 10:46:12]inputXml[<aae042>2016</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test2</aac003><aaa027>511399</aaa027>]
+[16-11-28 10:46:12]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-11-28 10:46:12]Disconnect from [10.52.4.134]
+[16-11-28 10:47:49]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-11-28 10:47:49]Connect with [10.52.4.134]......
+[16-11-28 10:47:49]报文长度:[000404]
+[16-11-28 10:47:49]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>test3</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161128</reqdate>
+		<reqseq>22001128000000000042</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-11-28 10:47:49]sProject=[NCDC]
+[16-11-28 10:47:49]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test3</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161128</reqdate><reqseq>22001128000000000042</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-11-28 10:47:49]aaz400[511399]
+[16-11-28 10:47:49]tradeId[NC39001]
+[16-11-28 10:47:49]inputXml[<aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test3</aac003><aaa027>511399</aaa027>]
+[16-11-28 10:47:49]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-11-28 10:47:49]Disconnect from [10.52.4.134]
+[16-11-28 10:59:16]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-11-28 10:59:16]Connect with [10.52.4.134]......
+[16-11-28 10:59:16]报文长度:[000404]
+[16-11-28 10:59:16]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>test3</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161128</reqdate>
+		<reqseq>22001128000000000043</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-11-28 10:59:16]sProject=[NCDC]
+[16-11-28 10:59:16]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test3</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161128</reqdate><reqseq>22001128000000000043</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-11-28 11:04:15]aaz400[511399]
+[16-11-28 11:04:15]tradeId[NC39001]
+[16-11-28 11:04:15]inputXml[<aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test3</aac003><aaa027>511399</aaa027>]
+[16-11-28 11:04:15]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-11-28 11:04:15]Disconnect from [10.52.4.134]
+[16-11-28 11:06:01]WriteLog start...
+[16-11-28 11:06:01]System(3.0.1) init is completed......
+[16-11-28 11:06:02]Begin to listen[8901][20]......
+[16-11-28 11:06:02]线程池最大线程[1000]最小线程[5]
+[16-11-28 11:06:07]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-11-28 11:06:07]Connect with [10.52.4.134]......
+[16-11-28 11:06:07]报文长度:[000404]
+[16-11-28 11:06:07]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>test3</aac003>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161128</reqdate>
+		<reqseq>22001128000000000045</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-11-28 11:06:07]sProject=[NCDC]
+[16-11-28 11:06:07]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test3</aac003><aaa027>511399</aaa027></inputxml><reqdate>20161128</reqdate><reqseq>22001128000000000045</reqseq><tradeId>NC39001</tradeId><aaz400>511399</aaz400></Para01>]
+[16-11-28 11:06:07]aaz400[511399]
+[16-11-28 11:06:07]tradeId[NC39001]
+[16-11-28 11:06:07]inputXml[<inputxml reqseq="22001128000000000045" reqdate="20161128"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test3</aac003><aaa027>511399</aaa027></inputxml>]
+[16-11-28 11:06:07]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-11-28 11:06:07]Disconnect from [10.52.4.134]
+[16-11-28 11:06:56]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-11-28 11:06:56]Connect with [10.52.4.134]......
+[16-11-28 11:06:56]报文长度:[000404]
+[16-11-28 11:06:56]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>511324199103202078</aac002>
+			<aac003>test4</aac003>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161128</reqdate>
+		<reqseq>22001128000000000046</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-11-28 11:06:56]sProject=[NCDC]
+[16-11-28 11:06:56]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test4</aac003><aaa027>511302</aaa027></inputxml><reqdate>20161128</reqdate><reqseq>22001128000000000046</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-11-28 11:06:56]aaz400[511302]
+[16-11-28 11:06:56]tradeId[NC39001]
+[16-11-28 11:06:56]inputXml[<inputxml reqseq="22001128000000000046" reqdate="20161128"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>511324199103202078</aac002><aac003>test4</aac003><aaa027>511302</aaa027></inputxml>]
+[16-11-28 11:06:56]应答报文:[000238<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>1</code><message></message><output><rows><row><aae001>2016</aae001><aae041>201601</aae041><aae042>201612</aae042></row></rows></output></result></RetInfo01></ap>]
+[16-11-28 11:06:56]Disconnect from [10.52.4.134]

@@ -1,0 +1,212 @@
+[17-09-01 09:36:47]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-09-01 09:36:47]Connect with [10.52.4.134]......
+[17-09-01 09:36:47]报文长度:[000586]
+[17-09-01 09:36:47]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>201712</aae042>
+			<aae041>201701</aae041>
+			<yic016>01</yic016>
+			<aae140_391>0</aae140_391>
+			<aae140_390>0</aae140_390>
+			<aae140_330>0</aae140_330>
+			<aae140_313>0</aae140_313>
+			<aae140_310>0</aae140_310>
+			<aae140_110>1</aae140_110>
+			<aaz010>512922196701258415</aaz010>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170901</reqdate>
+		<reqseq>22000901000000000033</reqseq>
+		<tradeId>ZS100</tradeId>
+		<aaz400></aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-09-01 09:36:47]sProject=[NCDC]
+[17-09-01 09:36:47]original key:[1111111133333333]
+[17-09-01 09:36:47]new key:[eEKa41ksY6VvAqGo]
+[17-09-01 09:36:47]XmlPara01[<Para01><inputxml><aae042>201712</aae042><aae041>201701</aae041><yic016>01</yic016><aae140_391>0</aae140_391><aae140_390>0</aae140_390><aae140_330>0</aae140_330><aae140_313>0</aae140_313><aae140_310>0</aae140_310><aae140_110>1</aae140_110><aaz010>512922196701258415</aaz010><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170901</reqdate><reqseq>22000901000000000033</reqseq><tradeId>ZS100</tradeId><aaz400></aaz400></Para01>]
+[17-09-01 09:36:47]tradeId[ZS100]
+[17-09-01 09:36:47]inputXml[<inputxml reqseq="22000901000000000033" reqdate="20170901"><aae042>201712</aae042><aae041>201701</aae041><yic016>01</yic016><aae140_391>0</aae140_391><aae140_390>0</aae140_390><aae140_330>0</aae140_330><aae140_313>0</aae140_313><aae140_310>0</aae140_310><aae140_110>1</aae140_110><aaz010>512922196701258415</aaz010><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-09-01 09:36:47]加密inputXml[M8+4xg/QhLpurhxoelehnwo3w1EmN5p06EHMmx5eTcIohgxqXZSIxu78X+Kl2yGjC0IMpwgHrccJ
+RZ2V+YVQvaDS69zTXjTdFF1JliW//thSwDvD9L/Va1bMdP3ckeQ5hp4TlhuoKD9xlRPTXHYN8wcg
+4WsblyTTj+Crz3Y/EieCjrdEG0ARl83BMhcmoiXZOeiWH0hu47yFNclEn98BwLQ0753g/CciCtmD
+yffTCizHxvRhuI7Wwx2UXLgj+o/PEmUITrOMaal39/WHsgDgog==]
+[17-09-01 09:36:48]社保返回报文加密recvXml[Rf4B4RHChqQTd6x4BYNP3bEK3l8k65Kx8S6QPQsg1Gekjq1HKYg3YoCY3xCF+DbFt2xPxoNW0Gfv
+mHt17lNNy5Qvw5Cit0LlSXub+9mZeoZH7VTE+sBU9n1pn6+s+lfAa064ozlzaMp7fn+d+X6ou1LY
+ArsCB4uqm/UHVvFx3Jf3cnN85lqcS1HRO5QloVkNYEWS/X1yVhvnDKoLLbQC1xKrBopp08megLmz
+vx8cn3GikbrZ8Wm31D936hWobwasw3ChknChd4WHx0nlaOIz5c4ApAjY/m8QiUShFR+XbLk=]
+[17-09-01 09:36:48]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae009_sb/><aae013/><aac003>杜林</aac003><aae072>6466463</aae072><aaa121>01</aaa121><aae010_sb>1234567890000000001</aae010_sb><aaa027>511302</aaa027><aae008_sb>103</aae008_sb><aae019>5263.2</aae019><aac001>0003994991</aac001></output></result>]
+[17-09-01 09:36:48]应答报文:[000375<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae009_sb /><aae013 /><aac003>杜林</aac003><aae072>6466463</aae072><aaa121>01</aaa121><aae010_sb>1234567890000000001</aae010_sb><aaa027>511302</aaa027><aae008_sb>103</aae008_sb><aae019>5263.2</aae019><aac001>0003994991</aac001></output></result></RetInfo01></ap>]
+[17-09-01 09:36:48]Disconnect from [10.52.4.134]
+[17-09-01 09:39:42]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-09-01 09:39:42]Connect with [10.52.4.134]......
+[17-09-01 09:39:42]报文长度:[000367]
+[17-09-01 09:39:42]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae019sum>5263.2</aae019sum>
+			<aae072_yh>140290638</aae072_yh>
+			<aae072>6466463</aae072>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170901</reqdate>
+		<reqseq>22000901000000000034</reqseq>
+		<tradeId>ZS102</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-09-01 09:39:42]sProject=[NCDC]
+[17-09-01 09:39:42]original key:[1111111133333333]
+[17-09-01 09:39:42]new key:[eEKa41ksY6VvAqGo]
+[17-09-01 09:39:42]XmlPara01[<Para01><inputxml><aae019sum>5263.2</aae019sum><aae072_yh>140290638</aae072_yh><aae072>6466463</aae072><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170901</reqdate><reqseq>22000901000000000034</reqseq><tradeId>ZS102</tradeId></Para01>]
+[17-09-01 09:39:42]tradeId[ZS102]
+[17-09-01 09:39:42]inputXml[<inputxml reqseq="22000901000000000034" reqdate="20170901"><aae019sum>5263.2</aae019sum><aae072_yh>140290638</aae072_yh><aae072>6466463</aae072><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-09-01 09:39:42]加密inputXml[bD9QzqNl0H/+ejgxWCnoFpUZpz+A0uey5ky+cVMozd2frZ4A8fzQWP/eO/9jNgseJLLxaVEYnw9U
+vf6Xnhq2KElgAUob7I4RzaIcB4DQnn98oN/HiU5gao0M5F7r5HfoaUr/0GrIpjIgfrX7ivBxBtZZ
+vcteBBB6dZkfCBETn+8QH1a8ZOVA4vTZAeguBBCIm2yP5XRN3thwp9KmO31Iaw==]
+[17-09-01 09:40:11]社保返回报文加密recvXml[OfxUonoI9jB+Epb3imnacnXpwzX/2Mbztt5RM7wv9F6Ds54VjaJtvFW3u/qNHZNJ9C+liXYbDhoi
+HDd4DhVQeps4+pptWA+AUwKVP28pFdlxF1X2lDtiTYe7cIqbZakzV9ZYTrjoGy45gV9c5LejXXJi
+1XowHGlAeCoZ0Ch55ZQ=]
+[17-09-01 09:40:11]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae013/><aae019>5263.2</aae019></output></result>]
+[17-09-01 09:40:11]应答报文:[000180<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae013 /><aae019>5263.2</aae019></output></result></RetInfo01></ap>]
+[17-09-01 09:40:11]Disconnect from [10.52.4.134]
+[17-09-01 09:46:06]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-09-01 09:46:06]Connect with [10.52.4.134]......
+[17-09-01 09:46:06]报文长度:[000329]
+[17-09-01 09:46:06]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<ybl001>5555555555</ybl001>
+			<aae072>6466463</aae072>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+		</inputxml>
+		<reqdate>20170901</reqdate>
+		<reqseq>22000901000000000036</reqseq>
+		<tradeId>ZS500</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-09-01 09:46:06]sProject=[NCDC]
+[17-09-01 09:46:06]original key:[1111111133333333]
+[17-09-01 09:46:06]new key:[eEKa41ksY6VvAqGo]
+[17-09-01 09:46:06]XmlPara01[<Para01><inputxml><ybl001>5555555555</ybl001><aae072>6466463</aae072><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml><reqdate>20170901</reqdate><reqseq>22000901000000000036</reqseq><tradeId>ZS500</tradeId></Para01>]
+[17-09-01 09:46:06]tradeId[ZS500]
+[17-09-01 09:46:06]inputXml[<inputxml reqseq="22000901000000000036" reqdate="20170901"><ybl001>5555555555</ybl001><aae072>6466463</aae072><aae011>ikjf</aae011><aff002>C1010351007641</aff002></inputxml>]
+[17-09-01 09:46:06]加密inputXml[CyWTGTyE1yakHM/f9GTmPiRPpiDJKV/PnaC+u/jn90SiX/aW+K48SByUlwjpGZzQ3sP1AFPTZ0tZ
+OUrxMyjX9dLdpCxbOs9xhm+NOrLw94YN2g0NeQyk9APaigfQmxutriI9kbvd3jPpL1nceLGRwKJB
+R4dJC/VQRWuaDCDwKSOFQVRzE0QI3/MeARtp2S7h]
+[17-09-01 09:46:07]社保返回报文加密recvXml[FEMVcnaxqGS2bind4bud4W5Ln+JJZbOxVywQSGDi0rLz1z19xcKCdaHOjOdCqEmJj8uoMHxZj63c
+7rNo2dK4i/gTGCPEtuE7WEvpz+0qAjtQHTHgL8guXD4dKXlkK/vlDiV4wsAPj0fPahhxXwTHXePq
+d7rgMkVDEMd+vjiSZpfZRvcIgVE14CVWI1960CKtL9EDseUh2M2oK4tdsaReFJPPIxLA/G8/aD3p
+DocO40ctN5CelF5UKrRckz0vVUIJ8WcABG66+vGkdIsrB2G7rS2ZWV7U2fmptePOBeYUy6aPhFR4
+Ibt72k0XOwnBr5YqivoDogVBN74OrhgyMNYUofBbi9UWjOOBR0Exsx6L/9R8MBi0Q6p5e4SluEr1
+NtjV4ERVtzf4/O+C4UcjbZveWw==]
+[17-09-01 09:46:07]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><aae140_110gr>5263.2</aae140_110gr><aae140_320dw>0</aae140_320dw><aae140_320gr>0</aae140_320gr><aae140_110dw>0</aae140_110dw><aae140_210gr>0</aae140_210gr><aae140_210dw>0</aae140_210dw><aae140_330gr>0</aae140_330gr><aae140_310gr>0</aae140_310gr><lx>0</lx><aae140_330dw>0</aae140_330dw><aae140_410dw>0</aae140_410dw><aae013/><aae044>杜林</aae044><aae140_510gr>0</aae140_510gr><aae072>6466463</aae072><aaz010>0003994991</aaz010><aae140_410gr>0</aae140_410gr><aae140_510dw>0</aae140_510dw><jfje>5263.2</jfje><aae140_313dw>0</aae140_313dw><aae140_310dw>0</aae140_310dw><znj>0</znj><aae140_313gr>0</aae140_313gr></output></result>]
+[17-09-01 09:46:07]应答报文:[000755<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><aae140_110gr>5263.2</aae140_110gr><aae140_320dw>0</aae140_320dw><aae140_320gr>0</aae140_320gr><aae140_110dw>0</aae140_110dw><aae140_210gr>0</aae140_210gr><aae140_210dw>0</aae140_210dw><aae140_330gr>0</aae140_330gr><aae140_310gr>0</aae140_310gr><lx>0</lx><aae140_330dw>0</aae140_330dw><aae140_410dw>0</aae140_410dw><aae013 /><aae044>杜林</aae044><aae140_510gr>0</aae140_510gr><aae072>6466463</aae072><aaz010>0003994991</aaz010><aae140_410gr>0</aae140_410gr><aae140_510dw>0</aae140_510dw><jfje>5263.2</jfje><aae140_313dw>0</aae140_313dw><aae140_310dw>0</aae140_310dw><znj>0</znj><aae140_313gr>0</aae140_313gr></output></result></RetInfo01></ap>]
+[17-09-01 09:46:07]Disconnect from [10.52.4.134]
+[17-09-01 10:40:58]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-09-01 10:40:58]Connect with [10.52.4.134]......
+[17-09-01 10:40:58]报文长度:[000227]
+[17-09-01 10:40:58]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20170901</reqdate>
+		<reqseq>22000901000000000041</reqseq>
+		<tradeId>T0101</tradeId>
+		<aaz400></aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-09-01 10:40:58]sProject=[NCDC]
+[17-09-01 10:40:58]original key:[1111111133333333]
+[17-09-01 10:40:58]new key:[eEKa41ksY6VvAqGo]
+[17-09-01 10:40:58]XmlPara01[<Para01><inputxml></inputxml><reqdate>20170901</reqdate><reqseq>22000901000000000041</reqseq><tradeId>T0101</tradeId><aaz400></aaz400></Para01>]
+[17-09-01 10:40:58]tradeId[T0101]
+[17-09-01 10:40:58]inputXml[<inputxml reqseq="22000901000000000041" reqdate="20170901"></inputxml>]
+[17-09-01 10:40:58]加密inputXml[y9uEMrqJNG7DBXCgrAL/ebbULvGCHUR7a6F+WHCa2tVtLZoh/zkRtg7oJ7DlB2CwM/m+wFoMrLtt
+EFFEz3I1yZjYD7bL2iMYhZ/HDJNSvYY=]
+[17-09-01 10:40:58]社保返回报文加密recvXml[i3Ei+Ig356i2hWGYCcSBIltzKV+vhc9zKqkr8UNcu/QL1FHdur7NILilFi3N+p4J0+fCWi2CxEHa
+yb0v71zk6+vBQVvJqp9vla0W4RdO1uRvzwB4Oyj+TJ4UuqmcKE/rsyb4bQ0RQ3kqyWLrgPzu4g==]
+[17-09-01 10:40:58]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message/><sysdt/><code>1</code></result>]
+[17-09-01 10:40:58]应答报文:[000131<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message /><sysdt /><code>1</code></result></RetInfo01></ap>]
+[17-09-01 10:40:58]Disconnect from [10.52.4.134]
+[17-09-01 10:41:34]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-09-01 10:41:34]Connect with [10.52.4.134]......
+[17-09-01 10:41:34]报文长度:[000227]
+[17-09-01 10:41:34]报文内容:[<ap>
+	<Para01>
+		<inputxml></inputxml>
+		<reqdate>20170901</reqdate>
+		<reqseq>22000901000000000042</reqseq>
+		<tradeId>T0102</tradeId>
+		<aaz400></aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-09-01 10:41:34]sProject=[NCDC]
+[17-09-01 10:41:34]original key:[1111111133333333]
+[17-09-01 10:41:34]new key:[eEKa41ksY6VvAqGo]
+[17-09-01 10:41:34]XmlPara01[<Para01><inputxml></inputxml><reqdate>20170901</reqdate><reqseq>22000901000000000042</reqseq><tradeId>T0102</tradeId><aaz400></aaz400></Para01>]
+[17-09-01 10:41:34]tradeId[T0102]
+[17-09-01 10:41:34]inputXml[<inputxml reqseq="22000901000000000042" reqdate="20170901"></inputxml>]
+[17-09-01 10:41:34]签到返回加密[QlH4/Cvthf52GSgZR5WkMQj0q5yXiBH6l63gZwG1S04LYdhLLbr1btdODrQuXB6R9E1h4VzA3KaH
+xmqa0aZoX4bh/+2qB+XIMObrdoTn3KhPRrO+pjkVuM0WUZy7pwmbmW8S2wWtywRedOEZECI+VlFe
+tbW3FsRYzhu+dVBepmQ=]
+[17-09-01 10:41:34]签到返回解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message/><sysdt/><newkey>eMEggiflGlX2WN6F</newkey><code>1</code></result>]
+[17-09-01 10:41:34]newKey[eMEggiflGlX2WN6F]
+[17-09-01 10:41:34]处理社保返回报文[<result><message /><sysdt /><newkey>eMEggiflGlX2WN6F</newkey><code>1</code></result>]
+[17-09-01 10:41:34]应答报文:[000164<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message /><sysdt /><newkey>eMEggiflGlX2WN6F</newkey><code>1</code></result></RetInfo01></ap>]
+[17-09-01 10:41:34]Disconnect from [10.52.4.134]
+[17-09-01 10:42:08]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-09-01 10:42:08]Connect with [10.52.4.134]......
+[17-09-01 10:42:08]报文长度:[000241]
+[17-09-01 10:42:08]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aaz010>0003994991</aaz010>
+		</inputxml>
+		<reqdate>20170901</reqdate>
+		<reqseq>22000901000000000043</reqseq>
+		<tradeId>ZS001</tradeId>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-09-01 10:42:08]sProject=[NCDC]
+[17-09-01 10:42:08]original key:[1111111133333333]
+[17-09-01 10:42:08]new key:[eMEggiflGlX2WN6F]
+[17-09-01 10:42:08]XmlPara01[<Para01><inputxml><aaz010>0003994991</aaz010></inputxml><reqdate>20170901</reqdate><reqseq>22000901000000000043</reqseq><tradeId>ZS001</tradeId></Para01>]
+[17-09-01 10:42:08]tradeId[ZS001]
+[17-09-01 10:42:08]inputXml[<inputxml reqseq="22000901000000000043" reqdate="20170901"><aaz010>0003994991</aaz010></inputxml>]
+[17-09-01 10:42:08]加密inputXml[2FBjjActuiv7kPGzGKlFIX19k7yXsZ5+xrC6moL0PIng/iLicLjJBYF2LrldohIuaiQ0Zuj4V4vv
+N0JULeSU1bq+M8lBzt6pDG9vq9fInUARDGRacN2bmchpB50hNQx1]
+[17-09-01 10:42:08]社保返回报文加密recvXml[J9apTYfXLuaq1fpoSJyDBvYvr3VKo/K08eerMckJoDUgZzW1EpA9YiSdxh7sFAUTV4QssugUyBO2
+Ymz1Gd/S4rtKov0ByFP1s1pYMEhw/Fw2y5kIvwlU+dvGS+mKsLPORZR85IPrlcRrfsEu51g5d1bE
+wu2zvpl2QtajX3XJ4WGqQs8ZttwmpZz4b8QPmnQT67HIPp0PSDLhCjqaozu/NDOSpW3xwHv71rdR
+9CX18yHJC4tnCAq8jkYwqdmc24AqBMIS/o2yo5eqGKRzt4vWzdL2Q4Q31yeSm5Ad4t/fDewXgYDO
+j1giTuuRRrxkaSAtzhWSCepJZxY41AlrfUAcG/IU5FQxokesu3d4JWYMc0k=]
+[17-09-01 10:42:08]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows><row><aae013/><aab001/><aac003>杜林</aac003><aae003max>201712</aae003max><aaa027>511302</aaa027><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>110</aae140><aac002>512922196701258415</aac002></row><row><aae013/><aab001/><aac003>杜林</aac003><aae003max/><aaa027/><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>390</aae140><aac002>512922196701258415</aac002></row><row><aae013/><aab001/><aac003>杜林</aac003><aae003max/><aaa027>511302</aaa027><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>310</aae140><aac002>512922196701258415</aac002></row><row><aae013/><aab001/><aac003>杜林</aac003><aae003max/><aaa027/><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>391</aae140><aac002>512922196701258415</aac002></row></rows></output></result>]
+[17-09-01 10:42:08]应答报文:[000986<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows><row><aae013 /><aab001 /><aac003>杜林</aac003><aae003max>201712</aae003max><aaa027>511302</aaa027><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>110</aae140><aac002>512922196701258415</aac002></row><row><aae013 /><aab001 /><aac003>杜林</aac003><aae003max /><aaa027 /><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>390</aae140><aac002>512922196701258415</aac002></row><row><aae013 /><aab001 /><aac003>杜林</aac003><aae003max /><aaa027>511302</aaa027><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>310</aae140><aac002>512922196701258415</aac002></row><row><aae013 /><aab001 /><aac003>杜林</aac003><aae003max /><aaa027 /><aac031>1</aac031><aab004>个体</aab004><aac001>0003994991</aac001><aae140>391</aae140><aac002>512922196701258415</aac002></row></rows></output></result></RetInfo01></ap>]
+[17-09-01 10:42:08]Disconnect from [10.52.4.134]

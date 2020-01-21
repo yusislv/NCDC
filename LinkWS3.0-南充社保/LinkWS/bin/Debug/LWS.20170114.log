@@ -1,0 +1,52 @@
+[17-01-14 11:25:18]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-14 11:25:18]Connect with [10.52.4.134]......
+[17-01-14 11:25:18]报文长度:[000415]
+[17-01-14 11:25:18]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170113</reqdate>
+		<reqseq>22000114000000000039</reqseq>
+		<tradeId>NC39006</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+	<fc>
+		<aaz002>2133009</aaz002>
+		<aae019sum>150</aae019sum>
+		<akb079>1</akb079>
+	</fc>
+</ap>
+]
+[17-01-14 11:25:18]sProject=[NCDC]
+[17-01-14 11:25:18]original key:[1111111133333333]
+[17-01-14 11:25:18]new key:[iHO3ikVV8qq37H0N]
+[17-01-14 11:25:18]XmlPara01[<Para01><inputxml><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170113</reqdate><reqseq>22000114000000000039</reqseq><tradeId>NC39006</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-14 11:25:18]aaz400[511302]
+[17-01-14 11:25:18]tradeId[NC39006]
+[17-01-14 11:25:18]inputXml[<inputxml reqseq="22000114000000000039" reqdate="20170113"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-14 11:25:18]inputXml[<inputxml reqseq="22000114000000000039" reqdate="20170113"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027><rows><row><aaz002>2133009</aaz002><aae019sum>150</aae019sum><akb079>1</akb079></row></rows></inputxml>]
+[17-01-14 11:25:18]加密inputXml[SUfvhCVttUVSMnHbvaKlEnYjWJBlp2Iy7xU5dJM3b6TB1/lBu8FwNJlRSeDBvkih04eLIIB/A7UL
+PRSnB6Vs8qJsrZTm14oHalwdRRlpj7T4IEHUf5Ses2hQCU/W5sPdeyK+/IAaWXLFG9h9CMaemsFF
+Zfuus3Ra016YrG6Q7oj2AuQwrii2fV3DT4iA8oj8VZX1BkRMQG+2GlJMFHWEJS53WS2geGvp4WoX
+ViTnYio=]
+[17-01-14 11:25:18]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq74p
+S3SFtNCLzevJlsba1W0nb1lwmdrsKoohLazfmwqAeDUXBNZbeclmV2rOBncfFqgDFOW7IqhynsmZ
+hUcEDT9Asj+8bLwyy7Bn3X+f/QYBVZC17db97TitzDRsOUaP5dsrKna+LiegG6loLitkuR43fZgJ
+FBY/fkjmdeoxMdg0cZKGuh+9vpUM6dpM3g/BCASEI2SgoVtdTPC53U0PAWD8HWcsej15JK0qDP4X
+rKYiKlpcQqG43poonSCq3lXptPWFUO81sUwUwqGrKbSwvEN8geRbXmo2+u3SfVV40FELa2Ts+X5L
+nD9TR+H8m/mgGtU97Glc2WaMsB6jWme0mI8=]
+[17-01-14 11:25:18]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39006('511302','103','C1010351007641','ikjf',:5,:6)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-01-14 11:25:18]应答报文:[000512<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39006('511302','103','C1010351007641','ikjf',:5,:6)ORA-04061:  的当前状态失效
+ORA-04061: package body "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-01-14 11:25:18]Disconnect from [10.52.4.134]

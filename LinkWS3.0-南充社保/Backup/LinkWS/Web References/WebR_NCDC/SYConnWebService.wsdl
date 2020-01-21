@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://webservice.socialconnbank.yinhai.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SYConnWebService" targetNamespace="http://webservice.socialconnbank.yinhai.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://webservice.socialconnbank.yinhai.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="szCall" type="tns:szCall" />
+      <xs:element name="szCallResponse" type="tns:szCallResponse" />
+      <xs:complexType name="szCall">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="aaz400" type="xs:string" />
+          <xs:element minOccurs="0" name="tradeId" type="xs:string" />
+          <xs:element minOccurs="0" name="inputXml" type="xs:string" />
+          <xs:element minOccurs="0" name="entype" type="xs:string" />
+          <xs:element minOccurs="0" name="aae008" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="szCallResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="outputXml" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="szCallResponse">
+    <wsdl:part name="parameters" element="tns:szCallResponse" />
+  </wsdl:message>
+  <wsdl:message name="szCall">
+    <wsdl:part name="parameters" element="tns:szCall" />
+  </wsdl:message>
+  <wsdl:portType name="SYConnWebService">
+    <wsdl:operation name="szCall">
+      <wsdl:input name="szCall" message="tns:szCall" />
+      <wsdl:output name="szCallResponse" message="tns:szCallResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SYConnWebServiceSoapBinding" type="tns:SYConnWebService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="szCall">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="szCall">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="szCallResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SYConnWebService">
+    <wsdl:port name="SYConnWebServiceImplPort" binding="tns:SYConnWebServiceSoapBinding">
+      <soap:address location="http://10.49.21.206:7003/ysptsz/services/szWebService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

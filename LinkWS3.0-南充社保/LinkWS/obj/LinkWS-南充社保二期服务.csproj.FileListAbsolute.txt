@@ -1,0 +1,8 @@
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csproj.GenerateResource.Cache
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe.config
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.pdb
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.exe
+D:\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.pdb

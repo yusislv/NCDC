@@ -1,0 +1,145 @@
+[17-01-09 21:06:24]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-09 21:06:24]Connect with [10.52.4.134]......
+[17-01-09 21:06:24]报文长度:[000595]
+[17-01-09 21:06:24]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170106</reqdate>
+		<reqseq>22000109000000000286</reqseq>
+		<tradeId>NC39006</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+	<fc>
+		<aaz002>2132627</aaz002>
+		<aae019sum>150</aae019sum>
+		<akb079>1</akb079>
+	</fc>
+	<fc>
+		<aaz002>2132628</aaz002>
+		<aae019sum>150</aae019sum>
+		<akb079>1</akb079>
+	</fc>
+	<fc>
+		<aaz002>2132633</aaz002>
+		<aae019sum>150</aae019sum>
+		<akb079>1</akb079>
+	</fc>
+</ap>
+]
+[17-01-09 21:06:24]sProject=[NCDC]
+[17-01-09 21:06:24]original key:[1111111133333333]
+[17-01-09 21:06:24]new key:[iHO3ikVV8qq37H0N]
+[17-01-09 21:06:24]XmlPara01[<Para01><inputxml><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170106</reqdate><reqseq>22000109000000000286</reqseq><tradeId>NC39006</tradeId><aaz400>511302</aaz400></Para01>]
+[17-01-09 21:06:24]aaz400[511302]
+[17-01-09 21:06:24]tradeId[NC39006]
+[17-01-09 21:06:24]inputXml[<inputxml reqseq="22000109000000000286" reqdate="20170106"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-01-09 21:06:24]inputXml[<inputxml reqseq="22000109000000000286" reqdate="20170106"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027><rows><row><aaz002>2132627</aaz002><aae019sum>150</aae019sum><akb079>1</akb079></row><row><aaz002>2132628</aaz002><aae019sum>150</aae019sum><akb079>1</akb079></row><row><aaz002>2132633</aaz002><aae019sum>150</aae019sum><akb079>1</akb079></row></rows></inputxml>]
+[17-01-09 21:06:25]加密inputXml[8WEuNOiZj3Jil0NVadLUNsQg3KPvehjSX7Sbkkk7ezhnbT0tNhe5tsya0Z2gzPeZAHlDeopkJtwV
+oeTaQ01WmtK+HAWlmZ8vFsoPV/8RoE1+D/ZvyJaSxHmlqzNcLF2QVt6BxnD1fMUpItAy3vZxVVF/
+fGK4Ei2AP3+Yhbj7iFHgqc4aZ415NEG2j/mukhlppDJgMnaqswTXTuPCUMyI2fI2YUHZ22RsXx5h
+qdth0rKGMgu/nPla5Q7/1HJYPyKA]
+[17-01-09 21:06:25]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2urbuMbwmR039cwyDwtbbsQHCboS0iTIrR6uqYyoXGIHfTQS
+ROl9SA2400/dTc7B+jhlJ5x4byG8wFTLQ+sDB6CgH4b1ElDAZqqYNxV7Y6SHgqxo7d3HdeYd5mlr
+II/BIqG/O1LaG4QZl4y1/40oruXe/cGF1exA6QD+vy4zC76aKairmN6/UlLbZpbBRhw1bGs/IvOj
+52TF/wENVp/5doC+HDlDERMlHERZv6PjKR1YCp5zzYZAtYEvvQCzKkrLtw4=]
+[17-01-09 21:06:25]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows><row><aae013>2132627|103|C1010351007641|150|1|日志为2132627的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132627</aaz002></row><row><aae013/><cljg>1</cljg><aaz002>2132633</aaz002></row><row><aae013>2132628|103|C1010351007641|150|1|日志为2132628的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132628</aaz002></row></rows></output></result>]
+[17-01-09 21:06:25]应答报文:[000507<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows><row><aae013>2132627|103|C1010351007641|150|1|日志为2132627的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132627</aaz002></row><row><aae013 /><cljg>1</cljg><aaz002>2132633</aaz002></row><row><aae013>2132628|103|C1010351007641|150|1|日志为2132628的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132628</aaz002></row></rows></output></result></RetInfo01></ap>]
+[17-01-09 21:06:25]Disconnect from [10.52.4.134]
+[17-01-09 21:06:25]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-09 21:06:25]Connect with [10.52.4.134]......
+[17-01-09 21:06:25]报文长度:[000415]
+[17-01-09 21:06:25]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511303</aaa027>
+		</inputxml>
+		<reqdate>20170106</reqdate>
+		<reqseq>22000109000000000286</reqseq>
+		<tradeId>NC39006</tradeId>
+		<aaz400>511303</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+	<fc>
+		<aaz002>2132629</aaz002>
+		<aae019sum>150</aae019sum>
+		<akb079>1</akb079>
+	</fc>
+</ap>
+]
+[17-01-09 21:06:25]sProject=[NCDC]
+[17-01-09 21:06:25]original key:[1111111133333333]
+[17-01-09 21:06:25]new key:[iHO3ikVV8qq37H0N]
+[17-01-09 21:06:25]XmlPara01[<Para01><inputxml><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml><reqdate>20170106</reqdate><reqseq>22000109000000000286</reqseq><tradeId>NC39006</tradeId><aaz400>511303</aaz400></Para01>]
+[17-01-09 21:06:25]aaz400[511303]
+[17-01-09 21:06:25]tradeId[NC39006]
+[17-01-09 21:06:25]inputXml[<inputxml reqseq="22000109000000000286" reqdate="20170106"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027></inputxml>]
+[17-01-09 21:06:25]inputXml[<inputxml reqseq="22000109000000000286" reqdate="20170106"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511303</aaa027><rows><row><aaz002>2132629</aaz002><aae019sum>150</aae019sum><akb079>1</akb079></row></rows></inputxml>]
+[17-01-09 21:06:25]加密inputXml[AkFD/TEHqoPf6qMg9TKdGinyGB5nPxfsSAoy9+05kYnnxE36T64R2j2ZIz7fTlMo07D8bzRMhYkw
+gQKcVq6SAfi3oZFz6fvJaSDjzPTIzYG/ZDbrGbXpO+7erBdFmsQnoP55jeVzMgX/BEEDqASsSkeW
+CFAan7V/Ag5KzMqn/GwWuYvsERYS8Sb3dCicX0ID9KmLIBWV/KXTee85W95g10zMTj64i2AQ9440
+92whEDQ=]
+[17-01-09 21:06:25]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2urbuMbwmR039cwyDwtbbsQHsuKd4U16bFdV4eNDWp0DxjQS
+ROl9SA2400/dTc7B+jhlJ5x4byG8wFTLQ+sDB6CgH4b1ElDAZqqYNxV7Y6SHgqxo7d3HdeYd5mlr
+II/BIqG/O1LaG4QZl4y1/40oruXe/cGF1exA6QD+vy4zC76aKairmN6/UlLbZpbBRhw1bGu41YT8
+vbXltdHiLEkq+mdvzk1O8SaJYIE1iZSp1mN87g==]
+[17-01-09 21:06:25]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows><row><aae013>2132629|103|C1010351007641|150|1|日志为2132629的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132629</aaz002></row></rows></output></result>]
+[17-01-09 21:06:25]应答报文:[000304<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows><row><aae013>2132629|103|C1010351007641|150|1|日志为2132629的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132629</aaz002></row></rows></output></result></RetInfo01></ap>]
+[17-01-09 21:06:25]Disconnect from [10.52.4.134]
+[17-01-09 21:06:25]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-01-09 21:06:25]Connect with [10.52.4.134]......
+[17-01-09 21:06:25]报文长度:[000415]
+[17-01-09 21:06:25]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511304</aaa027>
+		</inputxml>
+		<reqdate>20170106</reqdate>
+		<reqseq>22000109000000000286</reqseq>
+		<tradeId>NC39006</tradeId>
+		<aaz400>511304</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+	<fc>
+		<aaz002>2132630</aaz002>
+		<aae019sum>150</aae019sum>
+		<akb079>1</akb079>
+	</fc>
+</ap>
+]
+[17-01-09 21:06:25]sProject=[NCDC]
+[17-01-09 21:06:25]original key:[1111111133333333]
+[17-01-09 21:06:25]new key:[iHO3ikVV8qq37H0N]
+[17-01-09 21:06:25]XmlPara01[<Para01><inputxml><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511304</aaa027></inputxml><reqdate>20170106</reqdate><reqseq>22000109000000000286</reqseq><tradeId>NC39006</tradeId><aaz400>511304</aaz400></Para01>]
+[17-01-09 21:06:25]aaz400[511304]
+[17-01-09 21:06:25]tradeId[NC39006]
+[17-01-09 21:06:25]inputXml[<inputxml reqseq="22000109000000000286" reqdate="20170106"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511304</aaa027></inputxml>]
+[17-01-09 21:06:25]inputXml[<inputxml reqseq="22000109000000000286" reqdate="20170106"><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511304</aaa027><rows><row><aaz002>2132630</aaz002><aae019sum>150</aae019sum><akb079>1</akb079></row></rows></inputxml>]
+[17-01-09 21:06:25]加密inputXml[AkFD/TEHqoPf6qMg9TKdGsefzUY7icowXtU7lVOISOP//5k0al35y6T/VMkAohVGdLe8LYoS7HAi
+q/Ac6BVocurX3FEer0o6QqizpacWeFKthdSbGFOuMMJu+Pw/31cjg4Y5BqEsQ990LYoLTlxiYP/2
+CcmZlbVb6hPsJVeZuXatBhBoFfbipSOe1OvZJPXpIZWvgp5pb9NcaTg3NvzFSDtGZDQ/PPatiMrf
+7Tjw5ZQ=]
+[17-01-09 21:06:25]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2urbuMbwmR039cwyDwtbbsQHhheld+xG43BWYSCxkXdh1jQS
+ROl9SA2400/dTc7B+jiYVovUJFzpNxl61SWLjmH/0uz2hHaSylpGAgZgqHLpW0m+mWdtn+l+igsK
+mlwaitoZxvzkilFzhECET6F+MIZ3nqgcvmborHMHU7TLsKOeH06wJGJMHN3lWoRVb3dQCzLJzQAX
+jZ+W+Gve8gi9gNhvmt37lPPhVCmkVquThYNa2w==]
+[17-01-09 21:06:25]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows><row><aae013>2132630|103|C1010351007641|150|1|日志为2132630的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132630</aaz002></row></rows></output></result>]
+[17-01-09 21:06:25]应答报文:[000304<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows><row><aae013>2132630|103|C1010351007641|150|1|日志为2132630的缴费信息已经对账，不能重复对账</aae013><cljg>6</cljg><aaz002>2132630</aaz002></row></rows></output></result></RetInfo01></ap>]
+[17-01-09 21:06:25]Disconnect from [10.52.4.134]

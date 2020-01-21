@@ -1,0 +1,11 @@
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS-攀枝花社保服务.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS-攀枝花社保服务.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS-攀枝花社保服务.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS-攀枝花社保服务.pdb
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS-攀枝花社保服务.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS-攀枝花社保服务.pdb
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-眉山社保\LinkWS\bin\Debug\LinkWS-攀枝花社保服务.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-眉山社保\LinkWS\obj\Debug\LinkWS-攀枝花社保服务.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-眉山社保\LinkWS\obj\Debug\LinkWS-攀枝花社保服务.pdb

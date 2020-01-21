@@ -1,0 +1,308 @@
+[16-12-29 16:07:23]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 16:07:23]Connect with [10.52.4.134]......
+[16-12-29 16:07:23]报文长度:[000539]
+[16-12-29 16:07:23]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>130984199208081214</aac002>
+					<aac003>于江扩</aac003>
+				</row>
+			</rows>
+			<aab004>四川</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000099</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 16:07:23]sProject=[NCDC]
+[16-12-29 16:07:23]original key:[1111111133333333]
+[16-12-29 16:07:23]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 16:07:23]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003></row></rows><aab004>四川</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000099</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 16:07:23]aaz400[511302]
+[16-12-29 16:07:23]tradeId[NC39002]
+[16-12-29 16:07:23]inputXml[<inputxml reqseq="22001229000000000099" reqdate="20161229"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003></row></rows><aab004>四川</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 16:07:23]加密inputXml[sAxvfpyTu7OF0+YcumDFyZ2CTzH/+uf4GgbQ6PpJPuMUXMEmgouz/txlFaKQWuto3cPX0F2E1C3X
+zP6Agqu5UdBGU4onF+LUduvp3BcZVYfPw4bm/QalNai32WS9AinDJDrv6KWDmikHs3H9o5Qu3zrw
+7SvQjnEjczjRJY9TekGV9rvM82AZVlPKPvhQVUIz7sM6rB9e+LPLCs0SPPsY494pO9/xTlYlVAp8
+Sgoy0ermSSwBxRJA6N1lqjrWxfqNLoogrhUM5LBtI1ys0QY7BvNP2JfbZx4tbI40XDOSzcM=]
+[16-12-29 16:07:30]err=[Could not open JDBC Connection for transaction; nested exception is weblogic.jdbc.extensions.ConnectionDeadSQLException: weblogic.common.resourcepool.ResourceDeadException: 0:
+ Could not connect to 'oracle.jdbc.OracleDriver'.
+
+ The returned message is: ORA-01017: 用户名/口令无效; 登录被拒绝
+
+ It is likely that the login or password is not valid.
+ It is also possible that something else is invalid in
+ the configuration or that the database is not available.]
+[16-12-29 16:07:30]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-29 16:07:30]Disconnect from [10.52.4.134]
+[16-12-29 16:07:51]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 16:07:51]Connect with [10.52.4.134]......
+[16-12-29 16:07:51]报文长度:[000539]
+[16-12-29 16:07:51]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>130984199208081214</aac002>
+					<aac003>于江扩</aac003>
+				</row>
+			</rows>
+			<aab004>四川</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007286</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000100</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 16:07:51]sProject=[NCDC]
+[16-12-29 16:07:51]original key:[1111111133333333]
+[16-12-29 16:07:51]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 16:07:51]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003></row></rows><aab004>四川</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000100</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 16:07:51]aaz400[511302]
+[16-12-29 16:07:51]tradeId[NC39002]
+[16-12-29 16:07:51]inputXml[<inputxml reqseq="22001229000000000100" reqdate="20161229"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003></row></rows><aab004>四川</aab004><aae011>ikjf</aae011><aff002>C1010351007286</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 16:07:51]加密inputXml[AmXZ+Keql7MYd+gA7xAMROFSJsDIrRHBFL4VFhNzrbchr2QQRwvivrIJzWgaAc7ngF1vpEhY/XdR
+fUNaKzky/XxmP7+70xOc8ft6zislNKISs6FYdPIiEjZw4AL7ncCvFzcUfaBKrfIXSNQJvnQC5bru
+r8GJ27dESAmi3f43hRTllh4YvqHxIGVgHAhult1OaaC6Qad6Gs6OMqcWUcCfheVkAQNxT22D094U
+qOSIrjESToNnlo5P0Gp3w/qbtJ4uD9txWH2leLVisSdUhJuSzU2WWWsQlH8lUnRlvtSpNC0=]
+[16-12-29 16:07:53]err=[Could not open JDBC Connection for transaction; nested exception is weblogic.jdbc.extensions.ConnectionDeadSQLException: weblogic.common.resourcepool.ResourceDeadException: 0:
+ Could not connect to 'oracle.jdbc.OracleDriver'.
+
+ The returned message is: ORA-01017: 用户名/口令无效; 登录被拒绝
+
+ It is likely that the login or password is not valid.
+ It is also possible that something else is invalid in
+ the configuration or that the database is not available.]
+[16-12-29 16:07:53]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-29 16:07:53]Disconnect from [10.52.4.134]
+[16-12-29 16:32:52]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 16:32:52]Connect with [10.52.4.134]......
+[16-12-29 16:32:52]报文长度:[000430]
+[16-12-29 16:32:52]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>130984199208081217</aac002>
+			<aac003>于江扩</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000110</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 16:32:52]sProject=[NCDC]
+[16-12-29 16:32:52]original key:[1111111133333333]
+[16-12-29 16:32:52]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 16:32:52]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>130984199208081217</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000110</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 16:32:52]aaz400[511302]
+[16-12-29 16:32:52]tradeId[NC39001]
+[16-12-29 16:32:52]inputXml[<inputxml reqseq="22001229000000000110" reqdate="20161229"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>130984199208081217</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 16:32:52]加密inputXml[ZiKtATZ7eA+C/EFC6WazzLWdWbeLO7cGwNddiCSR1rnl/RDvGwxN3kyb601RjcabQkPMHNzrwyu2
+cc/Cg6+KhSa/Q7FryEv6Cli5XwfYzu3KmR4CbTMggyMB4I6BDOI4D4x5yW7SXAz/tcy640TtCBNd
+gsecZRcPJsqMoOAS9IuXGYOP8wM8xHhS8dbyBn79Wt2wYhXf3NXR/TM47hm8aYKKog1vAz/lRBYT
+QVLcf7Y=]
+[16-12-29 16:32:54]err=[Could not open JDBC Connection for transaction; nested exception is weblogic.jdbc.extensions.ConnectionDeadSQLException: weblogic.common.resourcepool.ResourceDeadException: 0:
+ Could not connect to 'oracle.jdbc.OracleDriver'.
+
+ The returned message is: ORA-01017: 用户名/口令无效; 登录被拒绝
+
+ It is likely that the login or password is not valid.
+ It is also possible that something else is invalid in
+ the configuration or that the database is not available.]
+[16-12-29 16:32:54]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-29 16:32:54]Disconnect from [10.52.4.134]
+[16-12-29 16:35:48]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 16:35:48]Connect with [10.52.4.134]......
+[16-12-29 16:35:55]报文长度:[000430]
+[16-12-29 16:35:55]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>130984199208081217</aac002>
+			<aac003>于江扩</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000116</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 16:35:55]sProject=[NCDC]
+[16-12-29 16:35:58]original key:[1111111133333333]
+[16-12-29 16:35:58]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 16:35:58]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>130984199208081217</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000116</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 16:35:58]aaz400[511302]
+[16-12-29 16:35:58]tradeId[NC39001]
+[16-12-29 16:35:58]inputXml[<inputxml reqseq="22001229000000000116" reqdate="20161229"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>130984199208081217</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 16:36:06]加密inputXml[ZiKtATZ7eA+C/EFC6WazzLWdWbeLO7cGwNddiCSR1rnl/RDvGwxN3kyb601RjcabQkPMHNzrwyu2
+cc/Cg6+KhfEFsVVwXSU3lSjmyxo6depfGMhBZlUIkrbkvJavuDpIJbobZAqH4is8lPtJNt0jsj0F
+aldZD7wBM35BrVBJ/51qnl03w7gdtilLbZWSI1VKa5zR2Wt4A5kiwZbeIx0BNJ3SFNm0gx+wMFJk
+4r3+0Fo=]
+[16-12-29 16:36:41]err=[Could not open JDBC Connection for transaction; nested exception is weblogic.jdbc.extensions.ConnectionDeadSQLException: weblogic.common.resourcepool.ResourceDeadException: 0:
+ Could not connect to 'oracle.jdbc.OracleDriver'.
+
+ The returned message is: ORA-01017: 用户名/口令无效; 登录被拒绝
+
+ It is likely that the login or password is not valid.
+ It is also possible that something else is invalid in
+ the configuration or that the database is not available.]
+[16-12-29 16:36:41]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-29 16:36:41]Disconnect from [10.52.4.134]
+[16-12-29 17:43:35]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 17:43:35]Connect with [10.52.4.134]......
+[16-12-29 17:43:35]报文长度:[000430]
+[16-12-29 17:43:35]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2016</aae041>
+			<aae140>390</aae140>
+			<aac002>130984199208081214</aac002>
+			<aac003>于江扩</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000145</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 17:43:35]sProject=[NCDC]
+[16-12-29 17:43:35]original key:[1111111133333333]
+[16-12-29 17:43:35]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 17:43:35]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000145</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 17:43:35]aaz400[511302]
+[16-12-29 17:43:35]tradeId[NC39001]
+[16-12-29 17:43:35]inputXml[<inputxml reqseq="22001229000000000145" reqdate="20161229"><aae042>2017</aae042><aae041>2016</aae041><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 17:43:35]加密inputXml[LS3+qvxzIre5A3T2g55+/7HsC4hRONvwr3qxqe6P3L6Jp6pVGznl3OFMps6FJWphJQrB6MjbOSRQ
+uhkq5wU5U0R6Sq4zjyIrFStvcfbdU+xpo447MmSy0FmB6qmGISsieORzPf6KdZFSxHOZrmYUcR5a
+3Kt2VouOUqV05KKZ9SBGATEigcdqiMvsOd59SAzyu2ekHWeyC50kWqjYlabKnCZNHw4GhXl+PqW4
+UFjZvA8=]
+[16-12-29 17:43:35]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[16-12-29 17:43:35]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-29 17:43:35]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-29 17:43:35]Disconnect from [10.52.4.134]
+[16-12-29 17:43:47]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 17:43:47]Connect with [10.52.4.134]......
+[16-12-29 17:43:47]报文长度:[000430]
+[16-12-29 17:43:47]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2015</aae041>
+			<aae140>390</aae140>
+			<aac002>130984199208081214</aac002>
+			<aac003>于江扩</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000146</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 17:43:47]sProject=[NCDC]
+[16-12-29 17:43:47]original key:[1111111133333333]
+[16-12-29 17:43:47]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 17:43:47]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2015</aae041><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000146</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 17:43:47]aaz400[511302]
+[16-12-29 17:43:47]tradeId[NC39001]
+[16-12-29 17:43:47]inputXml[<inputxml reqseq="22001229000000000146" reqdate="20161229"><aae042>2017</aae042><aae041>2015</aae041><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 17:43:47]加密inputXml[LS3+qvxzIre5A3T2g55+/7HsC4hRONvwr3qxqe6P3L6Jp6pVGznl3OFMps6FJWphJQrB6MjbOSRQ
+uhkq5wU5U9a+F2juPGJi4glQnIHvOQRpo447MmSy0FmB6qmGISsiVzo5XDMWRZHI7GV8J63Uyx5a
+3Kt2VouOUqV05KKZ9SBGATEigcdqiMvsOd59SAzyu2ekHWeyC50kWqjYlabKnCK4nXAw/3LWgipG
+9lWERog=]
+[16-12-29 17:43:47]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[16-12-29 17:43:47]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-29 17:43:47]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-29 17:43:47]Disconnect from [10.52.4.134]
+[16-12-29 17:43:52]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-29 17:43:52]Connect with [10.52.4.134]......
+[16-12-29 17:43:52]报文长度:[000430]
+[16-12-29 17:43:52]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2014</aae041>
+			<aae140>390</aae140>
+			<aac002>130984199208081214</aac002>
+			<aac003>于江扩</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161229</reqdate>
+		<reqseq>22001229000000000147</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-29 17:43:52]sProject=[NCDC]
+[16-12-29 17:43:52]original key:[1111111133333333]
+[16-12-29 17:43:52]new key:[iHO3ikVV8qq37H0N]
+[16-12-29 17:43:52]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2014</aae041><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161229</reqdate><reqseq>22001229000000000147</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-29 17:43:52]aaz400[511302]
+[16-12-29 17:43:52]tradeId[NC39001]
+[16-12-29 17:43:52]inputXml[<inputxml reqseq="22001229000000000147" reqdate="20161229"><aae042>2017</aae042><aae041>2014</aae041><aae140>390</aae140><aac002>130984199208081214</aac002><aac003>于江扩</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-29 17:43:52]加密inputXml[ZiKtATZ7eA+C/EFC6WazzMxSmGPwpO4qSDfZo9CRhQzl4LVdzcd+1VoZ3wiiDm7Vtmm+DnN1FU01
+DySMW/vxAuXrKxRiAZaD2anATRSIT0ooFhiXDfHBnUGCvBZ++Lvt32LgBmht0Y/8McXvn45Zczoo
+zYp8aq/4HsBPMBhCWkTZ/GGxmp2IGoYocP3A+pX9agv7syz7hHShJXR4o52Gkeg7tw5TpcxkkDjo
+Xvmik3g=]
+[16-12-29 17:43:52]社保返回报文加密recvXml[GHkZhnR0TaTk8NIViun5Y2wBFvDMft67bpE5rEfV6jBK9iKXFwZUbt8hVe+eqFzbCZY7RwQROpHf
+yxwJ6fjVekw/6UE9+V/87NhLZBGE2uqQUi1dHTHvphwVbWElhJjdZFHPrzl9xPRrxh9yaZIgxQ==]
+[16-12-29 17:43:52]社保返回报文解密[<?xml version="1.0" encoding="UTF-8"?>
+<result><message></message><code>1</code><output><rows/></output></result>]
+[16-12-29 17:43:52]应答报文:[000155<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><message></message><code>1</code><output><rows /></output></result></RetInfo01></ap>]
+[16-12-29 17:43:52]Disconnect from [10.52.4.134]

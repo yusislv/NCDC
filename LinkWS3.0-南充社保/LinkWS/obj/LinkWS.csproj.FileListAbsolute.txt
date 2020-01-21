@@ -1,0 +1,39 @@
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\LinkWS.ProjectInstaller.resources
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\obj\Debug\LinkWS.csproj.GenerateResource.Cache
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\WindowsService1\bin\Debug\LinkWS.exe.config
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+D:\MyDocment\Visual Studio 2005\Projects\WindowsService1\LinkWS\obj\Debug\LinkWS.csproj.GenerateResource.Cache
+D:\MyDocment\Visual Studio 2005\Projects\LinkWS\LinkWS\bin\Debug\LinkWS.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\bin\Debug\LinkWS.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\obj\Debug\LinkWS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\bin\Debug\LinkWS.exe
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\bin\Debug\LinkWS.pdb
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\obj\Debug\LinkWS.exe
+C:\Documents and Settings\Admin\桌面\LinkWS\LinkWS\obj\Debug\LinkWS.pdb
+D:\MyDocment\工作\LinkWS\LinkWS\bin\Debug\LinkWS.exe.config
+D:\MyDocment\工作\LinkWS\LinkWS\obj\Debug\LinkWS.pdb
+D:\MyDocment\工作\LinkWS\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocment\工作\LinkWS\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+D:\MyDocment\工作\LinkWS\LinkWS\obj\Debug\LinkWS.csproj.GenerateResource.Cache
+D:\MyDocment\工作\LinkWS\LinkWS\bin\Debug\LinkWS.exe
+D:\MyDocment\工作\LinkWS\LinkWS\bin\Debug\LinkWS.pdb
+D:\MyDocment\工作\LinkWS\LinkWS\obj\Debug\LinkWS.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.pdb
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS.pdb
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+C:\Documents and Settings\Admin\桌面\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.exe
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.pdb
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\bin\Debug\LinkWS-省社保养老金代发服务.exe.config
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+C:\Documents and Settings\Admin\桌面\LinkWS-所有服务\LinkWS-攀枝花社保\LinkWS\obj\Debug\LinkWS.csproj.GenerateResource.Cache

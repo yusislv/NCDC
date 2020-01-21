@@ -1,0 +1,275 @@
+[17-05-12 10:42:29]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-12 10:42:29]Connect with [10.52.4.134]......
+[17-05-12 10:42:29]报文长度:[000539]
+[17-05-12 10:42:29]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>41010219421006003X</aac002>
+					<aac003>张大良</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000512000000000116</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-12 10:42:29]sProject=[NCDC]
+[17-05-12 10:42:29]original key:[1111111133333333]
+[17-05-12 10:42:29]new key:[iHO3ikVV8qq37H0N]
+[17-05-12 10:42:29]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000512000000000116</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-12 10:42:29]aaz400[511302]
+[17-05-12 10:42:29]tradeId[NC39002]
+[17-05-12 10:42:29]inputXml[<inputxml reqseq="22000512000000000116" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-12 10:42:29]加密inputXml[XlnGuJGcAxGLc7+2FL5ywa/fqVWZtia8QmZp+nvmm9KRECjp3fo+of1zso8n9Ni4W08YqumNOb0N
+paIp90r9Vgbm+m/ICtV2FWHQ4p4xizP0Y8efo9W6bvCmFy8AXjMLXEjqi2xSw2kC4n6AfX54YcWH
+GYGtajXPjWoxlRHy9OVLPSveFrzoS3TvOeM3flrKocrhJFOzxqGZQvSNReCYFRX/AqbCDQn2USxp
+CIL7FWb7ghlHDF1BGtdRUoYlWiV+ZqG3ybepLCfkefmdVnqpEc69eACRsgxEyMJiwGm8P+4=]
+[17-05-12 10:42:29]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPW/JMTy/jyqK656c
+/6M5a9RFBuTd/WhyZd0SHF+TjUrGH53XgpBSyk0Ew7BEgOdVkxcg2S/FQ/5l0cSh5S3L8b6j6/kh
+T61HCyLoqdXz0+YRRXIYupAnIUtJiWxgcPiMN1RBRvLzYdtw1Qyr3d7xHZ8MqluvDQg8a4MWz5Gb
+T4lfLQDgJBimCxPkyCkDviZSHG35tC7eW5cGgu/cVxqtz9bXenTmdRU5N7rZQRAeLffT]
+[17-05-12 10:42:29]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-05-12 10:42:29]应答报文:[000463<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-05-12 10:42:29]Disconnect from [10.52.4.134]
+[17-05-12 16:38:51]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-12 16:38:51]Connect with [10.52.4.134]......
+[17-05-12 16:38:51]报文长度:[000539]
+[17-05-12 16:38:51]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>41010219421006003X</aac002>
+					<aac003>张大良</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000512000000000129</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-12 16:38:51]sProject=[NCDC]
+[17-05-12 16:38:51]original key:[1111111133333333]
+[17-05-12 16:38:51]new key:[iHO3ikVV8qq37H0N]
+[17-05-12 16:38:51]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000512000000000129</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-12 16:38:51]aaz400[511302]
+[17-05-12 16:38:51]tradeId[NC39002]
+[17-05-12 16:38:51]inputXml[<inputxml reqseq="22000512000000000129" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-12 16:38:51]加密inputXml[XlnGuJGcAxGLc7+2FL5ywYkUwdVwHDdu4rLxWwwwoPtO9SGpPO6VYSV3WGO5O3TzT9wDTsFhfikB
+gT3m+qbbImcZj+QoZ2nwwdsCCpA7nZxPGWlVLua1HMpb5mCqAjb/B+a2TmVYBU9sungXD5I0uCyJ
+lp4xZKCfo71EIS7hPYdNPc967pp6SPCyOi3Px2GO7VFHGmHpzOjLwzAnwpqYnCYDGeeZrOJtgEQ5
+xTqZkqwKOAO27JkKTP/xeRfnwxBh/Wq/70oEHn/VhRcMijSZCzZ4B58JEVDtL/mI8sxbNVw=]
+[17-05-12 16:38:51]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPW/JMTy/jyqK656c
+/6M5a9RFBuTd/WhyZd0SHF+TjUrGH53XgpBSyk0Ew7BEgOdVkxcg2S/FQ/5l0cSh5S3L8b6j6/kh
+T61HCyLoqdXz0+YRRXIYupAnIUtJiWxgcPiMN1RBRvLzYdtw1Qyr3d7xHZ8MqluvDQg8a4MWz5Gb
+T4lfLQDgJBimCxPkyCkDviZSHG35tC7eW5cGgu/cVxqtz9bXenTmdRU5N7rZQRAeLffT]
+[17-05-12 16:38:51]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-05-12 16:38:51]应答报文:[000463<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-05-12 16:38:51]Disconnect from [10.52.4.134]
+[17-05-12 16:39:20]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-12 16:39:20]Connect with [10.52.4.134]......
+[17-05-12 16:39:20]报文长度:[000539]
+[17-05-12 16:39:20]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>41010219421006003X</aac002>
+					<aac003>张大良</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000512000000000130</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-12 16:39:20]sProject=[NCDC]
+[17-05-12 16:39:20]original key:[1111111133333333]
+[17-05-12 16:39:20]new key:[iHO3ikVV8qq37H0N]
+[17-05-12 16:39:20]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000512000000000130</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-12 16:39:20]aaz400[511302]
+[17-05-12 16:39:20]tradeId[NC39002]
+[17-05-12 16:39:20]inputXml[<inputxml reqseq="22000512000000000130" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-12 16:39:20]加密inputXml[lZ4H6OaZy4fN/7Rz4okB7p19PDFtDCNG1XsWPAfxsKp0n6m6iu57zMMzGfGXphWFFbjvNTOdbK1x
+pUBGlzbEnDyOzdTEINdoVv6/C9nxx+6iHXOWluhVaSG5ThVEkjidHCh0E6rV6NL99riQWXLMeL0V
+zyedZjj+E0N3YVWwGZJc53gYm5WpXRQHwh6QhClMfvzUH7JpSQwdByz3dXwL/H3CI4aygMuJyMJ3
+91KsLJFXkP7vVvX3ZQvzsH3avWY6diR5eal2L9vZMAfchm3NCnRJGL8pVWS4M4AiVGN4uvQ=]
+[17-05-12 16:39:20]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPW/JMTy/jyqK656c
+/6M5a9RFBuTd/WhyZd0SHF+TjUrGH53XgpBSyk0Ew7BEgOdVkxcg2S/FQ/5l0cSh5S3L8b6j6/kh
+T61HCyLoqdXz0+YRRXIYupAnIUtJiWxgcPiMN1RBRvLzYdtw1Qyr3d7xHZ8MqluvDQg8a4MWz5Gb
+T4lfLQDgJBimCxPkyCkDviZSHG35tC7eW5cGgu/cVxqtz9bXenTmdRU5N7rZQRAeLffT]
+[17-05-12 16:39:20]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-05-12 16:39:20]应答报文:[000463<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-05-12 16:39:20]Disconnect from [10.52.4.134]
+[17-05-12 16:54:18]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-12 16:54:18]Connect with [10.52.4.134]......
+[17-05-12 16:54:18]报文长度:[000539]
+[17-05-12 16:54:18]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>41010219421006003X</aac002>
+					<aac003>张大良</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000512000000000132</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-12 16:54:18]sProject=[NCDC]
+[17-05-12 16:54:18]original key:[1111111133333333]
+[17-05-12 16:54:18]new key:[iHO3ikVV8qq37H0N]
+[17-05-12 16:54:18]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000512000000000132</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-12 16:54:18]aaz400[511302]
+[17-05-12 16:54:18]tradeId[NC39002]
+[17-05-12 16:54:18]inputXml[<inputxml reqseq="22000512000000000132" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-12 16:54:18]加密inputXml[2wbybhlfVacsHhsbwyZkXO1TJJPgclrJZ235qKAYAPUZdG7/wx0XIGY6pKH0jDO2VzzhX8FFVNKw
+Tz0p8F1nOadazHtPIKKN0nmXL8w2C5xkNHU6KCEeYNbd95HhtsuuvuoB39tB4/FuiF4v358F+wMC
+TiMn0LTf4yCYs+sdL81rsi7HTyP7paW38m/QvkfjV+Z2pMUvfNMp2KIWgyl5R44UIjWAUk7J5/cr
+WxTFfyNEAjshragR9p81WIiKEtLr4DNqTVoTrB7vjiSpucpmz4K7gWrkGZNQe4M4RjVbbZM=]
+[17-05-12 16:54:18]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPW/JMTy/jyqK656c
+/6M5a9RFBuTd/WhyZd0SHF+TjUrGH53XgpBSyk0Ew7BEgOdVkxcg2S/FQ/5l0cSh5S3L8b6j6/kh
+T61HCyLoqdXz0+YRRXIYupAnIUtJiWxgcPiMN1RBRvLzYdtw1Qyr3d7xHZ8MqluvDQg8a4MWz5Gb
+T4lfLQDgJBimCxPkyCkDviZSHG35tC7eW5cGgu/cVxqtz9bXenTmdRU5N7rZQRAeLffT]
+[17-05-12 16:54:18]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-05-12 16:54:18]应答报文:[000463<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-05-12 16:54:18]Disconnect from [10.52.4.134]
+[17-05-12 17:51:14]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-12 17:51:14]Connect with [10.52.4.134]......
+[17-05-12 17:51:14]报文长度:[000539]
+[17-05-12 17:51:14]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>41010219421006003X</aac002>
+					<aac003>张大良</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170104</reqdate>
+		<reqseq>22000512000000000138</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-12 17:51:14]sProject=[NCDC]
+[17-05-12 17:51:14]original key:[1111111133333333]
+[17-05-12 17:51:14]new key:[iHO3ikVV8qq37H0N]
+[17-05-12 17:51:14]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170104</reqdate><reqseq>22000512000000000138</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-12 17:51:14]aaz400[511302]
+[17-05-12 17:51:14]tradeId[NC39002]
+[17-05-12 17:51:14]inputXml[<inputxml reqseq="22000512000000000138" reqdate="20170104"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>41010219421006003X</aac002><aac003>张大良</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-12 17:51:14]加密inputXml[XlnGuJGcAxGLc7+2FL5ywa8lSHAS62Q43mNZ7HIgl7nBYvozEq535qjNBi3Bz2o3LdpTcm9sTYDq
+7T1n5/g2h/B1SWKgrx80lYKgir/2VRVCAc0xL27t+E2JrxRUvtiNNth6+jplEGO8zRbO8AisJbJ2
+0cNdkbOqgkBmynT5hgqaKLzyaiO9CjZyZJb1U3PmujkmYn5iykSMSIN0NfFRfC8qebwAZ5qvKv0o
+PBeyDuwaANtSN8mjIXYykOpEJrEe6ou1dTSySBUPMv3QCkZFgGWFByIH3gC7u9K16Y+iPtY=]
+[17-05-12 17:51:14]社保返回报文加密recvXml[Ux5Kc+/FjW9VsEWafP/U7BiTAv9OBncvV8ncC8mCxpPTLOJLBSBwF3r0eF12HTKcwxS8jgIc17Tv
+rfGm9PzYIOSVFWxGRvlY5VirUFDMAY1L0Ns/Ljx9qZjZaxHybsy2rSfN4xaSmYo+AlVC/HJgq/+B
+1btOTZKE4BYK9eUC7T7MZzEsKanIExvF3WEi0j8tz6Z8c8ytPxBs1h4YHSWyPW/JMTy/jyqK656c
+/6M5a9RFBuTd/WhyZd0SHF+TjUrGH53XgpBSyk0Ew7BEgOdVkxcg2S/FQ/5l0cSh5S3L8b6j6/kh
+T61HCyLoqdXz0+YRRXIYupAnIUtJiWxgcPiMN1RBRvLzYdtw1Qyr3d7xHZ8MqluvDQg8a4MWz5Gb
+T4lfLQDgJBimCxPkyCkDviZSHG35tC7eW5cGgu/cVxqtz9bXenTmdRU5N7rZQRAeLffT]
+[17-05-12 17:51:14]社保返回报文解密[<result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result>]
+[17-05-12 17:51:14]应答报文:[000463<ap><RetCode>0000</RetCode><RetMsg>交易成功</RetMsg><RetInfo01><result><code>100</code><message>处理出错：错误原因：数据库错误:CALL pkg_data_interface.prc_data_nc39002(:1,:2)ORA-04061:  的当前状态失效
+ORA-04061: package "NCJB.PKG_P_BANKINTERFACE" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "NCJB.PKG_P_BANKINTERFACE"
+ORA-06508: PL/SQL: 无法找到正在调用 : "NCJB.PKG_P_BANKINTERFACE" 的程序单元@YLHL.PKG_DO_INTERFACE </message></result></RetInfo01></ap>]
+[17-05-12 17:51:14]Disconnect from [10.52.4.134]

@@ -1,0 +1,16 @@
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csprojAssemblyReference.cache
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csproj.GenerateResource.cache
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.exe
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.pdb
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe.config
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe
+C:\Users\LVKE\Documents\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.pdb
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe.config
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.pdb
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csprojAssemblyReference.cache
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csproj.GenerateResource.cache
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.exe
+D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.pdb

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.yinhai.com/yhjypt/yhjyremotept" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://www.yinhai.com/yhjypt/yhjyremotept" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.yinhai.com/yhjypt/yhjyremotept">
+      <s:element name="yhcall">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jyh" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jylsh" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jysj" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_lydz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_ydz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jyjg" type="s:base64Binary" />
+            <s:element minOccurs="1" maxOccurs="1" name="aint_clbz" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_clxx" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yhcallResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jyjg" type="s:base64Binary" />
+            <s:element minOccurs="1" maxOccurs="1" name="aint_clbz" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_clxx" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yhconfirm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jylsh" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_lydz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_ydz" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="aint_clbz" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_clxx" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yhconfirmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="aint_clbz" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_clxx" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yhcancel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jylsh" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_lydz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_ydz" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="aint_clbz" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_clxx" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yhcancelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="aint_clbz" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_clxx" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="temp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jyh" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jylsh" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jysj" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="tempResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tempResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cancel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jylsh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cancelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cancelResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="confirm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jylsh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="confirmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="confirmResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="jylx">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="astr_jyh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="jylxResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jylxResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="yhcallSoapIn">
+    <wsdl:part name="parameters" element="tns:yhcall" />
+  </wsdl:message>
+  <wsdl:message name="yhcallSoapOut">
+    <wsdl:part name="parameters" element="tns:yhcallResponse" />
+  </wsdl:message>
+  <wsdl:message name="yhconfirmSoapIn">
+    <wsdl:part name="parameters" element="tns:yhconfirm" />
+  </wsdl:message>
+  <wsdl:message name="yhconfirmSoapOut">
+    <wsdl:part name="parameters" element="tns:yhconfirmResponse" />
+  </wsdl:message>
+  <wsdl:message name="yhcancelSoapIn">
+    <wsdl:part name="parameters" element="tns:yhcancel" />
+  </wsdl:message>
+  <wsdl:message name="yhcancelSoapOut">
+    <wsdl:part name="parameters" element="tns:yhcancelResponse" />
+  </wsdl:message>
+  <wsdl:message name="tempSoapIn">
+    <wsdl:part name="parameters" element="tns:temp" />
+  </wsdl:message>
+  <wsdl:message name="tempSoapOut">
+    <wsdl:part name="parameters" element="tns:tempResponse" />
+  </wsdl:message>
+  <wsdl:message name="cancelSoapIn">
+    <wsdl:part name="parameters" element="tns:cancel" />
+  </wsdl:message>
+  <wsdl:message name="cancelSoapOut">
+    <wsdl:part name="parameters" element="tns:cancelResponse" />
+  </wsdl:message>
+  <wsdl:message name="confirmSoapIn">
+    <wsdl:part name="parameters" element="tns:confirm" />
+  </wsdl:message>
+  <wsdl:message name="confirmSoapOut">
+    <wsdl:part name="parameters" element="tns:confirmResponse" />
+  </wsdl:message>
+  <wsdl:message name="jylxSoapIn">
+    <wsdl:part name="parameters" element="tns:jylx" />
+  </wsdl:message>
+  <wsdl:message name="jylxSoapOut">
+    <wsdl:part name="parameters" element="tns:jylxResponse" />
+  </wsdl:message>
+  <wsdl:portType name="yhjyptSoap">
+    <wsdl:operation name="yhcall">
+      <wsdl:input message="tns:yhcallSoapIn" />
+      <wsdl:output message="tns:yhcallSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="yhconfirm">
+      <wsdl:input message="tns:yhconfirmSoapIn" />
+      <wsdl:output message="tns:yhconfirmSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="yhcancel">
+      <wsdl:input message="tns:yhcancelSoapIn" />
+      <wsdl:output message="tns:yhcancelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="temp">
+      <wsdl:input message="tns:tempSoapIn" />
+      <wsdl:output message="tns:tempSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="cancel">
+      <wsdl:input message="tns:cancelSoapIn" />
+      <wsdl:output message="tns:cancelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="confirm">
+      <wsdl:input message="tns:confirmSoapIn" />
+      <wsdl:output message="tns:confirmSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="jylx">
+      <wsdl:input message="tns:jylxSoapIn" />
+      <wsdl:output message="tns:jylxSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="yhjyptSoap" type="tns:yhjyptSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="yhcall">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/yhcall" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="yhconfirm">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/yhconfirm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="yhcancel">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/yhcancel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="temp">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/temp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancel">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/cancel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="confirm">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/confirm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="jylx">
+      <soap:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/jylx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="yhjyptSoap12" type="tns:yhjyptSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="yhcall">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/yhcall" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="yhconfirm">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/yhconfirm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="yhcancel">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/yhcancel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="temp">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/temp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancel">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/cancel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="confirm">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/confirm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="jylx">
+      <soap12:operation soapAction="http://www.yinhai.com/yhjypt/yhjyremotept/jylx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="yhjypt">
+    <wsdl:port name="yhjyptSoap" binding="tns:yhjyptSoap">
+      <soap:address location="http://10.49.21.206/yhjypt/yhjypt.asmx" />
+    </wsdl:port>
+    <wsdl:port name="yhjyptSoap12" binding="tns:yhjyptSoap12">
+      <soap12:address location="http://10.49.21.206/yhjypt/yhjypt.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LinkWS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LinkWS_眉山社保社保服务_WebR_MSSB_InsuranceBusiYHDSService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.49.21.119:7003/web/services/InsuranceBusiYHDS</Value>
+    </Setting>
+    <Setting Name="LinkWS_攀枝花社保服务_WebR_MSSB_InsuranceBusiYHDSService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.49.21.206/yhjypt/yhjypt.asmx</Value>
+    </Setting>
+    <Setting Name="LinkWS_南充社保社保服务_WebR_MSSB_InsuranceBusiYHDSService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://10.49.21.119:7003/web/services/InsuranceBusiYHDS</Value>
+    </Setting>
+    <Setting Name="LinkWS_南充社保服务_WebR_MSSB_InsuranceBusiYHDSService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://10.49.21.206/yhjypt/yhjypt.asmx</Value>
+    </Setting>
+    <Setting Name="LinkWS_南充社保二期服务_javaEncrypt_serviceEncryptService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8080/javaEncrypt/serviceEncryptPort</Value>
+    </Setting>
+    <Setting Name="LinkWS_南充社保二期服务_WebR_NCDC_SYConnWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.49.21.206:7003/ysptsz/services/szWebService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

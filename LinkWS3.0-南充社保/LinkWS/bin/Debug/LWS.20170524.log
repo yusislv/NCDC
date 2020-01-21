@@ -1,0 +1,168 @@
+[17-05-24 09:11:21]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-24 09:11:21]Connect with [10.52.4.134]......
+[17-05-24 09:11:21]报文长度:[000537]
+[17-05-24 09:11:21]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>410102197006170075</aac002>
+					<aac003>杨彬</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170524</reqdate>
+		<reqseq>22000524000000000033</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-24 09:11:21]sProject=[NCDC]
+[17-05-24 09:11:22]original key:[1111111133333333]
+[17-05-24 09:11:22]new key:[iHO3ikVV8qq37H0N]
+[17-05-24 09:11:28]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170524</reqdate><reqseq>22000524000000000033</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-24 09:11:28]aaz400[511302]
+[17-05-24 09:11:28]tradeId[NC39002]
+[17-05-24 09:11:28]inputXml[<inputxml reqseq="22000524000000000033" reqdate="20170524"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-24 09:11:35]err=[无法连接到远程服务器]
+[17-05-24 09:11:35]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-05-24 09:11:35]Disconnect from [10.52.4.134]
+[17-05-24 09:30:07]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-24 09:30:07]Connect with [10.52.4.134]......
+[17-05-24 09:30:07]报文长度:[000537]
+[17-05-24 09:30:07]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>410102197006170075</aac002>
+					<aac003>杨彬</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170524</reqdate>
+		<reqseq>22000524000000000035</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-24 09:30:07]sProject=[NCDC]
+[17-05-24 09:30:07]original key:[1111111133333333]
+[17-05-24 09:30:07]new key:[iHO3ikVV8qq37H0N]
+[17-05-24 09:30:07]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170524</reqdate><reqseq>22000524000000000035</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-24 09:30:07]aaz400[511302]
+[17-05-24 09:30:07]tradeId[NC39002]
+[17-05-24 09:30:07]inputXml[<inputxml reqseq="22000524000000000035" reqdate="20170524"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-24 09:30:09]加密inputXml[kMiC2rfPRYY3PJDaOisTwA7/MuUVdkkI346d8yDNBL1s12ci7Z9FVmh8HnokJlGNiLWXDlEwaM3G
+QPtmrxs5nAG7hvO5G0GhBwxBYI90do2um3PcKpDdSrgjV3mt/VOCnQ7eAIySVyTiF6eXOX5jhNzl
+Xui9IGR87IqFw9xZqvO3oqtfvDikZfpuk8IrV6vdnMN9yObGJQBn9VkMtZfwZtQqrLHyeKrwX4UA
+JK+KMWsXm0HNSWKJemuaKmK6sEmCWoB7d9sG/mnjlkcZf8h11DImw5ZHvBSz2WbipI8W+WI=]
+[17-05-24 09:30:10]err=[无法连接到远程服务器]
+[17-05-24 09:30:10]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-05-24 09:30:10]Disconnect from [10.52.4.134]
+[17-05-24 09:30:42]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-24 09:30:42]Connect with [10.52.4.134]......
+[17-05-24 09:30:42]报文长度:[000537]
+[17-05-24 09:30:42]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>410102197006170075</aac002>
+					<aac003>杨彬</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170524</reqdate>
+		<reqseq>22000524000000000036</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-24 09:30:42]sProject=[NCDC]
+[17-05-24 09:30:42]original key:[1111111133333333]
+[17-05-24 09:30:42]new key:[iHO3ikVV8qq37H0N]
+[17-05-24 09:30:42]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170524</reqdate><reqseq>22000524000000000036</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-24 09:30:42]aaz400[511302]
+[17-05-24 09:30:42]tradeId[NC39002]
+[17-05-24 09:30:42]inputXml[<inputxml reqseq="22000524000000000036" reqdate="20170524"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-24 09:30:42]加密inputXml[BeeBh4fzjP1cestrQsz+paGLl2+Klk69dkb4SGALczuZYtBFBtiO6IiJBPmJi5jebIP1tK5nUfyK
+NCkLIuuJY7+VKIPM07DYHia+ytXv3M/54C7lcxjnprRsrcIp0M6YN43JzL+BVTBxuA1NxmAe6fwz
+UZa1nOshK71GcJG0XY6NoPMQBL8plX15X0mObCSyyV+dpyvcopOdtQdbwshqy1SycAQ9YiIIPAJd
+YjVASrdkYhN9JDFhbkC2e4gWZGWJCkR0sCBa3Oghafm3+kE4gJrd+5Tz4VQppFark4WDWts=]
+[17-05-24 09:30:43]err=[无法连接到远程服务器]
+[17-05-24 09:30:43]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-05-24 09:30:43]Disconnect from [10.52.4.134]
+[17-05-24 09:58:44]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[17-05-24 09:58:44]Connect with [10.52.4.134]......
+[17-05-24 09:58:44]报文长度:[000537]
+[17-05-24 09:58:44]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2017</aae001>
+					<aae140>390</aae140>
+					<aac002>410102197006170075</aac002>
+					<aac003>杨彬</aac003>
+				</row>
+			</rows>
+			<aab004>南充</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>C1010351007641</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20170524</reqdate>
+		<reqseq>22000524000000000039</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[17-05-24 09:58:44]sProject=[NCDC]
+[17-05-24 09:58:44]original key:[1111111133333333]
+[17-05-24 09:58:44]new key:[iHO3ikVV8qq37H0N]
+[17-05-24 09:58:44]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml><reqdate>20170524</reqdate><reqseq>22000524000000000039</reqseq><tradeId>NC39002</tradeId><aaz400>511302</aaz400></Para01>]
+[17-05-24 09:58:44]aaz400[511302]
+[17-05-24 09:58:44]tradeId[NC39002]
+[17-05-24 09:58:44]inputXml[<inputxml reqseq="22000524000000000039" reqdate="20170524"><rows><row><aae100>0</aae100><aae001>2017</aae001><aae140>390</aae140><aac002>410102197006170075</aac002><aac003>杨彬</aac003></row></rows><aab004>南充</aab004><aae011>ikjf</aae011><aff002>C1010351007641</aff002><aaa027>511302</aaa027></inputxml>]
+[17-05-24 09:58:44]加密inputXml[BeeBh4fzjP1cestrQsz+pRAo90CLHJ8opg/0KXd9EzGZYtBFBtiO6IiJBPmJi5jebIP1tK5nUfyK
+NCkLIuuJY7+VKIPM07DYHia+ytXv3M/54C7lcxjnprRsrcIp0M6YN43JzL+BVTBxuA1NxmAe6dfg
+C4ORIUCKkhkgvzFdKicvZDPhYVLnpu2G9aAWlWiIevJ9B/xc2uObt6WDgGxglDMXdoKgQJLkjH1T
+Kejn/b1ARbjCPYn96Uq3aw+sNGc/i5462wMKUsHkNqYeMphIQJrd+5Tz4VQppFark4WDWts=]
+[17-05-24 09:58:45]err=[无法连接到远程服务器]
+[17-05-24 09:58:45]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[17-05-24 09:58:45]Disconnect from [10.52.4.134]

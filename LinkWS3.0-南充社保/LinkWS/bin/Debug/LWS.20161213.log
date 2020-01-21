@@ -1,0 +1,271 @@
+[16-12-13 16:02:21]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:02:21]Connect with [10.52.4.134]......
+[16-12-13 16:02:21]报文长度:[<ap>
+	]
+[16-12-13 16:02:22]Exception:[输入字符串的格式不正确。]
+[16-12-13 16:02:22]报文长度错误:[<ap>
+	]
+[16-12-13 16:02:22]应答报文:[000063<ap><RetCode>9981</RetCode><RetMsg>报文头解析错误</RetMsg></ap>]
+[16-12-13 16:02:22]Disconnect from [10.52.4.134]
+[16-12-13 16:13:19]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:13:19]Connect with [10.52.4.134]......
+[16-12-13 16:14:46]报文长度:[<ap>
+	]
+[16-12-13 16:14:46]Exception:[输入字符串的格式不正确。]
+[16-12-13 16:14:46]报文长度错误:[<ap>
+	]
+[16-12-13 16:14:46]应答报文:[000063<ap><RetCode>9981</RetCode><RetMsg>报文头解析错误</RetMsg></ap>]
+[16-12-13 16:14:46]Disconnect from [10.52.4.134]
+[16-12-13 16:19:35]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:19:35]Connect with [10.52.4.134]......
+[16-12-13 16:20:07]报文长度:[<ap>
+	]
+[16-12-13 16:20:07]Exception:[输入字符串的格式不正确。]
+[16-12-13 16:20:07]报文长度错误:[<ap>
+	]
+[16-12-13 16:20:07]应答报文:[000063<ap><RetCode>9981</RetCode><RetMsg>报文头解析错误</RetMsg></ap>]
+[16-12-13 16:20:07]Disconnect from [10.52.4.134]
+[16-12-13 16:24:02]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:24:02]Connect with [10.52.4.134]......
+[16-12-13 16:24:31]报文长度:[000430]
+[16-12-13 16:25:15]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>胡和中</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161213</reqdate>
+		<reqseq>22001213000000000389</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-13 16:25:15]sProject=[NCDC]
+[16-12-13 16:25:17]original key:[1111111133333333]
+[16-12-13 16:25:17]new key:[XdUJNSATtzQ5F95E]
+[16-12-13 16:25:17]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161213</reqdate><reqseq>22001213000000000389</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-13 16:25:17]aaz400[511300]
+[16-12-13 16:25:17]tradeId[NC39001]
+[16-12-13 16:25:17]inputXml[<inputxml reqseq="22001213000000000389" reqdate="20161213"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-13 16:25:17]加密inputXml[Z3M01TtF38J9dIu8cmXWIklPav4PwP48MhpY76Srd77pz33EKUMAMws7F30J2u3ypIHr3XDnor6B
+7Nf+t8Y0I+nbqwweTT5RUnvpJ9D7OBYi8RibVbp9B6+CBTF5/VUEG0/WvGKVbnj6Pf7qQxK/tODu
+SezJLrMFowciaK6vP5ooJLIOgJRFAUdhIgSar/3FE/FxMufnIBYQ/ep7nSQpeqEtPtSjm+VTcJIL
+gxqtf8M=]
+[16-12-13 16:25:18]社保返回报文加密recvXml[<result><code>-1</code><message>传入的社保经办机构代码aaz400:511300银行编号103有误,没有找到该代码所对应的信息</message></result>]
+[16-12-13 16:25:18]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-13 16:25:18]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-13 16:25:18]Disconnect from [10.52.4.134]
+[16-12-13 16:28:28]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:28:28]Connect with [10.52.4.134]......
+[16-12-13 16:30:26]报文长度:[000430]
+[16-12-13 16:31:08]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>胡和中</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161213</reqdate>
+		<reqseq>22001213000000000390</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-13 16:31:13]sProject=[NCDC]
+[16-12-13 16:31:15]original key:[1111111133333333]
+[16-12-13 16:31:15]new key:[XdUJNSATtzQ5F95E]
+[16-12-13 16:31:15]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161213</reqdate><reqseq>22001213000000000390</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-13 16:31:15]aaz400[511300]
+[16-12-13 16:31:15]tradeId[NC39001]
+[16-12-13 16:31:15]inputXml[<inputxml reqseq="22001213000000000390" reqdate="20161213"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-13 16:31:16]加密inputXml[/t6VpOfSEz/vhbAzoJZ7CRsnMYuboCrFPyuTuwWGf3sGpkp43+yi8L2L9KvcT3tp7Bn6Z+3Fx6FZ
+bTiXaFPZDwG9R++tKAQA9RzZilpPUPL1LXCy3u6IxM/STrzj2ozrlMFAXnLqretmRqHauNdKqzGs
+rHoKlt7wOT/wVOts9iK5M0vuXXk/doSfJnnv2LIfk49OrCtahMMRiXkW5Oa8c+qkFayPPN35OC2M
+rrFygYg=]
+[16-12-13 16:31:16]社保返回报文加密recvXml[<result><code>-1</code><message>传入的社保经办机构代码aaz400:511300银行编号103有误,没有找到该代码所对应的信息</message></result>]
+[16-12-13 16:31:16]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-13 16:31:16]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-13 16:31:16]Disconnect from [10.52.4.134]
+[16-12-13 16:31:32]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:31:32]Connect with [10.52.4.134]......
+[16-12-13 16:32:40]报文长度:[<ap>
+	]
+[16-12-13 16:32:40]Exception:[输入字符串的格式不正确。]
+[16-12-13 16:32:40]报文长度错误:[<ap>
+	]
+[16-12-13 16:32:40]应答报文:[000063<ap><RetCode>9981</RetCode><RetMsg>报文头解析错误</RetMsg></ap>]
+[16-12-13 16:32:40]Disconnect from [10.52.4.134]
+[16-12-13 16:36:57]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:36:57]Connect with [10.52.4.134]......
+[16-12-13 16:36:57]报文长度:[000543]
+[16-12-13 16:36:57]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<rows>
+				<row>
+					<aae100>0</aae100>
+					<aae001>2016</aae001>
+					<aae140>390</aae140>
+					<aac002>51132119750110247X</aac002>
+					<aac003>胡和中</aac003>
+				</row>
+			</rows>
+			<aab004>四川省南充市顺庆区</aab004>
+			<aae011>ikjf</aae011>
+			<aff002>4549</aff002>
+			<aaa027>511399</aaa027>
+		</inputxml>
+		<reqdate>20161213</reqdate>
+		<reqseq>22001213000000000394</reqseq>
+		<tradeId>NC39002</tradeId>
+		<aaz400>511399</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-13 16:36:57]sProject=[NCDC]
+[16-12-13 16:36:57]original key:[1111111133333333]
+[16-12-13 16:36:57]new key:[XdUJNSATtzQ5F95E]
+[16-12-13 16:36:57]XmlPara01[<Para01><inputxml><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003></row></rows><aab004>四川省南充市顺庆区</aab004><aae011>ikjf</aae011><aff002>4549</aff002><aaa027>511399</aaa027></inputxml><reqdate>20161213</reqdate><reqseq>22001213000000000394</reqseq><tradeId>NC39002</tradeId><aaz400>511399</aaz400></Para01>]
+[16-12-13 16:36:57]aaz400[511399]
+[16-12-13 16:36:57]tradeId[NC39002]
+[16-12-13 16:36:57]inputXml[<inputxml reqseq="22001213000000000394" reqdate="20161213"><rows><row><aae100>0</aae100><aae001>2016</aae001><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003></row></rows><aab004>四川省南充市顺庆区</aab004><aae011>ikjf</aae011><aff002>4549</aff002><aaa027>511399</aaa027></inputxml>]
+[16-12-13 16:36:57]加密inputXml[SE4oj12v14h1uiPzfVQHk8ziW9fREbgcddAochlMiw0Y0vPlmsHkjzBlk+WPW8xFQh/VDAhEzPo/
+sYGMBAgCOXJ+IhM6GhDUuj/SgsF18pe3aeO5IFDjqzS9xfkw87b6Q6b8DwzzigxvjLTjaDAEM7Kh
++ZMjeQJ0/bssI931SpJxE4+MXtpoLFuOEtu+lf69axmQolAjisx06J5mdpWxYYI9EEti2GvICNIR
+YPZI4Ys7+icveY+QF9Ali3GKomV7n/cd+gxguD/8ZFD/6qdmo9DDgxU0WHVy89At3cMLQgGJgx7/
+SzX0RjKBlx16WBh3]
+[16-12-13 16:36:57]社保返回报文加密recvXml[<result><code>-1</code><message>传入的社保经办机构代码aaz400:511399银行编号103有误,没有找到该代码所对应的信息</message></result>]
+[16-12-13 16:36:57]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-13 16:36:57]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-13 16:36:57]Disconnect from [10.52.4.134]
+[16-12-13 16:37:55]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:37:55]Connect with [10.52.4.134]......
+[16-12-13 16:37:55]报文长度:[000430]
+[16-12-13 16:37:55]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>胡和中</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161213</reqdate>
+		<reqseq>22001213000000000396</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-13 16:37:55]sProject=[NCDC]
+[16-12-13 16:37:55]original key:[1111111133333333]
+[16-12-13 16:37:55]new key:[XdUJNSATtzQ5F95E]
+[16-12-13 16:37:55]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161213</reqdate><reqseq>22001213000000000396</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-13 16:37:55]aaz400[511300]
+[16-12-13 16:37:55]tradeId[NC39001]
+[16-12-13 16:37:55]inputXml[<inputxml reqseq="22001213000000000396" reqdate="20161213"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-13 16:37:55]加密inputXml[v4Zu1/G9IrOUFJEWhmg01b1h/Bd6ZXJI8KHSj9kdxPDgcxSVzzDJ61xxLKizRHg8GM9DJ/FOJQvS
+tAxQkYitxXl7vOvcvixNsZcO16i/SDto9H1HzqIYHCU/JXLZrpjX7YW8XeNKu4Q9enlaeg5Fg/J5
+9WVoqBz24etIkINO0j3ni4jlxcoPyFa6syqh+c1Jo757gxinC2o7NsRiFU2OUzJan+a+ZsaUYMWL
+IWjC7RY=]
+[16-12-13 16:37:55]社保返回报文加密recvXml[<result><code>-1</code><message>传入的社保经办机构代码aaz400:511300银行编号103有误,没有找到该代码所对应的信息</message></result>]
+[16-12-13 16:37:55]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-13 16:37:55]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-13 16:37:55]Disconnect from [10.52.4.134]
+[16-12-13 16:38:32]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:38:32]Connect with [10.52.4.134]......
+[16-12-13 16:38:32]报文长度:[000430]
+[16-12-13 16:38:32]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>胡和中</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511300</aaa027>
+		</inputxml>
+		<reqdate>20161213</reqdate>
+		<reqseq>22001213000000000398</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511300</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-13 16:38:32]sProject=[NCDC]
+[16-12-13 16:38:32]original key:[1111111133333333]
+[16-12-13 16:38:32]new key:[XdUJNSATtzQ5F95E]
+[16-12-13 16:38:32]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml><reqdate>20161213</reqdate><reqseq>22001213000000000398</reqseq><tradeId>NC39001</tradeId><aaz400>511300</aaz400></Para01>]
+[16-12-13 16:38:32]aaz400[511300]
+[16-12-13 16:38:32]tradeId[NC39001]
+[16-12-13 16:38:32]inputXml[<inputxml reqseq="22001213000000000398" reqdate="20161213"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511300</aaa027></inputxml>]
+[16-12-13 16:38:32]加密inputXml[Z3M01TtF38J9dIu8cmXWIklPav4PwP48MhpY76Srd77pz33EKUMAMws7F30J2u3ypIHr3XDnor6B
+7Nf+t8Y0IzfLMPya5LvfSY1YTI3e0pAi8RibVbp9B6+CBTF5/VUEG0/WvGKVbnj6Pf7qQxK/tODu
+SezJLrMFowciaK6vP5ooJLIOgJRFAUdhIgSar/3FE/FxMufnIBYQ/ep7nSQpei80baVgfUYZD/Ss
+CbLJfNI=]
+[16-12-13 16:38:32]社保返回报文加密recvXml[<result><code>-1</code><message>传入的社保经办机构代码aaz400:511300银行编号103有误,没有找到该代码所对应的信息</message></result>]
+[16-12-13 16:38:32]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-13 16:38:32]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-13 16:38:32]Disconnect from [10.52.4.134]
+[16-12-13 16:40:38]线程池中新增新线程[10.52.4.134]当前可用线程数[999]......
+[16-12-13 16:40:38]Connect with [10.52.4.134]......
+[16-12-13 16:40:38]报文长度:[000430]
+[16-12-13 16:40:38]报文内容:[<ap>
+	<Para01>
+		<inputxml>
+			<aae042>2017</aae042>
+			<aae041>2017</aae041>
+			<aae140>390</aae140>
+			<aac002>51132119750110247X</aac002>
+			<aac003>胡和中</aac003>
+			<aff002>4549</aff002>
+			<aaa027>511302</aaa027>
+		</inputxml>
+		<reqdate>20161213</reqdate>
+		<reqseq>22001213000000000400</reqseq>
+		<tradeId>NC39001</tradeId>
+		<aaz400>511302</aaz400>
+	</Para01>
+	<FuncName>szCall</FuncName>
+	<Project>NCDC</Project>
+</ap>
+]
+[16-12-13 16:40:38]sProject=[NCDC]
+[16-12-13 16:40:38]original key:[1111111133333333]
+[16-12-13 16:40:38]new key:[XdUJNSATtzQ5F95E]
+[16-12-13 16:40:38]XmlPara01[<Para01><inputxml><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml><reqdate>20161213</reqdate><reqseq>22001213000000000400</reqseq><tradeId>NC39001</tradeId><aaz400>511302</aaz400></Para01>]
+[16-12-13 16:40:38]aaz400[511302]
+[16-12-13 16:40:38]tradeId[NC39001]
+[16-12-13 16:40:38]inputXml[<inputxml reqseq="22001213000000000400" reqdate="20161213"><aae042>2017</aae042><aae041>2017</aae041><aae140>390</aae140><aac002>51132119750110247X</aac002><aac003>胡和中</aac003><aff002>4549</aff002><aaa027>511302</aaa027></inputxml>]
+[16-12-13 16:40:38]加密inputXml[8fvy4rpDLodLz6XbQdoelftiFD5gyCogw86BLOQOxVZC2i4V162er5pEn5FSXUp6CZGXYMCWxuWl
+15gxKsBPbP/7iuLRCDbcEUUfMc+XQDzTa7/9ihaa+LvQar7/zXPhS5MuGFYPFHBgBGU3mmNbSIgZ
+Rn5kmsvy5aUYy8jfeKR6ZlXU75YgyMPhrNIyH1VuSNTvAuxBC/mmclzpYMVCaShW+KOQC5TL5xsP
+Oy1a6Ac=]
+[16-12-13 16:40:39]社保返回报文加密recvXml[<result><code>-1</code><message>传入的社保经办机构代码aaz400:511302银行编号103有误,没有找到该代码所对应的信息</message></result>]
+[16-12-13 16:40:39]err=[失败:Input length must be multiple of 16 when decrypting with padded cipher]
+[16-12-13 16:40:39]应答报文:[000087<ap><RetCode>0998</RetCode><RetMsg>web服务调用错误</RetMsg><RetInfo01></RetInfo01></ap>]
+[16-12-13 16:40:39]Disconnect from [10.52.4.134]
