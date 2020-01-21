@@ -236,16 +236,16 @@ namespace LinkWS.AllWebServiceFunc
                 //int entype = 2 | 4;//加密方式
 
                 //测试电子凭证
-                strRecvXml = "<result><message></message><code>1</code><output><aae009_sb/><aae013/><aac003>杜林</aac003><aae072>6466463</aae072><aaa121>01</aaa121><aae010_sb>1234567890000000001</aae010_sb><aaa027>511302</aaa027><aae008_sb>103</aae008_sb><aae019>5263.2</aae019><aac001>0003994991</aac001></output></result>";
-                Service_NCSB.WriteLog("测试报文:" + strRecvXml);
-                /*
+                //strRecvXml = "<result><message></message><code>1</code><output><aae009_sb/><aae013/><aac003>杜林</aac003><aae072>6466463</aae072><aaa121>01</aaa121><aae010_sb>1234567890000000001</aae010_sb><aaa027>511302</aaa027><aae008_sb>103</aae008_sb><aae019>5263.2</aae019><aac001>0003994991</aac001></output></result>";
+                //Service_NCSB.WriteLog("测试报文:" + strRecvXml);
+                
                 string inputXmlEncrypt = javaEncrypt.encrypt(inputXml, key, encryptKey);//报文内容
                 Service_NCSB.WriteLog("加密inputXml["+inputXmlEncrypt+"]");
                 string strTmpRecv = webNCDC.szCall(aaz400, tradeId, inputXmlEncrypt, encryptKey.ToString(), aae008);//得到社保原始报文
                 Service_NCSB.WriteLog("社保返回报文加密recvXml[" + strTmpRecv + "]");
                 strRecvXml = javaEncrypt.decrypt(strTmpRecv, key, encryptKey);
                 Service_NCSB.WriteLog("社保返回报文解密[" + strRecvXml + "]");
-                */
+                
             }
             catch(Exception err)
             {

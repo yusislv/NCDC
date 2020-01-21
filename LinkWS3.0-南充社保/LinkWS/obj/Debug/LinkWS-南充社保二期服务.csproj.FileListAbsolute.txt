@@ -14,3 +14,11 @@ D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-�
 D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csproj.GenerateResource.cache
 D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.exe
 D:\Users\lvcof\Documents\space\LinkWS3.0-南充社保(五险合一)\LinkWS3.0-南充社保\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.pdb
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe.config
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.exe
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\bin\Debug\LinkWS-南充社保二期服务.pdb
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csprojAssemblyReference.cache
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS.ProjectInstaller.resources
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.csproj.GenerateResource.cache
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.exe
+C:\GitSpace\NCDC\LinkWS3.0-南充社保\LinkWS\obj\Debug\LinkWS-南充社保二期服务.pdb
